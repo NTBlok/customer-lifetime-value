@@ -1,3 +1,4 @@
+customer_id,week_id,visit_id,isOrderType,amount
 59e1334b00e9,0,0,True,52.38
 59e1334b00e9,0,1,False,0.0
 59e1334b00e9,1,2,False,0.0

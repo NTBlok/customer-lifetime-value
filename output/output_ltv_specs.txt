@@ -1,3 +1,4 @@
+customer_id,week_id,visits_per_wk,amount_per_wk,amount_per_visit
 080a257c1f0e,0,2,0.0,0.0
 080a257c1f0e,1,2,0.0,0.0
 080a257c1f0e,2,4,186.69,46.6725

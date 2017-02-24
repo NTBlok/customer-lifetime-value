@@ -1,3 +1,4 @@
+customer_id,customer_ltv
 76183c3baa6c,2392.0
 b02ecfd0f18d,12370.800000000001
 d44b02622736,8281.0
