@@ -1,596 +1,556 @@
-{"last_name": "Hopkins", "event_time": "2017-02-16T15:35:25.398Z", "verb": "NEW", "key": "27c0ac99f3d5", "adr_state": "NM", "adr_city": "Clarkstad", "type": "CUSTOMER"}
-{"event_time": "2017-02-19T15:35:25.413Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "615624619603", "customer_id": "27c0ac99f3d5", "type": "SITE_VISIT"}
-{"camera_make": "Kodak", "event_time": "2017-02-19T15:35:25.447Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "60d375151383", "customer_id": "27c0ac99f3d5", "type": "IMAGE"}
-{"total_amount": "39.47 USD", "event_time": "2017-02-19T15:35:25.478Z", "verb": "NEW", "key": "18652c9e67fe", "customer_id": "27c0ac99f3d5", "type": "ORDER"}
-{"last_name": "Marshall", "event_time": "2017-02-19T15:35:25.496Z", "verb": "NEW", "key": "27c0ac99f3d5", "adr_state": "WV", "adr_city": "South Theresa", "type": "CUSTOMER"}
-{"event_time": "2017-02-10T15:35:25.517Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "07d45745fc12", "customer_id": "27c0ac99f3d5", "type": "SITE_VISIT"}
-{"camera_make": "Canon", "event_time": "2017-02-19T15:35:25.552Z", "camera_model": "EOS 80D", "verb": "UPLOAD", "key": "c55d73b0ad39", "customer_id": "27c0ac99f3d5", "type": "IMAGE"}
-{"total_amount": "50.91 USD", "event_time": "2017-02-18T15:35:25.585Z", "verb": "NEW", "key": "98cf3413db60", "customer_id": "27c0ac99f3d5", "type": "ORDER"}
-{"last_name": "Hardy", "event_time": "2017-02-11T15:35:25.616Z", "verb": "NEW", "key": "1aa7c178a222", "adr_state": "HI", "adr_city": "Williamside", "type": "CUSTOMER"}
-{"event_time": "2017-02-23T15:35:25.635Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "fe13c40d8792", "customer_id": "1aa7c178a222", "type": "SITE_VISIT"}
-{"camera_make": "Olympus", "event_time": "2017-02-18T15:35:25.676Z", "camera_model": "FE-45", "verb": "UPLOAD", "key": "d786b18dcf2b", "customer_id": "1aa7c178a222", "type": "IMAGE"}
-{"total_amount": "10.10 USD", "event_time": "2017-02-24T15:35:25.704Z", "verb": "NEW", "key": "940b13045392", "customer_id": "1aa7c178a222", "type": "ORDER"}
-{"last_name": "Silva", "event_time": "2017-02-21T15:35:25.721Z", "verb": "NEW", "key": "1aa7c178a222", "adr_state": "KY", "adr_city": "Anthonyburgh", "type": "CUSTOMER"}
-{"event_time": "2017-02-24T15:35:25.735Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "21535babb00a", "customer_id": "1aa7c178a222", "type": "SITE_VISIT"}
-{"camera_make": "Canon", "event_time": "2017-02-20T15:35:25.770Z", "camera_model": "EOS 80D", "verb": "UPLOAD", "key": "3d75bf250423", "customer_id": "1aa7c178a222", "type": "IMAGE"}
-{"total_amount": "3.26 USD", "event_time": "2017-02-21T15:35:25.802Z", "verb": "NEW", "key": "036ab92d9137", "customer_id": "1aa7c178a222", "type": "ORDER"}
-{"last_name": "Rice", "event_time": "2017-02-16T15:35:25.822Z", "verb": "NEW", "key": "1aa7c178a222", "adr_state": "AZ", "adr_city": "South Eric", "type": "CUSTOMER"}
-{"event_time": "2017-02-21T15:35:25.837Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "621e643b6b61", "customer_id": "1aa7c178a222", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-14T15:35:25.864Z", "camera_model": "X90", "verb": "UPLOAD", "key": "60ec1f2c799b", "customer_id": "1aa7c178a222", "type": "IMAGE"}
-{"total_amount": "89.62 USD", "event_time": "2017-02-20T15:35:25.895Z", "verb": "NEW", "key": "692b34504166", "customer_id": "1aa7c178a222", "type": "ORDER"}
-{"last_name": "Stevenson", "event_time": "2017-02-22T15:35:25.913Z", "verb": "NEW", "key": "1aa7c178a222", "adr_state": "TX", "adr_city": "South Kyle", "type": "CUSTOMER"}
-{"event_time": "2017-02-24T15:35:25.929Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "dead4c85168f", "customer_id": "1aa7c178a222", "type": "SITE_VISIT"}
-{"camera_make": "Fujifilm", "event_time": "2017-02-10T15:35:25.964Z", "camera_model": "FinePix A150", "verb": "UPLOAD", "key": "938d243fc796", "customer_id": "1aa7c178a222", "type": "IMAGE"}
-{"total_amount": "82.52 USD", "event_time": "2017-02-11T15:35:25.998Z", "verb": "NEW", "key": "44e059718b59", "customer_id": "1aa7c178a222", "type": "ORDER"}
-{"last_name": "Gross", "event_time": "2017-02-22T15:35:26.027Z", "verb": "NEW", "key": "18637e617a28", "adr_state": "ME", "adr_city": "New Austinview", "type": "CUSTOMER"}
-{"event_time": "2017-02-16T15:35:26.048Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "fd5729ac5c2d", "customer_id": "18637e617a28", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-22T15:35:26.077Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "49899c6d6b34", "customer_id": "18637e617a28", "type": "IMAGE"}
-{"total_amount": "64.18 USD", "event_time": "2017-02-24T15:35:26.114Z", "verb": "NEW", "key": "e8ead1065ff7", "customer_id": "18637e617a28", "type": "ORDER"}
-{"last_name": "Frazier", "event_time": "2017-02-15T15:35:26.130Z", "verb": "NEW", "key": "18637e617a28", "adr_state": "FM", "adr_city": "Davisburgh", "type": "CUSTOMER"}
-{"event_time": "2017-02-24T15:35:26.145Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "71966d551f25", "customer_id": "18637e617a28", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-11T15:35:26.175Z", "camera_model": "KP", "verb": "UPLOAD", "key": "63cb3638aee5", "customer_id": "18637e617a28", "type": "IMAGE"}
-{"total_amount": "39.07 USD", "event_time": "2017-02-19T15:35:26.202Z", "verb": "NEW", "key": "536d7754074b", "customer_id": "18637e617a28", "type": "ORDER"}
-{"last_name": "Gonzales", "event_time": "2017-02-24T15:35:26.218Z", "verb": "NEW", "key": "18637e617a28", "adr_state": "MO", "adr_city": "Bettymouth", "type": "CUSTOMER"}
-{"event_time": "2017-02-14T15:35:26.231Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "d886e7fd2254", "customer_id": "18637e617a28", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-17T15:35:26.258Z", "camera_model": "X90", "verb": "UPLOAD", "key": "2e274aef2aaf", "customer_id": "18637e617a28", "type": "IMAGE"}
-{"total_amount": "39.16 USD", "event_time": "2017-02-17T15:35:26.285Z", "verb": "NEW", "key": "fd101f7ad106", "customer_id": "18637e617a28", "type": "ORDER"}
-{"last_name": "Brown", "event_time": "2017-02-11T15:35:26.300Z", "verb": "NEW", "key": "18637e617a28", "adr_state": "SC", "adr_city": "West Jesse", "type": "CUSTOMER"}
-{"event_time": "2017-02-18T15:35:26.314Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "cb42ef45b3e6", "customer_id": "18637e617a28", "type": "SITE_VISIT"}
-{"camera_make": "Sony", "event_time": "2017-02-23T15:35:26.348Z", "camera_model": "Alpha QX1", "verb": "UPLOAD", "key": "ff83ea9262db", "customer_id": "18637e617a28", "type": "IMAGE"}
-{"total_amount": "5.47 USD", "event_time": "2017-02-23T15:35:26.377Z", "verb": "NEW", "key": "127b1a37cc21", "customer_id": "18637e617a28", "type": "ORDER"}
-{"last_name": "Glover", "event_time": "2017-02-10T15:35:26.406Z", "verb": "NEW", "key": "e34cb6f0d0d3", "adr_state": "TN", "adr_city": "East Justinside", "type": "CUSTOMER"}
-{"event_time": "2017-02-21T15:35:26.426Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "2783273dc982", "customer_id": "e34cb6f0d0d3", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-14T15:35:26.455Z", "camera_model": "D90", "verb": "UPLOAD", "key": "96994a1ebe58", "customer_id": "e34cb6f0d0d3", "type": "IMAGE"}
-{"total_amount": "25.94 USD", "event_time": "2017-02-21T15:35:26.489Z", "verb": "NEW", "key": "15639b758f44", "customer_id": "e34cb6f0d0d3", "type": "ORDER"}
-{"last_name": "Abbott", "event_time": "2017-02-22T15:35:26.510Z", "verb": "NEW", "key": "e34cb6f0d0d3", "adr_state": "NJ", "adr_city": "Lake Maryshire", "type": "CUSTOMER"}
-{"event_time": "2017-02-15T15:35:26.525Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "abff16d5755b", "customer_id": "e34cb6f0d0d3", "type": "SITE_VISIT"}
-{"camera_make": "Fujifilm", "event_time": "2017-02-10T15:35:26.557Z", "camera_model": "FinePix A150", "verb": "UPLOAD", "key": "51f2a411c903", "customer_id": "e34cb6f0d0d3", "type": "IMAGE"}
-{"total_amount": "50.46 USD", "event_time": "2017-02-18T15:35:26.598Z", "verb": "NEW", "key": "2697862e1a64", "customer_id": "e34cb6f0d0d3", "type": "ORDER"}
-{"last_name": "Vargas", "event_time": "2017-02-21T15:35:26.614Z", "verb": "NEW", "key": "e34cb6f0d0d3", "adr_state": "AS", "adr_city": "North Biancabury", "type": "CUSTOMER"}
-{"event_time": "2017-02-23T15:35:26.628Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "437c89b61eda", "customer_id": "e34cb6f0d0d3", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-19T15:35:26.661Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "2e8ae6d1320c", "customer_id": "e34cb6f0d0d3", "type": "IMAGE"}
-{"total_amount": "52.38 USD", "event_time": "2017-02-16T15:35:26.694Z", "verb": "NEW", "key": "0227ae4fcbd8", "customer_id": "e34cb6f0d0d3", "type": "ORDER"}
-{"last_name": "King", "event_time": "2017-02-11T15:35:26.717Z", "verb": "NEW", "key": "e34cb6f0d0d3", "adr_state": "TN", "adr_city": "Reyesberg", "type": "CUSTOMER"}
-{"event_time": "2017-02-12T15:35:26.739Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "49e0b46013bf", "customer_id": "e34cb6f0d0d3", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-12T15:35:26.768Z", "camera_model": "D90", "verb": "UPLOAD", "key": "e492b2209732", "customer_id": "e34cb6f0d0d3", "type": "IMAGE"}
-{"total_amount": "44.64 USD", "event_time": "2017-02-21T15:35:26.796Z", "verb": "NEW", "key": "29325d02fc0f", "customer_id": "e34cb6f0d0d3", "type": "ORDER"}
-{"last_name": "Jacobs", "event_time": "2017-02-22T15:35:26.814Z", "verb": "NEW", "key": "e34cb6f0d0d3", "adr_state": "AL", "adr_city": "Rogerhaven", "type": "CUSTOMER"}
-{"event_time": "2017-02-14T15:35:26.834Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "2bb82c2552d9", "customer_id": "e34cb6f0d0d3", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-16T15:35:26.867Z", "camera_model": "D90", "verb": "UPLOAD", "key": "dcb270b8d638", "customer_id": "e34cb6f0d0d3", "type": "IMAGE"}
-{"total_amount": "85.65 USD", "event_time": "2017-02-14T15:35:26.894Z", "verb": "NEW", "key": "2d4e645f285f", "customer_id": "e34cb6f0d0d3", "type": "ORDER"}
-{"last_name": "Jones", "event_time": "2017-02-18T15:35:26.929Z", "verb": "NEW", "key": "bc703ba3f32c", "adr_state": "WI", "adr_city": "Nathanville", "type": "CUSTOMER"}
-{"event_time": "2017-02-20T15:35:26.943Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "e73ab4378a1e", "customer_id": "bc703ba3f32c", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-13T15:35:26.983Z", "camera_model": "KP", "verb": "UPLOAD", "key": "bd450143a5e0", "customer_id": "bc703ba3f32c", "type": "IMAGE"}
-{"total_amount": "51.66 USD", "event_time": "2017-02-22T15:35:27.017Z", "verb": "NEW", "key": "ca84bdd7c26e", "customer_id": "bc703ba3f32c", "type": "ORDER"}
-{"last_name": "Brooks", "event_time": "2017-02-20T15:35:27.037Z", "verb": "NEW", "key": "bc703ba3f32c", "adr_state": "DE", "adr_city": "South Alexisville", "type": "CUSTOMER"}
-{"event_time": "2017-02-19T15:35:27.052Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "0d7c1a33c9d1", "customer_id": "bc703ba3f32c", "type": "SITE_VISIT"}
-{"camera_make": "Canon", "event_time": "2017-02-20T15:35:27.086Z", "camera_model": "EOS 6D", "verb": "UPLOAD", "key": "461b303242f6", "customer_id": "bc703ba3f32c", "type": "IMAGE"}
-{"total_amount": "42.10 USD", "event_time": "2017-02-10T15:35:27.115Z", "verb": "NEW", "key": "488b11062ea5", "customer_id": "bc703ba3f32c", "type": "ORDER"}
-{"last_name": "Goodwin", "event_time": "2017-02-21T15:35:27.150Z", "verb": "NEW", "key": "07a0406058b1", "adr_state": "MH", "adr_city": "West Michelestad", "type": "CUSTOMER"}
-{"event_time": "2017-02-19T15:35:27.164Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "d4d18d7fcc7f", "customer_id": "07a0406058b1", "type": "SITE_VISIT"}
-{"camera_make": "Fujifilm", "event_time": "2017-02-15T15:35:27.199Z", "camera_model": "FinePix A150", "verb": "UPLOAD", "key": "fbe0d2c68b4e", "customer_id": "07a0406058b1", "type": "IMAGE"}
-{"total_amount": "66.08 USD", "event_time": "2017-02-15T15:35:27.233Z", "verb": "NEW", "key": "df96f7076e98", "customer_id": "07a0406058b1", "type": "ORDER"}
-{"last_name": "Harrell", "event_time": "2017-02-14T15:35:27.249Z", "verb": "NEW", "key": "07a0406058b1", "adr_state": "NJ", "adr_city": "Martinside", "type": "CUSTOMER"}
-{"event_time": "2017-02-10T15:35:27.263Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "fade35c1a059", "customer_id": "07a0406058b1", "type": "SITE_VISIT"}
-{"camera_make": "Olympus", "event_time": "2017-02-20T15:35:27.300Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "492a64723831", "customer_id": "07a0406058b1", "type": "IMAGE"}
-{"total_amount": "63.54 USD", "event_time": "2017-02-15T15:35:27.327Z", "verb": "NEW", "key": "41855baff475", "customer_id": "07a0406058b1", "type": "ORDER"}
-{"last_name": "Burke", "event_time": "2017-02-10T15:35:27.342Z", "verb": "NEW", "key": "07a0406058b1", "adr_state": "NH", "adr_city": "Lake Ashleyfort", "type": "CUSTOMER"}
-{"event_time": "2017-02-23T15:35:27.355Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "826ab1ef8ff3", "customer_id": "07a0406058b1", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-22T15:35:27.388Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "973631019a6d", "customer_id": "07a0406058b1", "type": "IMAGE"}
-{"total_amount": "26.18 USD", "event_time": "2017-02-21T15:35:27.417Z", "verb": "NEW", "key": "851d42e90730", "customer_id": "07a0406058b1", "type": "ORDER"}
-{"last_name": "Coleman", "event_time": "2017-02-16T15:35:27.456Z", "verb": "NEW", "key": "1c52a3c85b43", "adr_state": "KS", "adr_city": "Leonardtown", "type": "CUSTOMER"}
-{"event_time": "2017-02-12T15:35:27.469Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "c71909150b30", "customer_id": "1c52a3c85b43", "type": "SITE_VISIT"}
-{"camera_make": "Canon", "event_time": "2017-02-13T15:35:27.497Z", "camera_model": "EOS 6D", "verb": "UPLOAD", "key": "e454b5fd5d24", "customer_id": "1c52a3c85b43", "type": "IMAGE"}
-{"total_amount": "59.41 USD", "event_time": "2017-02-12T15:35:27.528Z", "verb": "NEW", "key": "fb3870c18e17", "customer_id": "1c52a3c85b43", "type": "ORDER"}
-{"last_name": "Henderson", "event_time": "2017-02-21T15:35:27.546Z", "verb": "NEW", "key": "1c52a3c85b43", "adr_state": "MI", "adr_city": "Smithtown", "type": "CUSTOMER"}
-{"event_time": "2017-02-23T15:35:27.561Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "0ca2a85d9b82", "customer_id": "1c52a3c85b43", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-10T15:35:27.589Z", "camera_model": "KP", "verb": "UPLOAD", "key": "b4911ea0f10e", "customer_id": "1c52a3c85b43", "type": "IMAGE"}
-{"total_amount": "26.20 USD", "event_time": "2017-02-19T15:35:27.616Z", "verb": "NEW", "key": "c87220bdaa28", "customer_id": "1c52a3c85b43", "type": "ORDER"}
-{"last_name": "Morris", "event_time": "2017-02-24T15:35:27.645Z", "verb": "NEW", "key": "4ed32136f4c6", "adr_state": "PR", "adr_city": "Andersonfurt", "type": "CUSTOMER"}
-{"event_time": "2017-02-15T15:35:27.658Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "86ca129b15bb", "customer_id": "4ed32136f4c6", "type": "SITE_VISIT"}
-{"camera_make": "Kodak", "event_time": "2017-02-13T15:35:27.685Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "b634465d225a", "customer_id": "4ed32136f4c6", "type": "IMAGE"}
-{"total_amount": "52.90 USD", "event_time": "2017-02-13T15:35:27.718Z", "verb": "NEW", "key": "9419b0cf55d4", "customer_id": "4ed32136f4c6", "type": "ORDER"}
-{"last_name": "Spence", "event_time": "2017-02-19T15:35:27.746Z", "verb": "NEW", "key": "f39cdf39f047", "adr_state": "NY", "adr_city": "New Sheenafurt", "type": "CUSTOMER"}
-{"event_time": "2017-02-17T15:35:27.765Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "f71c7b6b039b", "customer_id": "f39cdf39f047", "type": "SITE_VISIT"}
-{"camera_make": "Kodak", "event_time": "2017-02-23T15:35:27.799Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "9dd9c7d87db3", "customer_id": "f39cdf39f047", "type": "IMAGE"}
-{"total_amount": "87.15 USD", "event_time": "2017-02-11T15:35:27.827Z", "verb": "NEW", "key": "1b99a01cc272", "customer_id": "f39cdf39f047", "type": "ORDER"}
-{"last_name": "Anderson", "event_time": "2017-02-16T15:35:27.842Z", "verb": "NEW", "key": "f39cdf39f047", "adr_state": "KS", "adr_city": "Jasonfurt", "type": "CUSTOMER"}
-{"event_time": "2017-02-11T15:35:27.856Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "818733e478e1", "customer_id": "f39cdf39f047", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-14T15:35:27.886Z", "camera_model": "D90", "verb": "UPLOAD", "key": "bcf41f108295", "customer_id": "f39cdf39f047", "type": "IMAGE"}
-{"total_amount": "2.44 USD", "event_time": "2017-02-20T15:35:27.914Z", "verb": "NEW", "key": "e53b1b844769", "customer_id": "f39cdf39f047", "type": "ORDER"}
-{"last_name": "Bartlett", "event_time": "2017-02-10T15:35:27.929Z", "verb": "NEW", "key": "f39cdf39f047", "adr_state": "NE", "adr_city": "Barnesmouth", "type": "CUSTOMER"}
-{"event_time": "2017-02-23T15:35:27.943Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "1bc2c842c90a", "customer_id": "f39cdf39f047", "type": "SITE_VISIT"}
-{"camera_make": "Fujifilm", "event_time": "2017-02-24T15:35:27.973Z", "camera_model": "X100F", "verb": "UPLOAD", "key": "71d0384e6acf", "customer_id": "f39cdf39f047", "type": "IMAGE"}
-{"total_amount": "68.64 USD", "event_time": "2017-02-19T15:35:28.005Z", "verb": "NEW", "key": "145c4be8d9ad", "customer_id": "f39cdf39f047", "type": "ORDER"}
-{"last_name": "Tate", "event_time": "2017-02-23T15:35:28.022Z", "verb": "NEW", "key": "f39cdf39f047", "adr_state": "AR", "adr_city": "Kingfort", "type": "CUSTOMER"}
-{"event_time": "2017-02-17T15:35:28.042Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "ad0746b5f2b6", "customer_id": "f39cdf39f047", "type": "SITE_VISIT"}
-{"camera_make": "Sony", "event_time": "2017-02-10T15:35:28.076Z", "camera_model": "Alpha QX1", "verb": "UPLOAD", "key": "6daae0165dc3", "customer_id": "f39cdf39f047", "type": "IMAGE"}
-{"total_amount": "26.12 USD", "event_time": "2017-02-23T15:35:28.106Z", "verb": "NEW", "key": "1cfb0e3abd22", "customer_id": "f39cdf39f047", "type": "ORDER"}
-{"last_name": "Riley", "event_time": "2017-02-17T15:35:28.140Z", "verb": "NEW", "key": "313c194a650d", "adr_state": "NE", "adr_city": "Jeremyshire", "type": "CUSTOMER"}
-{"event_time": "2017-02-22T15:35:28.159Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "65fb21ff2053", "customer_id": "313c194a650d", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-22T15:35:28.192Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "0378ba0fdfb4", "customer_id": "313c194a650d", "type": "IMAGE"}
-{"total_amount": "47.56 USD", "event_time": "2017-02-23T15:35:28.225Z", "verb": "NEW", "key": "33eae58652fe", "customer_id": "313c194a650d", "type": "ORDER"}
-{"last_name": "Cross", "event_time": "2017-02-20T15:35:28.240Z", "verb": "NEW", "key": "313c194a650d", "adr_state": "CO", "adr_city": "Rothfurt", "type": "CUSTOMER"}
-{"event_time": "2017-02-19T15:35:28.254Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "0341ae81737f", "customer_id": "313c194a650d", "type": "SITE_VISIT"}
-{"camera_make": "Canon", "event_time": "2017-02-16T15:35:28.284Z", "camera_model": "EOS 80D", "verb": "UPLOAD", "key": "8172388bc2fd", "customer_id": "313c194a650d", "type": "IMAGE"}
-{"total_amount": "9.22 USD", "event_time": "2017-02-14T15:35:28.315Z", "verb": "NEW", "key": "4eed3bc20da6", "customer_id": "313c194a650d", "type": "ORDER"}
-{"last_name": "Bailey", "event_time": "2017-02-11T15:35:28.331Z", "verb": "NEW", "key": "313c194a650d", "adr_state": "ME", "adr_city": "Wintersshire", "type": "CUSTOMER"}
-{"event_time": "2017-02-22T15:35:28.349Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "b9330e84fc9f", "customer_id": "313c194a650d", "type": "SITE_VISIT"}
-{"camera_make": "Canon", "event_time": "2017-02-15T15:35:28.383Z", "camera_model": "EOS 6D", "verb": "UPLOAD", "key": "32274817fa2b", "customer_id": "313c194a650d", "type": "IMAGE"}
-{"total_amount": "11.05 USD", "event_time": "2017-02-21T15:35:28.416Z", "verb": "NEW", "key": "3a772f2faa4e", "customer_id": "313c194a650d", "type": "ORDER"}
-{"last_name": "Kane", "event_time": "2017-02-10T15:35:28.435Z", "verb": "NEW", "key": "313c194a650d", "adr_state": "AZ", "adr_city": "New Philip", "type": "CUSTOMER"}
-{"event_time": "2017-02-13T15:35:28.454Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "2b5d3949509f", "customer_id": "313c194a650d", "type": "SITE_VISIT"}
-{"camera_make": "Canon", "event_time": "2017-02-13T15:35:28.489Z", "camera_model": "EOS 80D", "verb": "UPLOAD", "key": "7001d83085bc", "customer_id": "313c194a650d", "type": "IMAGE"}
-{"total_amount": "32.18 USD", "event_time": "2017-02-10T15:35:28.518Z", "verb": "NEW", "key": "8f2762947cff", "customer_id": "313c194a650d", "type": "ORDER"}
-{"last_name": "Meyer", "event_time": "2017-02-11T15:35:28.546Z", "verb": "NEW", "key": "313c194a650d", "adr_state": "SC", "adr_city": "South Cheryl", "type": "CUSTOMER"}
-{"event_time": "2017-02-18T15:35:28.563Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "e3d7dc4326e2", "customer_id": "313c194a650d", "type": "SITE_VISIT"}
-{"camera_make": "Sony", "event_time": "2017-02-17T15:35:28.596Z", "camera_model": "SLT-A33", "verb": "UPLOAD", "key": "1b2c36eabdf5", "customer_id": "313c194a650d", "type": "IMAGE"}
-{"total_amount": "21.03 USD", "event_time": "2017-02-21T15:35:28.635Z", "verb": "NEW", "key": "0c88614124cd", "customer_id": "313c194a650d", "type": "ORDER"}
-{"last_name": "Carpenter", "event_time": "2017-02-22T15:35:28.670Z", "verb": "NEW", "key": "8170dd0e081d", "adr_state": "VT", "adr_city": "South Colleen", "type": "CUSTOMER"}
-{"event_time": "2017-02-13T15:35:28.684Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "d4f596b9af49", "customer_id": "8170dd0e081d", "type": "SITE_VISIT"}
-{"camera_make": "Olympus", "event_time": "2017-02-15T15:35:28.716Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "bb1991333352", "customer_id": "8170dd0e081d", "type": "IMAGE"}
-{"total_amount": "53.03 USD", "event_time": "2017-02-14T15:35:28.751Z", "verb": "NEW", "key": "7a6ed85bc353", "customer_id": "8170dd0e081d", "type": "ORDER"}
-{"last_name": "Ward", "event_time": "2017-02-20T15:35:28.775Z", "verb": "NEW", "key": "8170dd0e081d", "adr_state": "SC", "adr_city": "Karenburgh", "type": "CUSTOMER"}
-{"event_time": "2017-02-18T15:35:28.789Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "346ce2bc3e85", "customer_id": "8170dd0e081d", "type": "SITE_VISIT"}
-{"camera_make": "Fujifilm", "event_time": "2017-02-23T15:35:28.829Z", "camera_model": "X100F", "verb": "UPLOAD", "key": "e071bfa38d62", "customer_id": "8170dd0e081d", "type": "IMAGE"}
-{"total_amount": "10.10 USD", "event_time": "2017-02-22T15:35:28.858Z", "verb": "NEW", "key": "fc48b5d88dfa", "customer_id": "8170dd0e081d", "type": "ORDER"}
-{"last_name": "Stewart", "event_time": "2017-02-17T15:35:28.874Z", "verb": "NEW", "key": "8170dd0e081d", "adr_state": "AS", "adr_city": "Michaelberg", "type": "CUSTOMER"}
-{"event_time": "2017-02-20T15:35:28.888Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "17b2480c207b", "customer_id": "8170dd0e081d", "type": "SITE_VISIT"}
-{"camera_make": "Fujifilm", "event_time": "2017-02-23T15:35:28.923Z", "camera_model": "X100F", "verb": "UPLOAD", "key": "b64dee20ed35", "customer_id": "8170dd0e081d", "type": "IMAGE"}
-{"total_amount": "47.05 USD", "event_time": "2017-02-16T15:35:28.956Z", "verb": "NEW", "key": "c314ab6df939", "customer_id": "8170dd0e081d", "type": "ORDER"}
-{"last_name": "Choi", "event_time": "2017-02-20T15:35:28.973Z", "verb": "NEW", "key": "8170dd0e081d", "adr_state": "AS", "adr_city": "North Robin", "type": "CUSTOMER"}
-{"event_time": "2017-02-12T15:35:28.989Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "eb8ca3827dcb", "customer_id": "8170dd0e081d", "type": "SITE_VISIT"}
-{"camera_make": "Fujifilm", "event_time": "2017-02-14T15:35:29.017Z", "camera_model": "FinePix A150", "verb": "UPLOAD", "key": "baa688cc62f3", "customer_id": "8170dd0e081d", "type": "IMAGE"}
-{"total_amount": "84.46 USD", "event_time": "2017-02-22T15:35:29.051Z", "verb": "NEW", "key": "f96ef84391b7", "customer_id": "8170dd0e081d", "type": "ORDER"}
-{"last_name": "Fuller", "event_time": "2017-02-12T15:35:29.067Z", "verb": "NEW", "key": "8170dd0e081d", "adr_state": "NE", "adr_city": "Deanview", "type": "CUSTOMER"}
-{"event_time": "2017-02-14T15:35:29.081Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "c74052d038c1", "customer_id": "8170dd0e081d", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-10T15:35:29.115Z", "camera_model": "KP", "verb": "UPLOAD", "key": "784a8103148e", "customer_id": "8170dd0e081d", "type": "IMAGE"}
-{"total_amount": "33.90 USD", "event_time": "2017-02-16T15:35:29.152Z", "verb": "NEW", "key": "e2b1fdddca51", "customer_id": "8170dd0e081d", "type": "ORDER"}
-{"last_name": "Walker", "event_time": "2017-02-22T15:35:29.195Z", "verb": "NEW", "key": "0445f6786432", "adr_state": "MD", "adr_city": "Lake Ashley", "type": "CUSTOMER"}
-{"event_time": "2017-02-18T15:35:29.209Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "b1f5491427b5", "customer_id": "0445f6786432", "type": "SITE_VISIT"}
-{"camera_make": "Olympus", "event_time": "2017-02-15T15:35:29.236Z", "camera_model": "FE-45", "verb": "UPLOAD", "key": "ccfddec891df", "customer_id": "0445f6786432", "type": "IMAGE"}
-{"total_amount": "5.34 USD", "event_time": "2017-02-24T15:35:29.270Z", "verb": "NEW", "key": "df279e74239e", "customer_id": "0445f6786432", "type": "ORDER"}
-{"last_name": "Taylor", "event_time": "2017-02-13T15:35:29.295Z", "verb": "NEW", "key": "0445f6786432", "adr_state": "OR", "adr_city": "Port Williamside", "type": "CUSTOMER"}
-{"event_time": "2017-02-21T15:35:29.312Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "e9081181db13", "customer_id": "0445f6786432", "type": "SITE_VISIT"}
-{"camera_make": "Olympus", "event_time": "2017-02-18T15:35:29.350Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "7c9f73587af5", "customer_id": "0445f6786432", "type": "IMAGE"}
-{"total_amount": "96.53 USD", "event_time": "2017-02-12T15:35:29.379Z", "verb": "NEW", "key": "dd6f11f85b9f", "customer_id": "0445f6786432", "type": "ORDER"}
-{"last_name": "Golden", "event_time": "2017-02-24T15:35:29.409Z", "verb": "NEW", "key": "eada496ee36f", "adr_state": "AR", "adr_city": "Thomasside", "type": "CUSTOMER"}
-{"event_time": "2017-02-23T15:35:29.428Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "70e516eaabed", "customer_id": "eada496ee36f", "type": "SITE_VISIT"}
-{"camera_make": "Sony", "event_time": "2017-02-20T15:35:29.457Z", "camera_model": "SLT-A33", "verb": "UPLOAD", "key": "40415c55b714", "customer_id": "eada496ee36f", "type": "IMAGE"}
-{"total_amount": "25.45 USD", "event_time": "2017-02-10T15:35:29.486Z", "verb": "NEW", "key": "921031dde1a2", "customer_id": "eada496ee36f", "type": "ORDER"}
-{"last_name": "Ortiz", "event_time": "2017-02-19T15:35:29.508Z", "verb": "NEW", "key": "eada496ee36f", "adr_state": "WI", "adr_city": "Matthewport", "type": "CUSTOMER"}
-{"event_time": "2017-02-12T15:35:29.522Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "05d27b969f17", "customer_id": "eada496ee36f", "type": "SITE_VISIT"}
-{"camera_make": "Olympus", "event_time": "2017-02-18T15:35:29.550Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "c5a5b11f8514", "customer_id": "eada496ee36f", "type": "IMAGE"}
-{"total_amount": "7.67 USD", "event_time": "2017-02-22T15:35:29.582Z", "verb": "NEW", "key": "df2774a88a7b", "customer_id": "eada496ee36f", "type": "ORDER"}
-{"last_name": "Anderson", "event_time": "2017-02-20T15:35:29.612Z", "verb": "NEW", "key": "1e616d38cd5a", "adr_state": "AS", "adr_city": "Benjaminborough", "type": "CUSTOMER"}
-{"event_time": "2017-02-11T15:35:29.626Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "21c22c4ed8c3", "customer_id": "1e616d38cd5a", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-13T15:35:29.653Z", "camera_model": "D90", "verb": "UPLOAD", "key": "df5076f02d48", "customer_id": "1e616d38cd5a", "type": "IMAGE"}
-{"total_amount": "51.01 USD", "event_time": "2017-02-11T15:35:29.685Z", "verb": "NEW", "key": "d7b3b55f94e9", "customer_id": "1e616d38cd5a", "type": "ORDER"}
-{"last_name": "Foster", "event_time": "2017-02-16T15:35:29.723Z", "verb": "NEW", "key": "e25cb9ca3b28", "adr_state": "PA", "adr_city": "Lake Shawnfurt", "type": "CUSTOMER"}
-{"event_time": "2017-02-10T15:35:29.742Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "ced18dd9b30d", "customer_id": "e25cb9ca3b28", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-18T15:35:29.780Z", "camera_model": "KP", "verb": "UPLOAD", "key": "0154006da6c0", "customer_id": "e25cb9ca3b28", "type": "IMAGE"}
-{"total_amount": "45.13 USD", "event_time": "2017-02-13T15:35:29.812Z", "verb": "NEW", "key": "06c8834953c9", "customer_id": "e25cb9ca3b28", "type": "ORDER"}
-{"last_name": "Hall", "event_time": "2017-02-24T15:35:29.833Z", "verb": "NEW", "key": "e25cb9ca3b28", "adr_state": "MN", "adr_city": "Susanborough", "type": "CUSTOMER"}
-{"event_time": "2017-02-24T15:35:29.847Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "c7fc4c8ff06a", "customer_id": "e25cb9ca3b28", "type": "SITE_VISIT"}
-{"camera_make": "Canon", "event_time": "2017-02-13T15:35:29.886Z", "camera_model": "EOS 6D", "verb": "UPLOAD", "key": "e000fa8ba4fc", "customer_id": "e25cb9ca3b28", "type": "IMAGE"}
-{"total_amount": "97.59 USD", "event_time": "2017-02-10T15:35:29.915Z", "verb": "NEW", "key": "4e7e37c3a028", "customer_id": "e25cb9ca3b28", "type": "ORDER"}
-{"last_name": "Pham", "event_time": "2017-02-11T15:35:29.944Z", "verb": "NEW", "key": "098269a80c96", "adr_state": "VA", "adr_city": "Lake Veronicaburgh", "type": "CUSTOMER"}
-{"event_time": "2017-02-19T15:35:29.958Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "aa67f3a086f7", "customer_id": "098269a80c96", "type": "SITE_VISIT"}
-{"camera_make": "Sony", "event_time": "2017-02-11T15:35:29.986Z", "camera_model": "SLT-A33", "verb": "UPLOAD", "key": "136687e5c40b", "customer_id": "098269a80c96", "type": "IMAGE"}
-{"total_amount": "57.27 USD", "event_time": "2017-02-20T15:35:30.020Z", "verb": "NEW", "key": "7399ee832875", "customer_id": "098269a80c96", "type": "ORDER"}
-{"last_name": "Mcclure", "event_time": "2017-02-12T15:35:30.049Z", "verb": "NEW", "key": "fd0850b72dc6", "adr_state": "DC", "adr_city": "Johnsonfort", "type": "CUSTOMER"}
-{"event_time": "2017-02-21T15:35:30.063Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "47f56303cc29", "customer_id": "fd0850b72dc6", "type": "SITE_VISIT"}
-{"camera_make": "Fujifilm", "event_time": "2017-02-24T15:35:30.101Z", "camera_model": "X100F", "verb": "UPLOAD", "key": "c25153102af5", "customer_id": "fd0850b72dc6", "type": "IMAGE"}
-{"total_amount": "13.31 USD", "event_time": "2017-02-22T15:35:30.132Z", "verb": "NEW", "key": "13667f845da1", "customer_id": "fd0850b72dc6", "type": "ORDER"}
-{"last_name": "Campbell", "event_time": "2017-02-20T15:35:30.154Z", "verb": "NEW", "key": "fd0850b72dc6", "adr_state": "DC", "adr_city": "Martinezborough", "type": "CUSTOMER"}
-{"event_time": "2017-02-22T15:35:30.173Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "834eb10986f8", "customer_id": "fd0850b72dc6", "type": "SITE_VISIT"}
-{"camera_make": "Canon", "event_time": "2017-02-13T15:35:30.204Z", "camera_model": "EOS 80D", "verb": "UPLOAD", "key": "cceb02db903c", "customer_id": "fd0850b72dc6", "type": "IMAGE"}
-{"total_amount": "28.71 USD", "event_time": "2017-02-21T15:35:30.235Z", "verb": "NEW", "key": "c4ff4131da5c", "customer_id": "fd0850b72dc6", "type": "ORDER"}
-{"last_name": "Kemp", "event_time": "2017-02-18T15:35:30.250Z", "verb": "NEW", "key": "fd0850b72dc6", "adr_state": "OK", "adr_city": "East Melissashire", "type": "CUSTOMER"}
-{"event_time": "2017-02-20T15:35:30.265Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "4b2422fde9ae", "customer_id": "fd0850b72dc6", "type": "SITE_VISIT"}
-{"camera_make": "Fujifilm", "event_time": "2017-02-23T15:35:30.294Z", "camera_model": "X100F", "verb": "UPLOAD", "key": "40c89a9af305", "customer_id": "fd0850b72dc6", "type": "IMAGE"}
-{"total_amount": "56.01 USD", "event_time": "2017-02-16T15:35:30.323Z", "verb": "NEW", "key": "b1b4251a1cea", "customer_id": "fd0850b72dc6", "type": "ORDER"}
-{"last_name": "Turner", "event_time": "2017-02-16T15:35:30.339Z", "verb": "NEW", "key": "fd0850b72dc6", "adr_state": "VI", "adr_city": "New Dawn", "type": "CUSTOMER"}
-{"event_time": "2017-02-21T15:35:30.355Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "1a4de5bed6cd", "customer_id": "fd0850b72dc6", "type": "SITE_VISIT"}
-{"camera_make": "Canon", "event_time": "2017-02-16T15:35:30.383Z", "camera_model": "EOS 80D", "verb": "UPLOAD", "key": "c413d657b3cb", "customer_id": "fd0850b72dc6", "type": "IMAGE"}
-{"total_amount": "31.26 USD", "event_time": "2017-02-13T15:35:30.410Z", "verb": "NEW", "key": "87d85a79bddb", "customer_id": "fd0850b72dc6", "type": "ORDER"}
-{"last_name": "Russell", "event_time": "2017-02-14T15:35:30.441Z", "verb": "NEW", "key": "4951a02b3b58", "adr_state": "DC", "adr_city": "West Zacharyville", "type": "CUSTOMER"}
-{"event_time": "2017-02-24T15:35:30.455Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "d1035088b7bf", "customer_id": "4951a02b3b58", "type": "SITE_VISIT"}
-{"camera_make": "Olympus", "event_time": "2017-02-21T15:35:30.489Z", "camera_model": "FE-45", "verb": "UPLOAD", "key": "dff65d273443", "customer_id": "4951a02b3b58", "type": "IMAGE"}
-{"total_amount": "97.48 USD", "event_time": "2017-02-12T15:35:30.518Z", "verb": "NEW", "key": "3c3a081d922e", "customer_id": "4951a02b3b58", "type": "ORDER"}
-{"last_name": "Hale", "event_time": "2017-02-15T15:35:30.550Z", "verb": "NEW", "key": "79f70dfe71c8", "adr_state": "VI", "adr_city": "Lake Jessicafurt", "type": "CUSTOMER"}
-{"event_time": "2017-02-24T15:35:30.570Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "be50a2a67307", "customer_id": "79f70dfe71c8", "type": "SITE_VISIT"}
-{"camera_make": "Fujifilm", "event_time": "2017-02-22T15:35:30.608Z", "camera_model": "X100F", "verb": "UPLOAD", "key": "7d8053e7dab9", "customer_id": "79f70dfe71c8", "type": "IMAGE"}
-{"total_amount": "8.96 USD", "event_time": "2017-02-12T15:35:30.642Z", "verb": "NEW", "key": "15b6efaa98da", "customer_id": "79f70dfe71c8", "type": "ORDER"}
-{"last_name": "Rios", "event_time": "2017-02-15T15:35:30.657Z", "verb": "NEW", "key": "79f70dfe71c8", "adr_state": "MH", "adr_city": "Lake Amanda", "type": "CUSTOMER"}
-{"event_time": "2017-02-16T15:35:30.670Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "11fb6f431747", "customer_id": "79f70dfe71c8", "type": "SITE_VISIT"}
-{"camera_make": "Sony", "event_time": "2017-02-20T15:35:30.697Z", "camera_model": "Alpha QX1", "verb": "UPLOAD", "key": "c077fb288a03", "customer_id": "79f70dfe71c8", "type": "IMAGE"}
-{"total_amount": "94.87 USD", "event_time": "2017-02-21T15:35:30.729Z", "verb": "NEW", "key": "fc7ddcadc8b3", "customer_id": "79f70dfe71c8", "type": "ORDER"}
-{"last_name": "Contreras", "event_time": "2017-02-18T15:35:30.744Z", "verb": "NEW", "key": "79f70dfe71c8", "adr_state": "KY", "adr_city": "Ronaldside", "type": "CUSTOMER"}
-{"event_time": "2017-02-17T15:35:30.758Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "3a582b1691ad", "customer_id": "79f70dfe71c8", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-16T15:35:30.785Z", "camera_model": "D90", "verb": "UPLOAD", "key": "467748cb4b2e", "customer_id": "79f70dfe71c8", "type": "IMAGE"}
-{"total_amount": "11.52 USD", "event_time": "2017-02-19T15:35:30.812Z", "verb": "NEW", "key": "49da4574d189", "customer_id": "79f70dfe71c8", "type": "ORDER"}
-{"last_name": "Wang", "event_time": "2017-02-19T15:35:30.841Z", "verb": "NEW", "key": "70f86528467c", "adr_state": "SC", "adr_city": "Lake Jack", "type": "CUSTOMER"}
-{"event_time": "2017-02-10T15:35:30.855Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "792c2d06efbc", "customer_id": "70f86528467c", "type": "SITE_VISIT"}
-{"camera_make": "Sony", "event_time": "2017-02-21T15:35:30.888Z", "camera_model": "SLT-A33", "verb": "UPLOAD", "key": "7636b5e4edf7", "customer_id": "70f86528467c", "type": "IMAGE"}
-{"total_amount": "71.30 USD", "event_time": "2017-02-15T15:35:30.915Z", "verb": "NEW", "key": "616fe418d2a1", "customer_id": "70f86528467c", "type": "ORDER"}
-{"last_name": "Buchanan", "event_time": "2017-02-21T15:35:30.931Z", "verb": "NEW", "key": "70f86528467c", "adr_state": "PW", "adr_city": "Johnsonberg", "type": "CUSTOMER"}
-{"event_time": "2017-02-24T15:35:30.944Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "00b8be07518e", "customer_id": "70f86528467c", "type": "SITE_VISIT"}
-{"camera_make": "Fujifilm", "event_time": "2017-02-21T15:35:30.971Z", "camera_model": "FinePix A150", "verb": "UPLOAD", "key": "fe7c361c6885", "customer_id": "70f86528467c", "type": "IMAGE"}
-{"total_amount": "60.12 USD", "event_time": "2017-02-16T15:35:31.000Z", "verb": "NEW", "key": "50045102a21c", "customer_id": "70f86528467c", "type": "ORDER"}
-{"last_name": "Peterson", "event_time": "2017-02-22T15:35:31.043Z", "verb": "NEW", "key": "2cb50a454d25", "adr_state": "SD", "adr_city": "Fowlerborough", "type": "CUSTOMER"}
-{"event_time": "2017-02-17T15:35:31.060Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "a6e0642cc7bf", "customer_id": "2cb50a454d25", "type": "SITE_VISIT"}
-{"camera_make": "Sony", "event_time": "2017-02-13T15:35:31.091Z", "camera_model": "SLT-A33", "verb": "UPLOAD", "key": "c4174e2c0104", "customer_id": "2cb50a454d25", "type": "IMAGE"}
-{"total_amount": "91.64 USD", "event_time": "2017-02-13T15:35:31.125Z", "verb": "NEW", "key": "39c1849d24a2", "customer_id": "2cb50a454d25", "type": "ORDER"}
-{"last_name": "Rhodes", "event_time": "2017-02-18T15:35:31.160Z", "verb": "NEW", "key": "cf2648d8ddba", "adr_state": "NY", "adr_city": "Reyesmouth", "type": "CUSTOMER"}
-{"event_time": "2017-02-18T15:35:31.173Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "f5bdb1128959", "customer_id": "cf2648d8ddba", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-20T15:35:31.206Z", "camera_model": "KP", "verb": "UPLOAD", "key": "e96dd548a083", "customer_id": "cf2648d8ddba", "type": "IMAGE"}
-{"total_amount": "55.54 USD", "event_time": "2017-02-24T15:35:31.236Z", "verb": "NEW", "key": "dbffa219b772", "customer_id": "cf2648d8ddba", "type": "ORDER"}
-{"last_name": "Williams", "event_time": "2017-02-24T15:35:31.254Z", "verb": "NEW", "key": "cf2648d8ddba", "adr_state": "NM", "adr_city": "Wrightberg", "type": "CUSTOMER"}
-{"event_time": "2017-02-17T15:35:31.269Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "9825dc817402", "customer_id": "cf2648d8ddba", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-17T15:35:31.302Z", "camera_model": "D90", "verb": "UPLOAD", "key": "5a29e99344af", "customer_id": "cf2648d8ddba", "type": "IMAGE"}
-{"total_amount": "87.63 USD", "event_time": "2017-02-11T15:35:31.335Z", "verb": "NEW", "key": "5a18c8fbb4b2", "customer_id": "cf2648d8ddba", "type": "ORDER"}
-{"last_name": "Parker", "event_time": "2017-02-23T15:35:31.366Z", "verb": "NEW", "key": "5c3274cfd1e7", "adr_state": "RI", "adr_city": "East Stacey", "type": "CUSTOMER"}
-{"event_time": "2017-02-12T15:35:31.381Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "445ebaeba055", "customer_id": "5c3274cfd1e7", "type": "SITE_VISIT"}
-{"camera_make": "Kodak", "event_time": "2017-02-12T15:35:31.414Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "a33b05d86827", "customer_id": "5c3274cfd1e7", "type": "IMAGE"}
-{"total_amount": "68.10 USD", "event_time": "2017-02-22T15:35:31.447Z", "verb": "NEW", "key": "0e71e091eceb", "customer_id": "5c3274cfd1e7", "type": "ORDER"}
-{"last_name": "Carroll", "event_time": "2017-02-12T15:35:31.482Z", "verb": "NEW", "key": "387b819be1dc", "adr_state": "NY", "adr_city": "Ruthbury", "type": "CUSTOMER"}
-{"event_time": "2017-02-18T15:35:31.501Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "ef43a1485966", "customer_id": "387b819be1dc", "type": "SITE_VISIT"}
-{"camera_make": "Kodak", "event_time": "2017-02-11T15:35:31.532Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "7336dd7ac047", "customer_id": "387b819be1dc", "type": "IMAGE"}
-{"total_amount": "34.17 USD", "event_time": "2017-02-22T15:35:31.564Z", "verb": "NEW", "key": "3e680c630e44", "customer_id": "387b819be1dc", "type": "ORDER"}
-{"last_name": "Brock", "event_time": "2017-02-20T15:35:31.585Z", "verb": "NEW", "key": "387b819be1dc", "adr_state": "KY", "adr_city": "Russellburgh", "type": "CUSTOMER"}
-{"event_time": "2017-02-22T15:35:31.602Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "e25e521b151b", "customer_id": "387b819be1dc", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-12T15:35:31.631Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "4284574141d2", "customer_id": "387b819be1dc", "type": "IMAGE"}
-{"total_amount": "26.61 USD", "event_time": "2017-02-22T15:35:31.664Z", "verb": "NEW", "key": "1b8352b69c9c", "customer_id": "387b819be1dc", "type": "ORDER"}
-{"last_name": "Armstrong", "event_time": "2017-02-24T15:35:31.682Z", "verb": "NEW", "key": "387b819be1dc", "adr_state": "PR", "adr_city": "New Jasonport", "type": "CUSTOMER"}
-{"event_time": "2017-02-17T15:35:31.696Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "b392c958a853", "customer_id": "387b819be1dc", "type": "SITE_VISIT"}
-{"camera_make": "Olympus", "event_time": "2017-02-14T15:35:31.728Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "3fc647b54cbc", "customer_id": "387b819be1dc", "type": "IMAGE"}
-{"total_amount": "26.72 USD", "event_time": "2017-02-21T15:35:31.761Z", "verb": "NEW", "key": "0a6b2ebc1d55", "customer_id": "387b819be1dc", "type": "ORDER"}
-{"last_name": "Harris", "event_time": "2017-02-22T15:35:31.782Z", "verb": "NEW", "key": "387b819be1dc", "adr_state": "ME", "adr_city": "Stephaniehaven", "type": "CUSTOMER"}
-{"event_time": "2017-02-14T15:35:31.799Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "65558876578f", "customer_id": "387b819be1dc", "type": "SITE_VISIT"}
-{"camera_make": "Canon", "event_time": "2017-02-14T15:35:31.833Z", "camera_model": "EOS 80D", "verb": "UPLOAD", "key": "fdd1e0adf820", "customer_id": "387b819be1dc", "type": "IMAGE"}
-{"total_amount": "14.02 USD", "event_time": "2017-02-12T15:35:31.867Z", "verb": "NEW", "key": "24556bf7e7be", "customer_id": "387b819be1dc", "type": "ORDER"}
-{"last_name": "Riley", "event_time": "2017-02-15T15:35:31.884Z", "verb": "NEW", "key": "387b819be1dc", "adr_state": "NY", "adr_city": "North Michaelshire", "type": "CUSTOMER"}
-{"event_time": "2017-02-18T15:35:31.901Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "fe5363c36d39", "customer_id": "387b819be1dc", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-18T15:35:31.931Z", "camera_model": "X90", "verb": "UPLOAD", "key": "0c7849356349", "customer_id": "387b819be1dc", "type": "IMAGE"}
-{"total_amount": "55.69 USD", "event_time": "2017-02-18T15:35:31.965Z", "verb": "NEW", "key": "3c192919860f", "customer_id": "387b819be1dc", "type": "ORDER"}
-{"last_name": "Mckinney", "event_time": "2017-02-21T15:35:31.998Z", "verb": "NEW", "key": "6b4f5a635cc0", "adr_state": "VI", "adr_city": "Nguyenchester", "type": "CUSTOMER"}
-{"event_time": "2017-02-14T15:35:32.012Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "f1c7d348a26f", "customer_id": "6b4f5a635cc0", "type": "SITE_VISIT"}
-{"camera_make": "Fujifilm", "event_time": "2017-02-21T15:35:32.045Z", "camera_model": "FinePix A150", "verb": "UPLOAD", "key": "44e41c8c0fd7", "customer_id": "6b4f5a635cc0", "type": "IMAGE"}
-{"total_amount": "78.60 USD", "event_time": "2017-02-18T15:35:32.073Z", "verb": "NEW", "key": "964d297f0b9a", "customer_id": "6b4f5a635cc0", "type": "ORDER"}
-{"last_name": "Griffin", "event_time": "2017-02-12T15:35:32.110Z", "verb": "NEW", "key": "413f31b59cf7", "adr_state": "IL", "adr_city": "Myersberg", "type": "CUSTOMER"}
-{"event_time": "2017-02-21T15:35:32.124Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "e115d8caf67e", "customer_id": "413f31b59cf7", "type": "SITE_VISIT"}
-{"camera_make": "Kodak", "event_time": "2017-02-24T15:35:32.154Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "7c6a04ec4b90", "customer_id": "413f31b59cf7", "type": "IMAGE"}
-{"total_amount": "38.07 USD", "event_time": "2017-02-10T15:35:32.190Z", "verb": "NEW", "key": "1b55dac1e7b5", "customer_id": "413f31b59cf7", "type": "ORDER"}
-{"last_name": "Martin", "event_time": "2017-02-15T15:35:32.208Z", "verb": "NEW", "key": "413f31b59cf7", "adr_state": "IN", "adr_city": "East Shannon", "type": "CUSTOMER"}
-{"event_time": "2017-02-24T15:35:32.226Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "82f2f2bc83e5", "customer_id": "413f31b59cf7", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-17T15:35:32.259Z", "camera_model": "X90", "verb": "UPLOAD", "key": "dfadfc714f4a", "customer_id": "413f31b59cf7", "type": "IMAGE"}
-{"total_amount": "78.58 USD", "event_time": "2017-02-12T15:35:32.299Z", "verb": "NEW", "key": "546da670d723", "customer_id": "413f31b59cf7", "type": "ORDER"}
-{"last_name": "Vasquez", "event_time": "2017-02-14T15:35:32.323Z", "verb": "NEW", "key": "413f31b59cf7", "adr_state": "VT", "adr_city": "Stevensberg", "type": "CUSTOMER"}
-{"event_time": "2017-02-17T15:35:32.339Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "18823c13c7e8", "customer_id": "413f31b59cf7", "type": "SITE_VISIT"}
-{"camera_make": "Olympus", "event_time": "2017-02-12T15:35:32.377Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "58056c42eb33", "customer_id": "413f31b59cf7", "type": "IMAGE"}
-{"total_amount": "41.46 USD", "event_time": "2017-02-16T15:35:32.415Z", "verb": "NEW", "key": "dcf576a7b454", "customer_id": "413f31b59cf7", "type": "ORDER"}
-{"last_name": "Bailey", "event_time": "2017-02-16T15:35:32.452Z", "verb": "NEW", "key": "5efa91b9a5c0", "adr_state": "WY", "adr_city": "South Charlesshire", "type": "CUSTOMER"}
-{"event_time": "2017-02-12T15:35:32.465Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "fedba6aa7b24", "customer_id": "5efa91b9a5c0", "type": "SITE_VISIT"}
-{"camera_make": "Fujifilm", "event_time": "2017-02-13T15:35:32.492Z", "camera_model": "X100F", "verb": "UPLOAD", "key": "3dc12eba2c9d", "customer_id": "5efa91b9a5c0", "type": "IMAGE"}
-{"total_amount": "58.35 USD", "event_time": "2017-02-19T15:35:32.532Z", "verb": "NEW", "key": "8799a8f827d5", "customer_id": "5efa91b9a5c0", "type": "ORDER"}
-{"last_name": "Smith", "event_time": "2017-02-23T15:35:32.571Z", "verb": "NEW", "key": "1d953498ca42", "adr_state": "NM", "adr_city": "Matthewton", "type": "CUSTOMER"}
-{"event_time": "2017-02-21T15:35:32.592Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "f59eb489fc22", "customer_id": "1d953498ca42", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-23T15:35:32.629Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "eaf04ad3e522", "customer_id": "1d953498ca42", "type": "IMAGE"}
-{"total_amount": "39.33 USD", "event_time": "2017-02-19T15:35:32.663Z", "verb": "NEW", "key": "ecc60a944226", "customer_id": "1d953498ca42", "type": "ORDER"}
-{"last_name": "Conrad", "event_time": "2017-02-13T15:35:32.682Z", "verb": "NEW", "key": "1d953498ca42", "adr_state": "NH", "adr_city": "Kellymouth", "type": "CUSTOMER"}
-{"event_time": "2017-02-17T15:35:32.698Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "2063018738f1", "customer_id": "1d953498ca42", "type": "SITE_VISIT"}
-{"camera_make": "Fujifilm", "event_time": "2017-02-13T15:35:32.734Z", "camera_model": "FinePix A150", "verb": "UPLOAD", "key": "b7660d849f95", "customer_id": "1d953498ca42", "type": "IMAGE"}
-{"total_amount": "92.99 USD", "event_time": "2017-02-14T15:35:32.764Z", "verb": "NEW", "key": "10c3002206c8", "customer_id": "1d953498ca42", "type": "ORDER"}
-{"last_name": "Berry", "event_time": "2017-02-19T15:35:32.781Z", "verb": "NEW", "key": "1d953498ca42", "adr_state": "MN", "adr_city": "New Amandaview", "type": "CUSTOMER"}
-{"event_time": "2017-02-18T15:35:32.797Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "e3ce029156bf", "customer_id": "1d953498ca42", "type": "SITE_VISIT"}
-{"camera_make": "Sony", "event_time": "2017-02-12T15:35:32.832Z", "camera_model": "Alpha QX1", "verb": "UPLOAD", "key": "2f9149ed19c1", "customer_id": "1d953498ca42", "type": "IMAGE"}
-{"total_amount": "52.47 USD", "event_time": "2017-02-19T15:35:32.865Z", "verb": "NEW", "key": "122f87a3e1cc", "customer_id": "1d953498ca42", "type": "ORDER"}
-{"last_name": "Sherman", "event_time": "2017-02-11T15:35:32.885Z", "verb": "NEW", "key": "1d953498ca42", "adr_state": "AK", "adr_city": "Lake Jacquelinetown", "type": "CUSTOMER"}
-{"event_time": "2017-02-21T15:35:32.902Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "68197ff56f87", "customer_id": "1d953498ca42", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-11T15:35:32.942Z", "camera_model": "D90", "verb": "UPLOAD", "key": "fe0f34673515", "customer_id": "1d953498ca42", "type": "IMAGE"}
-{"total_amount": "57.50 USD", "event_time": "2017-02-19T15:35:32.976Z", "verb": "NEW", "key": "2edcdee0e895", "customer_id": "1d953498ca42", "type": "ORDER"}
-{"last_name": "Phelps", "event_time": "2017-02-19T15:35:32.995Z", "verb": "NEW", "key": "1d953498ca42", "adr_state": "RI", "adr_city": "East Joshuatown", "type": "CUSTOMER"}
-{"event_time": "2017-02-24T15:35:33.012Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "4f14afebdfbe", "customer_id": "1d953498ca42", "type": "SITE_VISIT"}
-{"camera_make": "Canon", "event_time": "2017-02-19T15:35:33.047Z", "camera_model": "EOS 80D", "verb": "UPLOAD", "key": "26a7d963a993", "customer_id": "1d953498ca42", "type": "IMAGE"}
-{"total_amount": "4.10 USD", "event_time": "2017-02-19T15:35:33.081Z", "verb": "NEW", "key": "ff3604b84efc", "customer_id": "1d953498ca42", "type": "ORDER"}
-{"last_name": "Chang", "event_time": "2017-02-18T15:35:33.115Z", "verb": "NEW", "key": "453d17f7a5ee", "adr_state": "FM", "adr_city": "Gardnerburgh", "type": "CUSTOMER"}
-{"event_time": "2017-02-15T15:35:33.134Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "ef41aa40a9b8", "customer_id": "453d17f7a5ee", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-17T15:35:33.171Z", "camera_model": "X90", "verb": "UPLOAD", "key": "eb6d11747c8a", "customer_id": "453d17f7a5ee", "type": "IMAGE"}
-{"total_amount": "71.40 USD", "event_time": "2017-02-12T15:35:33.203Z", "verb": "NEW", "key": "a7062574b6bf", "customer_id": "453d17f7a5ee", "type": "ORDER"}
-{"last_name": "Dennis", "event_time": "2017-02-16T15:35:33.222Z", "verb": "NEW", "key": "453d17f7a5ee", "adr_state": "UT", "adr_city": "Matthewchester", "type": "CUSTOMER"}
-{"event_time": "2017-02-14T15:35:33.244Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "4c9cb3b8cfe8", "customer_id": "453d17f7a5ee", "type": "SITE_VISIT"}
-{"camera_make": "Canon", "event_time": "2017-02-17T15:35:33.277Z", "camera_model": "EOS 6D", "verb": "UPLOAD", "key": "0d3d01f6377a", "customer_id": "453d17f7a5ee", "type": "IMAGE"}
-{"total_amount": "59.31 USD", "event_time": "2017-02-22T15:35:33.310Z", "verb": "NEW", "key": "18b21d5aa07f", "customer_id": "453d17f7a5ee", "type": "ORDER"}
-{"last_name": "Johnson", "event_time": "2017-02-11T15:35:33.340Z", "verb": "NEW", "key": "33e9d3e97811", "adr_state": "AS", "adr_city": "Marybury", "type": "CUSTOMER"}
-{"event_time": "2017-02-10T15:35:33.355Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "4092f4f8f498", "customer_id": "33e9d3e97811", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-15T15:35:33.391Z", "camera_model": "X90", "verb": "UPLOAD", "key": "4803abf7cc93", "customer_id": "33e9d3e97811", "type": "IMAGE"}
-{"total_amount": "24.79 USD", "event_time": "2017-02-22T15:35:33.426Z", "verb": "NEW", "key": "06f09ad808ea", "customer_id": "33e9d3e97811", "type": "ORDER"}
-{"last_name": "Charles", "event_time": "2017-02-23T15:35:33.444Z", "verb": "NEW", "key": "33e9d3e97811", "adr_state": "HI", "adr_city": "Peterton", "type": "CUSTOMER"}
-{"event_time": "2017-02-18T15:35:33.458Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "ed9a0670c7c0", "customer_id": "33e9d3e97811", "type": "SITE_VISIT"}
-{"camera_make": "Kodak", "event_time": "2017-02-15T15:35:33.492Z", "camera_model": "EasyShare Z981", "verb": "UPLOAD", "key": "6fec9789e571", "customer_id": "33e9d3e97811", "type": "IMAGE"}
-{"total_amount": "63.43 USD", "event_time": "2017-02-19T15:35:33.522Z", "verb": "NEW", "key": "eb5fb8269d0c", "customer_id": "33e9d3e97811", "type": "ORDER"}
-{"last_name": "Jackson", "event_time": "2017-02-19T15:35:33.541Z", "verb": "NEW", "key": "33e9d3e97811", "adr_state": "OR", "adr_city": "New Stephanieton", "type": "CUSTOMER"}
-{"event_time": "2017-02-11T15:35:33.556Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "c1904d744d66", "customer_id": "33e9d3e97811", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-11T15:35:33.587Z", "camera_model": "KP", "verb": "UPLOAD", "key": "3203588b33da", "customer_id": "33e9d3e97811", "type": "IMAGE"}
-{"total_amount": "7.98 USD", "event_time": "2017-02-14T15:35:33.618Z", "verb": "NEW", "key": "9964455ac380", "customer_id": "33e9d3e97811", "type": "ORDER"}
-{"last_name": "Martinez", "event_time": "2017-02-14T15:35:33.653Z", "verb": "NEW", "key": "5b59098d2d1e", "adr_state": "WA", "adr_city": "Darlenebury", "type": "CUSTOMER"}
-{"event_time": "2017-02-24T15:35:33.667Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "ad6c44e3321c", "customer_id": "5b59098d2d1e", "type": "SITE_VISIT"}
-{"camera_make": "Kodak", "event_time": "2017-02-10T15:35:33.703Z", "camera_model": "EasyShare Z981", "verb": "UPLOAD", "key": "a894a87eaca9", "customer_id": "5b59098d2d1e", "type": "IMAGE"}
-{"total_amount": "95.94 USD", "event_time": "2017-02-14T15:35:33.733Z", "verb": "NEW", "key": "be16f0db07bf", "customer_id": "5b59098d2d1e", "type": "ORDER"}
-{"last_name": "Long", "event_time": "2017-02-14T15:35:33.753Z", "verb": "NEW", "key": "5b59098d2d1e", "adr_state": "DC", "adr_city": "Mcguireville", "type": "CUSTOMER"}
-{"event_time": "2017-02-18T15:35:33.769Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "a0bbbc600332", "customer_id": "5b59098d2d1e", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-24T15:35:33.797Z", "camera_model": "KP", "verb": "UPLOAD", "key": "231e0fa67d2b", "customer_id": "5b59098d2d1e", "type": "IMAGE"}
-{"total_amount": "26.45 USD", "event_time": "2017-02-14T15:35:33.836Z", "verb": "NEW", "key": "c6cab52b0a28", "customer_id": "5b59098d2d1e", "type": "ORDER"}
-{"last_name": "Martin", "event_time": "2017-02-18T15:35:33.857Z", "verb": "NEW", "key": "5b59098d2d1e", "adr_state": "MT", "adr_city": "Mcdonaldview", "type": "CUSTOMER"}
-{"event_time": "2017-02-13T15:35:33.873Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "82a607be0ef8", "customer_id": "5b59098d2d1e", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-20T15:35:33.910Z", "camera_model": "X90", "verb": "UPLOAD", "key": "386cf46774f5", "customer_id": "5b59098d2d1e", "type": "IMAGE"}
-{"total_amount": "53.42 USD", "event_time": "2017-02-24T15:35:33.943Z", "verb": "NEW", "key": "736e91cc0137", "customer_id": "5b59098d2d1e", "type": "ORDER"}
-{"last_name": "Bond", "event_time": "2017-02-13T15:35:33.964Z", "verb": "NEW", "key": "5b59098d2d1e", "adr_state": "AR", "adr_city": "West Ryanburgh", "type": "CUSTOMER"}
-{"event_time": "2017-02-22T15:35:33.983Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "b5a7756fa5b5", "customer_id": "5b59098d2d1e", "type": "SITE_VISIT"}
-{"camera_make": "Canon", "event_time": "2017-02-20T15:35:34.017Z", "camera_model": "EOS 6D", "verb": "UPLOAD", "key": "15ba61213cf3", "customer_id": "5b59098d2d1e", "type": "IMAGE"}
-{"total_amount": "3.17 USD", "event_time": "2017-02-15T15:35:34.049Z", "verb": "NEW", "key": "4da5f2938177", "customer_id": "5b59098d2d1e", "type": "ORDER"}
-{"last_name": "Jones", "event_time": "2017-02-11T15:35:34.068Z", "verb": "NEW", "key": "5b59098d2d1e", "adr_state": "CA", "adr_city": "Munozstad", "type": "CUSTOMER"}
-{"event_time": "2017-02-17T15:35:34.085Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "d639e4a9377c", "customer_id": "5b59098d2d1e", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-22T15:35:34.118Z", "camera_model": "D90", "verb": "UPLOAD", "key": "95578f482663", "customer_id": "5b59098d2d1e", "type": "IMAGE"}
-{"total_amount": "68.95 USD", "event_time": "2017-02-22T15:35:34.149Z", "verb": "NEW", "key": "de9f146eb7bd", "customer_id": "5b59098d2d1e", "type": "ORDER"}
-{"last_name": "Dodson", "event_time": "2017-02-12T15:35:34.181Z", "verb": "NEW", "key": "6853ace62aa6", "adr_state": "AS", "adr_city": "West Barbara", "type": "CUSTOMER"}
-{"event_time": "2017-02-10T15:35:34.199Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "97acd3f3fd07", "customer_id": "6853ace62aa6", "type": "SITE_VISIT"}
-{"camera_make": "Canon", "event_time": "2017-02-12T15:35:34.232Z", "camera_model": "EOS 80D", "verb": "UPLOAD", "key": "813ca773f946", "customer_id": "6853ace62aa6", "type": "IMAGE"}
-{"total_amount": "94.38 USD", "event_time": "2017-02-17T15:35:34.262Z", "verb": "NEW", "key": "db6aeb3156fa", "customer_id": "6853ace62aa6", "type": "ORDER"}
-{"last_name": "Holland", "event_time": "2017-02-23T15:35:34.281Z", "verb": "NEW", "key": "6853ace62aa6", "adr_state": "KY", "adr_city": "East Gailport", "type": "CUSTOMER"}
-{"event_time": "2017-02-14T15:35:34.299Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "5707c7db3989", "customer_id": "6853ace62aa6", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-11T15:35:34.333Z", "camera_model": "D90", "verb": "UPLOAD", "key": "e8c8b5de615f", "customer_id": "6853ace62aa6", "type": "IMAGE"}
-{"total_amount": "6.74 USD", "event_time": "2017-02-16T15:35:34.365Z", "verb": "NEW", "key": "55e864eaf295", "customer_id": "6853ace62aa6", "type": "ORDER"}
-{"last_name": "Ross", "event_time": "2017-02-20T15:35:34.388Z", "verb": "NEW", "key": "6853ace62aa6", "adr_state": "PR", "adr_city": "East Stephanie", "type": "CUSTOMER"}
-{"event_time": "2017-02-22T15:35:34.406Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "2b40f2680e37", "customer_id": "6853ace62aa6", "type": "SITE_VISIT"}
-{"camera_make": "Canon", "event_time": "2017-02-13T15:35:34.440Z", "camera_model": "EOS 80D", "verb": "UPLOAD", "key": "a8a50815e191", "customer_id": "6853ace62aa6", "type": "IMAGE"}
-{"total_amount": "73.97 USD", "event_time": "2017-02-19T15:35:34.473Z", "verb": "NEW", "key": "8914062bc7a8", "customer_id": "6853ace62aa6", "type": "ORDER"}
-{"last_name": "Kerr", "event_time": "2017-02-20T15:35:34.490Z", "verb": "NEW", "key": "6853ace62aa6", "adr_state": "HI", "adr_city": "Lake Ashleyhaven", "type": "CUSTOMER"}
-{"event_time": "2017-02-12T15:35:34.511Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "fd25ded57b44", "customer_id": "6853ace62aa6", "type": "SITE_VISIT"}
-{"camera_make": "Kodak", "event_time": "2017-02-17T15:35:34.548Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "711bbe8911d3", "customer_id": "6853ace62aa6", "type": "IMAGE"}
-{"total_amount": "14.90 USD", "event_time": "2017-02-16T15:35:34.586Z", "verb": "NEW", "key": "5a0671c85d37", "customer_id": "6853ace62aa6", "type": "ORDER"}
-{"last_name": "Meyer", "event_time": "2017-02-13T15:35:34.604Z", "verb": "NEW", "key": "6853ace62aa6", "adr_state": "GA", "adr_city": "Stewartchester", "type": "CUSTOMER"}
-{"event_time": "2017-02-11T15:35:34.624Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "3967f4a821eb", "customer_id": "6853ace62aa6", "type": "SITE_VISIT"}
-{"camera_make": "Fujifilm", "event_time": "2017-02-11T15:35:34.656Z", "camera_model": "X100F", "verb": "UPLOAD", "key": "310a58647c38", "customer_id": "6853ace62aa6", "type": "IMAGE"}
-{"total_amount": "61.93 USD", "event_time": "2017-02-23T15:35:34.690Z", "verb": "NEW", "key": "8dd4453d1055", "customer_id": "6853ace62aa6", "type": "ORDER"}
-{"last_name": "Hayes", "event_time": "2017-02-18T15:35:34.727Z", "verb": "NEW", "key": "e1d61c228259", "adr_state": "CT", "adr_city": "Port Patricia", "type": "CUSTOMER"}
-{"event_time": "2017-02-15T15:35:34.744Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "b4874632f6ff", "customer_id": "e1d61c228259", "type": "SITE_VISIT"}
-{"camera_make": "Olympus", "event_time": "2017-02-19T15:35:34.773Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "cab1783e25d8", "customer_id": "e1d61c228259", "type": "IMAGE"}
-{"total_amount": "75.76 USD", "event_time": "2017-02-15T15:35:34.800Z", "verb": "NEW", "key": "36bcf3e390d9", "customer_id": "e1d61c228259", "type": "ORDER"}
-{"last_name": "Smith", "event_time": "2017-02-14T15:35:34.816Z", "verb": "NEW", "key": "e1d61c228259", "adr_state": "WI", "adr_city": "Lake Mary", "type": "CUSTOMER"}
-{"event_time": "2017-02-15T15:35:34.831Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "cb12e93a344e", "customer_id": "e1d61c228259", "type": "SITE_VISIT"}
-{"camera_make": "Olympus", "event_time": "2017-02-12T15:35:34.863Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "e4a89c2874cd", "customer_id": "e1d61c228259", "type": "IMAGE"}
-{"total_amount": "65.52 USD", "event_time": "2017-02-17T15:35:34.892Z", "verb": "NEW", "key": "276ea3f0fd9e", "customer_id": "e1d61c228259", "type": "ORDER"}
-{"last_name": "Ramirez", "event_time": "2017-02-24T15:35:34.909Z", "verb": "NEW", "key": "e1d61c228259", "adr_state": "MP", "adr_city": "Dawnstad", "type": "CUSTOMER"}
-{"event_time": "2017-02-17T15:35:34.922Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "c374857c13c2", "customer_id": "e1d61c228259", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-19T15:35:34.955Z", "camera_model": "KP", "verb": "UPLOAD", "key": "a36b6be2add7", "customer_id": "e1d61c228259", "type": "IMAGE"}
-{"total_amount": "44.27 USD", "event_time": "2017-02-21T15:35:34.987Z", "verb": "NEW", "key": "6d7aab95edd3", "customer_id": "e1d61c228259", "type": "ORDER"}
-{"last_name": "Perez", "event_time": "2017-02-14T15:35:35.010Z", "verb": "NEW", "key": "e1d61c228259", "adr_state": "NH", "adr_city": "Michaelhaven", "type": "CUSTOMER"}
-{"event_time": "2017-02-19T15:35:35.024Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "9554fdbd8215", "customer_id": "e1d61c228259", "type": "SITE_VISIT"}
-{"camera_make": "Canon", "event_time": "2017-02-15T15:35:35.059Z", "camera_model": "EOS 80D", "verb": "UPLOAD", "key": "daa3baaa480c", "customer_id": "e1d61c228259", "type": "IMAGE"}
-{"total_amount": "99.63 USD", "event_time": "2017-02-18T15:35:35.092Z", "verb": "NEW", "key": "a24bd2aa8e97", "customer_id": "e1d61c228259", "type": "ORDER"}
-{"last_name": "Ford", "event_time": "2017-02-20T15:35:35.109Z", "verb": "NEW", "key": "e1d61c228259", "adr_state": "FM", "adr_city": "North Jessica", "type": "CUSTOMER"}
-{"event_time": "2017-02-18T15:35:35.123Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "0e752d1d8485", "customer_id": "e1d61c228259", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-24T15:35:35.155Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "ad10d5757db9", "customer_id": "e1d61c228259", "type": "IMAGE"}
-{"total_amount": "13.35 USD", "event_time": "2017-02-20T15:35:35.192Z", "verb": "NEW", "key": "8e390443d701", "customer_id": "e1d61c228259", "type": "ORDER"}
-{"last_name": "Proctor", "event_time": "2017-02-22T15:35:35.222Z", "verb": "NEW", "key": "f7a2416cbb32", "adr_state": "KS", "adr_city": "Port Cassandrafurt", "type": "CUSTOMER"}
-{"event_time": "2017-02-22T15:35:35.237Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "81eb0d27a5e7", "customer_id": "f7a2416cbb32", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-13T15:35:35.271Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "89d6d1c31b33", "customer_id": "f7a2416cbb32", "type": "IMAGE"}
-{"total_amount": "3.90 USD", "event_time": "2017-02-20T15:35:35.303Z", "verb": "NEW", "key": "4cd561951006", "customer_id": "f7a2416cbb32", "type": "ORDER"}
-{"last_name": "Perez", "event_time": "2017-02-23T15:35:35.321Z", "verb": "NEW", "key": "f7a2416cbb32", "adr_state": "RI", "adr_city": "Jamesfort", "type": "CUSTOMER"}
-{"event_time": "2017-02-15T15:35:35.339Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "a79a6525c7d7", "customer_id": "f7a2416cbb32", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-19T15:35:35.377Z", "camera_model": "KP", "verb": "UPLOAD", "key": "65453f63e6cc", "customer_id": "f7a2416cbb32", "type": "IMAGE"}
-{"total_amount": "8.05 USD", "event_time": "2017-02-10T15:35:35.409Z", "verb": "NEW", "key": "daf737c9a0c7", "customer_id": "f7a2416cbb32", "type": "ORDER"}
-{"last_name": "Adams", "event_time": "2017-02-21T15:35:35.429Z", "verb": "NEW", "key": "f7a2416cbb32", "adr_state": "WI", "adr_city": "Daniellestad", "type": "CUSTOMER"}
-{"event_time": "2017-02-12T15:35:35.446Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "28ec84169485", "customer_id": "f7a2416cbb32", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-14T15:35:35.478Z", "camera_model": "KP", "verb": "UPLOAD", "key": "57a9cdc07b51", "customer_id": "f7a2416cbb32", "type": "IMAGE"}
-{"total_amount": "81.93 USD", "event_time": "2017-02-23T15:35:35.512Z", "verb": "NEW", "key": "6071e4c61251", "customer_id": "f7a2416cbb32", "type": "ORDER"}
-{"last_name": "Walker", "event_time": "2017-02-23T15:35:35.547Z", "verb": "NEW", "key": "f1f817a441f7", "adr_state": "MH", "adr_city": "Craigport", "type": "CUSTOMER"}
-{"event_time": "2017-02-22T15:35:35.564Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "afaf60a92425", "customer_id": "f1f817a441f7", "type": "SITE_VISIT"}
-{"camera_make": "Olympus", "event_time": "2017-02-19T15:35:35.597Z", "camera_model": "FE-45", "verb": "UPLOAD", "key": "dd3a7860b2a7", "customer_id": "f1f817a441f7", "type": "IMAGE"}
-{"total_amount": "80.94 USD", "event_time": "2017-02-19T15:35:35.632Z", "verb": "NEW", "key": "48fa8695bdd1", "customer_id": "f1f817a441f7", "type": "ORDER"}
-{"last_name": "Benson", "event_time": "2017-02-11T15:35:35.665Z", "verb": "NEW", "key": "a220426dd344", "adr_state": "VI", "adr_city": "Lake Maxside", "type": "CUSTOMER"}
-{"event_time": "2017-02-18T15:35:35.686Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "237ab69a30ca", "customer_id": "a220426dd344", "type": "SITE_VISIT"}
-{"camera_make": "Canon", "event_time": "2017-02-24T15:35:35.720Z", "camera_model": "EOS 80D", "verb": "UPLOAD", "key": "c22789ac2347", "customer_id": "a220426dd344", "type": "IMAGE"}
-{"total_amount": "79.67 USD", "event_time": "2017-02-14T15:35:35.754Z", "verb": "NEW", "key": "f62b83d7f0da", "customer_id": "a220426dd344", "type": "ORDER"}
-{"last_name": "Lowe", "event_time": "2017-02-12T15:35:35.773Z", "verb": "NEW", "key": "a220426dd344", "adr_state": "MD", "adr_city": "West Rachaeltown", "type": "CUSTOMER"}
-{"event_time": "2017-02-13T15:35:35.790Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "9655ef0af82f", "customer_id": "a220426dd344", "type": "SITE_VISIT"}
-{"camera_make": "Kodak", "event_time": "2017-02-10T15:35:35.825Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "61ca7039b6d5", "customer_id": "a220426dd344", "type": "IMAGE"}
-{"total_amount": "70.35 USD", "event_time": "2017-02-18T15:35:35.859Z", "verb": "NEW", "key": "9fd43c721bc2", "customer_id": "a220426dd344", "type": "ORDER"}
-{"last_name": "Juarez", "event_time": "2017-02-23T15:35:35.878Z", "verb": "NEW", "key": "a220426dd344", "adr_state": "OH", "adr_city": "Lake Carol", "type": "CUSTOMER"}
-{"event_time": "2017-02-17T15:35:35.898Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "414a1c4abf2d", "customer_id": "a220426dd344", "type": "SITE_VISIT"}
-{"camera_make": "Sony", "event_time": "2017-02-23T15:35:35.928Z", "camera_model": "Alpha QX1", "verb": "UPLOAD", "key": "07d58a37d250", "customer_id": "a220426dd344", "type": "IMAGE"}
-{"total_amount": "89.36 USD", "event_time": "2017-02-11T15:35:35.960Z", "verb": "NEW", "key": "456b2b15c4d3", "customer_id": "a220426dd344", "type": "ORDER"}
-{"last_name": "Garza", "event_time": "2017-02-11T15:35:35.978Z", "verb": "NEW", "key": "a220426dd344", "adr_state": "HI", "adr_city": "East Tonyatown", "type": "CUSTOMER"}
-{"event_time": "2017-02-16T15:35:36.002Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "b530b07fbcc0", "customer_id": "a220426dd344", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-21T15:35:36.036Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "b60d44100ceb", "customer_id": "a220426dd344", "type": "IMAGE"}
-{"total_amount": "1.54 USD", "event_time": "2017-02-20T15:35:36.071Z", "verb": "NEW", "key": "3cd700cd6320", "customer_id": "a220426dd344", "type": "ORDER"}
-{"last_name": "Rhodes", "event_time": "2017-02-23T15:35:36.106Z", "verb": "NEW", "key": "9c9d90dda9c4", "adr_state": "WA", "adr_city": "Jenniferborough", "type": "CUSTOMER"}
-{"event_time": "2017-02-10T15:35:36.125Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "adb5272931e4", "customer_id": "9c9d90dda9c4", "type": "SITE_VISIT"}
-{"camera_make": "Sony", "event_time": "2017-02-10T15:35:36.153Z", "camera_model": "SLT-A33", "verb": "UPLOAD", "key": "66e7dcc65804", "customer_id": "9c9d90dda9c4", "type": "IMAGE"}
-{"total_amount": "87.59 USD", "event_time": "2017-02-12T15:35:36.190Z", "verb": "NEW", "key": "7019d61be3ef", "customer_id": "9c9d90dda9c4", "type": "ORDER"}
-{"last_name": "Lin", "event_time": "2017-02-13T15:35:36.209Z", "verb": "NEW", "key": "9c9d90dda9c4", "adr_state": "PW", "adr_city": "Charlestown", "type": "CUSTOMER"}
-{"event_time": "2017-02-14T15:35:36.226Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "b7e06ee4f19a", "customer_id": "9c9d90dda9c4", "type": "SITE_VISIT"}
-{"camera_make": "Sony", "event_time": "2017-02-13T15:35:36.262Z", "camera_model": "Alpha QX1", "verb": "UPLOAD", "key": "df71326b7f42", "customer_id": "9c9d90dda9c4", "type": "IMAGE"}
-{"total_amount": "58.44 USD", "event_time": "2017-02-22T15:35:36.299Z", "verb": "NEW", "key": "7dd4c2b51f16", "customer_id": "9c9d90dda9c4", "type": "ORDER"}
-{"last_name": "Wright", "event_time": "2017-02-14T15:35:36.332Z", "verb": "NEW", "key": "233d7dbb251a", "adr_state": "NV", "adr_city": "New Jason", "type": "CUSTOMER"}
-{"event_time": "2017-02-23T15:35:36.348Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "981f2ddd3ecf", "customer_id": "233d7dbb251a", "type": "SITE_VISIT"}
-{"camera_make": "Kodak", "event_time": "2017-02-19T15:35:36.379Z", "camera_model": "EasyShare Z981", "verb": "UPLOAD", "key": "582a960fbb1a", "customer_id": "233d7dbb251a", "type": "IMAGE"}
-{"total_amount": "38.00 USD", "event_time": "2017-02-24T15:35:36.409Z", "verb": "NEW", "key": "ee6106be9808", "customer_id": "233d7dbb251a", "type": "ORDER"}
-{"last_name": "Obrien", "event_time": "2017-02-24T15:35:36.428Z", "verb": "NEW", "key": "233d7dbb251a", "adr_state": "WA", "adr_city": "Rossview", "type": "CUSTOMER"}
-{"event_time": "2017-02-19T15:35:36.443Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "def772970e8e", "customer_id": "233d7dbb251a", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-23T15:35:36.473Z", "camera_model": "D90", "verb": "UPLOAD", "key": "332e3e36c1bf", "customer_id": "233d7dbb251a", "type": "IMAGE"}
-{"total_amount": "31.50 USD", "event_time": "2017-02-21T15:35:36.510Z", "verb": "NEW", "key": "4816b7efdc18", "customer_id": "233d7dbb251a", "type": "ORDER"}
-{"last_name": "Roberts", "event_time": "2017-02-19T15:35:36.527Z", "verb": "NEW", "key": "233d7dbb251a", "adr_state": "NY", "adr_city": "Bryceville", "type": "CUSTOMER"}
-{"event_time": "2017-02-18T15:35:36.543Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "c0d30406adc2", "customer_id": "233d7dbb251a", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-14T15:35:36.575Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "7657e61a8c03", "customer_id": "233d7dbb251a", "type": "IMAGE"}
-{"total_amount": "90.56 USD", "event_time": "2017-02-14T15:35:36.608Z", "verb": "NEW", "key": "fc12c7841997", "customer_id": "233d7dbb251a", "type": "ORDER"}
-{"last_name": "Walker", "event_time": "2017-02-19T15:35:36.642Z", "verb": "NEW", "key": "d935eb620d0f", "adr_state": "KS", "adr_city": "Patelland", "type": "CUSTOMER"}
-{"event_time": "2017-02-10T15:35:36.656Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "b3f6457c00d9", "customer_id": "d935eb620d0f", "type": "SITE_VISIT"}
-{"camera_make": "Olympus", "event_time": "2017-02-22T15:35:36.687Z", "camera_model": "FE-45", "verb": "UPLOAD", "key": "b1e0b2a8bf0b", "customer_id": "d935eb620d0f", "type": "IMAGE"}
-{"total_amount": "95.94 USD", "event_time": "2017-02-12T15:35:36.722Z", "verb": "NEW", "key": "d90dcc3b2faa", "customer_id": "d935eb620d0f", "type": "ORDER"}
-{"last_name": "Sullivan", "event_time": "2017-02-12T15:35:36.741Z", "verb": "NEW", "key": "d935eb620d0f", "adr_state": "KY", "adr_city": "Isaachaven", "type": "CUSTOMER"}
-{"event_time": "2017-02-21T15:35:36.758Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "d96826320560", "customer_id": "d935eb620d0f", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-18T15:35:36.794Z", "camera_model": "X90", "verb": "UPLOAD", "key": "190cb629f775", "customer_id": "d935eb620d0f", "type": "IMAGE"}
-{"total_amount": "85.72 USD", "event_time": "2017-02-20T15:35:36.826Z", "verb": "NEW", "key": "53c7cbb5a80e", "customer_id": "d935eb620d0f", "type": "ORDER"}
-{"last_name": "Richmond", "event_time": "2017-02-15T15:35:36.843Z", "verb": "NEW", "key": "d935eb620d0f", "adr_state": "GU", "adr_city": "Port Ryan", "type": "CUSTOMER"}
-{"event_time": "2017-02-11T15:35:36.858Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "a97e67adbdcc", "customer_id": "d935eb620d0f", "type": "SITE_VISIT"}
-{"camera_make": "Kodak", "event_time": "2017-02-21T15:35:36.893Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "69688e60fe9e", "customer_id": "d935eb620d0f", "type": "IMAGE"}
-{"total_amount": "20.37 USD", "event_time": "2017-02-18T15:35:36.926Z", "verb": "NEW", "key": "2dea507ddcae", "customer_id": "d935eb620d0f", "type": "ORDER"}
-{"last_name": "Lewis", "event_time": "2017-02-23T15:35:36.959Z", "verb": "NEW", "key": "a4f598572393", "adr_state": "VA", "adr_city": "South Timothy", "type": "CUSTOMER"}
-{"event_time": "2017-02-18T15:35:36.975Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "de2ef3108152", "customer_id": "a4f598572393", "type": "SITE_VISIT"}
-{"camera_make": "Canon", "event_time": "2017-02-20T15:35:37.006Z", "camera_model": "EOS 6D", "verb": "UPLOAD", "key": "6e00903c7af3", "customer_id": "a4f598572393", "type": "IMAGE"}
-{"total_amount": "16.45 USD", "event_time": "2017-02-23T15:35:37.038Z", "verb": "NEW", "key": "f281db30ed80", "customer_id": "a4f598572393", "type": "ORDER"}
-{"last_name": "Mills", "event_time": "2017-02-17T15:35:37.070Z", "verb": "NEW", "key": "83035b9c16ef", "adr_state": "NE", "adr_city": "Morenoburgh", "type": "CUSTOMER"}
-{"event_time": "2017-02-24T15:35:37.084Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "9b4eca2eafc6", "customer_id": "83035b9c16ef", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-19T15:35:37.116Z", "camera_model": "D90", "verb": "UPLOAD", "key": "ccd5282239d8", "customer_id": "83035b9c16ef", "type": "IMAGE"}
-{"total_amount": "97.24 USD", "event_time": "2017-02-10T15:35:37.151Z", "verb": "NEW", "key": "aa7f819f281b", "customer_id": "83035b9c16ef", "type": "ORDER"}
-{"last_name": "Rodriguez", "event_time": "2017-02-13T15:35:37.187Z", "verb": "NEW", "key": "c704f76a97d8", "adr_state": "CA", "adr_city": "West Courtney", "type": "CUSTOMER"}
-{"event_time": "2017-02-16T15:35:37.202Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "5a480cfa1b99", "customer_id": "c704f76a97d8", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-11T15:35:37.236Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "d27139efc998", "customer_id": "c704f76a97d8", "type": "IMAGE"}
-{"total_amount": "81.28 USD", "event_time": "2017-02-22T15:35:37.264Z", "verb": "NEW", "key": "2cb2b1c0dda0", "customer_id": "c704f76a97d8", "type": "ORDER"}
-{"last_name": "Sandoval", "event_time": "2017-02-22T15:35:37.281Z", "verb": "NEW", "key": "c704f76a97d8", "adr_state": "IL", "adr_city": "New Harold", "type": "CUSTOMER"}
-{"event_time": "2017-02-18T15:35:37.296Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "db75cf64e640", "customer_id": "c704f76a97d8", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-19T15:35:37.329Z", "camera_model": "D90", "verb": "UPLOAD", "key": "e725bdb5f075", "customer_id": "c704f76a97d8", "type": "IMAGE"}
-{"total_amount": "84.82 USD", "event_time": "2017-02-18T15:35:37.362Z", "verb": "NEW", "key": "00c2d6c2e217", "customer_id": "c704f76a97d8", "type": "ORDER"}
-{"last_name": "Hughes", "event_time": "2017-02-11T15:35:37.377Z", "verb": "NEW", "key": "c704f76a97d8", "adr_state": "IL", "adr_city": "East Anita", "type": "CUSTOMER"}
-{"event_time": "2017-02-13T15:35:37.390Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "d4ee54305915", "customer_id": "c704f76a97d8", "type": "SITE_VISIT"}
-{"camera_make": "Fujifilm", "event_time": "2017-02-19T15:35:37.417Z", "camera_model": "FinePix A150", "verb": "UPLOAD", "key": "2dad5f179cc7", "customer_id": "c704f76a97d8", "type": "IMAGE"}
-{"total_amount": "30.31 USD", "event_time": "2017-02-11T15:35:37.449Z", "verb": "NEW", "key": "819cae8d2a0c", "customer_id": "c704f76a97d8", "type": "ORDER"}
-{"last_name": "Harding", "event_time": "2017-02-17T15:35:37.466Z", "verb": "NEW", "key": "c704f76a97d8", "adr_state": "MI", "adr_city": "Port Jacob", "type": "CUSTOMER"}
-{"event_time": "2017-02-10T15:35:37.481Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "e516d054d25e", "customer_id": "c704f76a97d8", "type": "SITE_VISIT"}
-{"camera_make": "Olympus", "event_time": "2017-02-16T15:35:37.511Z", "camera_model": "FE-45", "verb": "UPLOAD", "key": "1ad265771b2a", "customer_id": "c704f76a97d8", "type": "IMAGE"}
-{"total_amount": "95.41 USD", "event_time": "2017-02-15T15:35:37.540Z", "verb": "NEW", "key": "5244667d4698", "customer_id": "c704f76a97d8", "type": "ORDER"}
-{"last_name": "White", "event_time": "2017-02-20T15:35:37.556Z", "verb": "NEW", "key": "c704f76a97d8", "adr_state": "MO", "adr_city": "Proctorfurt", "type": "CUSTOMER"}
-{"event_time": "2017-02-20T15:35:37.574Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "aaffe9ef07ae", "customer_id": "c704f76a97d8", "type": "SITE_VISIT"}
-{"camera_make": "Sony", "event_time": "2017-02-24T15:35:37.607Z", "camera_model": "SLT-A33", "verb": "UPLOAD", "key": "729af096294f", "customer_id": "c704f76a97d8", "type": "IMAGE"}
-{"total_amount": "95.10 USD", "event_time": "2017-02-13T15:35:37.635Z", "verb": "NEW", "key": "b8725dc722ae", "customer_id": "c704f76a97d8", "type": "ORDER"}
-{"last_name": "Nguyen", "event_time": "2017-02-21T15:35:37.672Z", "verb": "NEW", "key": "672204605471", "adr_state": "NE", "adr_city": "Micheletown", "type": "CUSTOMER"}
-{"event_time": "2017-02-12T15:35:37.693Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "1dd9e91dd7ed", "customer_id": "672204605471", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-21T15:35:37.726Z", "camera_model": "X90", "verb": "UPLOAD", "key": "0feaa2cb2bd9", "customer_id": "672204605471", "type": "IMAGE"}
-{"total_amount": "86.94 USD", "event_time": "2017-02-12T15:35:37.757Z", "verb": "NEW", "key": "1842f2d537d1", "customer_id": "672204605471", "type": "ORDER"}
-{"last_name": "Peters", "event_time": "2017-02-22T15:35:37.777Z", "verb": "NEW", "key": "672204605471", "adr_state": "MH", "adr_city": "Fletchermouth", "type": "CUSTOMER"}
-{"event_time": "2017-02-13T15:35:37.793Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "98f12b3b7eb6", "customer_id": "672204605471", "type": "SITE_VISIT"}
-{"camera_make": "Olympus", "event_time": "2017-02-14T15:35:37.830Z", "camera_model": "FE-45", "verb": "UPLOAD", "key": "3bca5c06645e", "customer_id": "672204605471", "type": "IMAGE"}
-{"total_amount": "65.29 USD", "event_time": "2017-02-24T15:35:37.866Z", "verb": "NEW", "key": "751500ff8a6f", "customer_id": "672204605471", "type": "ORDER"}
-{"last_name": "Morris", "event_time": "2017-02-21T15:35:37.883Z", "verb": "NEW", "key": "672204605471", "adr_state": "TN", "adr_city": "Petersburgh", "type": "CUSTOMER"}
-{"event_time": "2017-02-10T15:35:37.901Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "258dcac66de3", "customer_id": "672204605471", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-10T15:35:37.935Z", "camera_model": "X90", "verb": "UPLOAD", "key": "721a222de96d", "customer_id": "672204605471", "type": "IMAGE"}
-{"total_amount": "71.72 USD", "event_time": "2017-02-20T15:35:37.965Z", "verb": "NEW", "key": "c42492956f3d", "customer_id": "672204605471", "type": "ORDER"}
-{"last_name": "Koch", "event_time": "2017-02-15T15:35:37.984Z", "verb": "NEW", "key": "672204605471", "adr_state": "MI", "adr_city": "Reyesborough", "type": "CUSTOMER"}
-{"event_time": "2017-02-17T15:35:38.009Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "c41bcadd3a9f", "customer_id": "672204605471", "type": "SITE_VISIT"}
-{"camera_make": "Kodak", "event_time": "2017-02-10T15:35:38.039Z", "camera_model": "EasyShare Z981", "verb": "UPLOAD", "key": "e6e241277461", "customer_id": "672204605471", "type": "IMAGE"}
-{"total_amount": "67.77 USD", "event_time": "2017-02-15T15:35:38.071Z", "verb": "NEW", "key": "59deaaa5fd44", "customer_id": "672204605471", "type": "ORDER"}
-{"last_name": "Jenkins", "event_time": "2017-02-13T15:35:38.089Z", "verb": "NEW", "key": "672204605471", "adr_state": "FM", "adr_city": "Jenniferland", "type": "CUSTOMER"}
-{"event_time": "2017-02-18T15:35:38.103Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "3d675a9cb238", "customer_id": "672204605471", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-13T15:35:38.139Z", "camera_model": "D90", "verb": "UPLOAD", "key": "6e8b14eaf292", "customer_id": "672204605471", "type": "IMAGE"}
-{"total_amount": "33.03 USD", "event_time": "2017-02-23T15:35:38.173Z", "verb": "NEW", "key": "511e9fbb20d6", "customer_id": "672204605471", "type": "ORDER"}
-{"last_name": "Pittman", "event_time": "2017-02-10T15:35:38.209Z", "verb": "NEW", "key": "043c6ed0b261", "adr_state": "AK", "adr_city": "South Theresaland", "type": "CUSTOMER"}
-{"event_time": "2017-02-14T15:35:38.227Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "e171b5fc8d88", "customer_id": "043c6ed0b261", "type": "SITE_VISIT"}
-{"camera_make": "Olympus", "event_time": "2017-02-20T15:35:38.266Z", "camera_model": "FE-45", "verb": "UPLOAD", "key": "7d4781c45940", "customer_id": "043c6ed0b261", "type": "IMAGE"}
-{"total_amount": "43.72 USD", "event_time": "2017-02-21T15:35:38.304Z", "verb": "NEW", "key": "ee9d0f3b2336", "customer_id": "043c6ed0b261", "type": "ORDER"}
-{"last_name": "Leon", "event_time": "2017-02-19T15:35:38.321Z", "verb": "NEW", "key": "043c6ed0b261", "adr_state": "OK", "adr_city": "South Ericborough", "type": "CUSTOMER"}
-{"event_time": "2017-02-23T15:35:38.338Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "23aef1a5bf34", "customer_id": "043c6ed0b261", "type": "SITE_VISIT"}
-{"camera_make": "Kodak", "event_time": "2017-02-15T15:35:38.371Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "5be3c8383e3a", "customer_id": "043c6ed0b261", "type": "IMAGE"}
-{"total_amount": "93.73 USD", "event_time": "2017-02-24T15:35:38.399Z", "verb": "NEW", "key": "b6503a0714be", "customer_id": "043c6ed0b261", "type": "ORDER"}
-{"last_name": "Vaughn", "event_time": "2017-02-20T15:35:38.417Z", "verb": "NEW", "key": "043c6ed0b261", "adr_state": "IL", "adr_city": "Garciamouth", "type": "CUSTOMER"}
-{"event_time": "2017-02-24T15:35:38.431Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "0ce3de7e9bd9", "customer_id": "043c6ed0b261", "type": "SITE_VISIT"}
-{"camera_make": "Canon", "event_time": "2017-02-10T15:35:38.469Z", "camera_model": "EOS 80D", "verb": "UPLOAD", "key": "f8e89e3de199", "customer_id": "043c6ed0b261", "type": "IMAGE"}
-{"total_amount": "36.61 USD", "event_time": "2017-02-17T15:35:38.501Z", "verb": "NEW", "key": "ab3663f4c930", "customer_id": "043c6ed0b261", "type": "ORDER"}
-{"last_name": "Black", "event_time": "2017-02-19T15:35:38.518Z", "verb": "NEW", "key": "043c6ed0b261", "adr_state": "OR", "adr_city": "Welchmouth", "type": "CUSTOMER"}
-{"event_time": "2017-02-12T15:35:38.533Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "afba4b211ede", "customer_id": "043c6ed0b261", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-12T15:35:38.562Z", "camera_model": "X90", "verb": "UPLOAD", "key": "72e69a1c3822", "customer_id": "043c6ed0b261", "type": "IMAGE"}
-{"total_amount": "95.39 USD", "event_time": "2017-02-16T15:35:38.591Z", "verb": "NEW", "key": "c643de832bf6", "customer_id": "043c6ed0b261", "type": "ORDER"}
-{"last_name": "Stout", "event_time": "2017-02-12T15:35:38.610Z", "verb": "NEW", "key": "043c6ed0b261", "adr_state": "MS", "adr_city": "Bakerfurt", "type": "CUSTOMER"}
-{"event_time": "2017-02-21T15:35:38.627Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "a21279747949", "customer_id": "043c6ed0b261", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-10T15:35:38.674Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "41fb1fc6043f", "customer_id": "043c6ed0b261", "type": "IMAGE"}
-{"total_amount": "4.78 USD", "event_time": "2017-02-17T15:35:38.714Z", "verb": "NEW", "key": "47c33f2a254b", "customer_id": "043c6ed0b261", "type": "ORDER"}
-{"last_name": "Pierce", "event_time": "2017-02-24T15:35:38.756Z", "verb": "NEW", "key": "678e5d29ad4e", "adr_state": "MP", "adr_city": "New Lauren", "type": "CUSTOMER"}
-{"event_time": "2017-02-16T15:35:38.774Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "ad17c602b45c", "customer_id": "678e5d29ad4e", "type": "SITE_VISIT"}
-{"camera_make": "Fujifilm", "event_time": "2017-02-19T15:35:38.810Z", "camera_model": "X100F", "verb": "UPLOAD", "key": "464f2a70011a", "customer_id": "678e5d29ad4e", "type": "IMAGE"}
-{"total_amount": "60.07 USD", "event_time": "2017-02-13T15:35:38.846Z", "verb": "NEW", "key": "cd856b837260", "customer_id": "678e5d29ad4e", "type": "ORDER"}
-{"last_name": "Robles", "event_time": "2017-02-14T15:35:38.863Z", "verb": "NEW", "key": "678e5d29ad4e", "adr_state": "AS", "adr_city": "Romanside", "type": "CUSTOMER"}
-{"event_time": "2017-02-15T15:35:38.877Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "a1aa2f6962bd", "customer_id": "678e5d29ad4e", "type": "SITE_VISIT"}
-{"camera_make": "Olympus", "event_time": "2017-02-10T15:35:38.916Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "b4bec445d0c1", "customer_id": "678e5d29ad4e", "type": "IMAGE"}
-{"total_amount": "82.14 USD", "event_time": "2017-02-23T15:35:38.955Z", "verb": "NEW", "key": "c852824a4900", "customer_id": "678e5d29ad4e", "type": "ORDER"}
-{"last_name": "Gilbert", "event_time": "2017-02-23T15:35:38.975Z", "verb": "NEW", "key": "678e5d29ad4e", "adr_state": "GU", "adr_city": "Michaeltown", "type": "CUSTOMER"}
-{"event_time": "2017-02-16T15:35:38.989Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "08c2ffbf3aab", "customer_id": "678e5d29ad4e", "type": "SITE_VISIT"}
-{"camera_make": "Fujifilm", "event_time": "2017-02-19T15:35:39.024Z", "camera_model": "X100F", "verb": "UPLOAD", "key": "d36b69e6d85b", "customer_id": "678e5d29ad4e", "type": "IMAGE"}
-{"total_amount": "85.94 USD", "event_time": "2017-02-18T15:35:39.075Z", "verb": "NEW", "key": "67bfc45cedc5", "customer_id": "678e5d29ad4e", "type": "ORDER"}
-{"last_name": "Lopez", "event_time": "2017-02-12T15:35:39.098Z", "verb": "NEW", "key": "678e5d29ad4e", "adr_state": "OK", "adr_city": "Lake Alyssa", "type": "CUSTOMER"}
-{"event_time": "2017-02-19T15:35:39.114Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "1d72f2586e2b", "customer_id": "678e5d29ad4e", "type": "SITE_VISIT"}
-{"camera_make": "Sony", "event_time": "2017-02-20T15:35:39.158Z", "camera_model": "SLT-A33", "verb": "UPLOAD", "key": "c54cf2676a6c", "customer_id": "678e5d29ad4e", "type": "IMAGE"}
-{"total_amount": "73.00 USD", "event_time": "2017-02-22T15:35:39.195Z", "verb": "NEW", "key": "57a93aa88c89", "customer_id": "678e5d29ad4e", "type": "ORDER"}
-{"last_name": "Saunders", "event_time": "2017-02-11T15:35:39.214Z", "verb": "NEW", "key": "678e5d29ad4e", "adr_state": "ND", "adr_city": "Port Williamtown", "type": "CUSTOMER"}
-{"event_time": "2017-02-24T15:35:39.233Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "d6ec9eab4a8a", "customer_id": "678e5d29ad4e", "type": "SITE_VISIT"}
-{"camera_make": "Canon", "event_time": "2017-02-13T15:35:39.262Z", "camera_model": "EOS 6D", "verb": "UPLOAD", "key": "2531959d99d9", "customer_id": "678e5d29ad4e", "type": "IMAGE"}
-{"total_amount": "30.33 USD", "event_time": "2017-02-11T15:35:39.294Z", "verb": "NEW", "key": "ef48e4889c9a", "customer_id": "678e5d29ad4e", "type": "ORDER"}
-{"last_name": "Mendoza", "event_time": "2017-02-10T15:35:39.339Z", "verb": "NEW", "key": "7f5a7fbf54a3", "adr_state": "AR", "adr_city": "Lake Perry", "type": "CUSTOMER"}
-{"event_time": "2017-02-15T15:35:39.357Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "4adc8e66a8be", "customer_id": "7f5a7fbf54a3", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-13T15:35:39.389Z", "camera_model": "X90", "verb": "UPLOAD", "key": "fd9d82039194", "customer_id": "7f5a7fbf54a3", "type": "IMAGE"}
-{"total_amount": "29.33 USD", "event_time": "2017-02-15T15:35:39.426Z", "verb": "NEW", "key": "167e621b4a3e", "customer_id": "7f5a7fbf54a3", "type": "ORDER"}
-{"last_name": "Butler", "event_time": "2017-02-21T15:35:39.461Z", "verb": "NEW", "key": "6fc0320d0585", "adr_state": "AR", "adr_city": "Teresahaven", "type": "CUSTOMER"}
-{"event_time": "2017-02-10T15:35:39.478Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "02b6f4cd2548", "customer_id": "6fc0320d0585", "type": "SITE_VISIT"}
-{"camera_make": "Olympus", "event_time": "2017-02-11T15:35:39.508Z", "camera_model": "FE-45", "verb": "UPLOAD", "key": "f906fa90dc5b", "customer_id": "6fc0320d0585", "type": "IMAGE"}
-{"total_amount": "35.05 USD", "event_time": "2017-02-13T15:35:39.543Z", "verb": "NEW", "key": "cb79ee6d1730", "customer_id": "6fc0320d0585", "type": "ORDER"}
-{"last_name": "Thompson", "event_time": "2017-02-16T15:35:39.561Z", "verb": "NEW", "key": "6fc0320d0585", "adr_state": "AL", "adr_city": "New Andrewstad", "type": "CUSTOMER"}
-{"event_time": "2017-02-18T15:35:39.583Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "d6a921195cff", "customer_id": "6fc0320d0585", "type": "SITE_VISIT"}
-{"camera_make": "Olympus", "event_time": "2017-02-22T15:35:39.615Z", "camera_model": "FE-45", "verb": "UPLOAD", "key": "c8457ac58cad", "customer_id": "6fc0320d0585", "type": "IMAGE"}
-{"total_amount": "69.15 USD", "event_time": "2017-02-14T15:35:39.651Z", "verb": "NEW", "key": "fb84d83a2648", "customer_id": "6fc0320d0585", "type": "ORDER"}
-{"last_name": "Carlson", "event_time": "2017-02-21T15:35:39.669Z", "verb": "NEW", "key": "6fc0320d0585", "adr_state": "AK", "adr_city": "Johnfurt", "type": "CUSTOMER"}
-{"event_time": "2017-02-21T15:35:39.685Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "81d1ab260252", "customer_id": "6fc0320d0585", "type": "SITE_VISIT"}
-{"camera_make": "Sony", "event_time": "2017-02-24T15:35:39.720Z", "camera_model": "SLT-A33", "verb": "UPLOAD", "key": "9c71c39f6d2a", "customer_id": "6fc0320d0585", "type": "IMAGE"}
-{"total_amount": "21.67 USD", "event_time": "2017-02-21T15:35:39.755Z", "verb": "NEW", "key": "47fcf946e4fe", "customer_id": "6fc0320d0585", "type": "ORDER"}
-{"last_name": "Davila", "event_time": "2017-02-16T15:35:39.771Z", "verb": "NEW", "key": "6fc0320d0585", "adr_state": "CA", "adr_city": "Port Emma", "type": "CUSTOMER"}
-{"event_time": "2017-02-22T15:35:39.786Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "81f01f69b300", "customer_id": "6fc0320d0585", "type": "SITE_VISIT"}
-{"camera_make": "Olympus", "event_time": "2017-02-10T15:35:39.814Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "e28526cb07e4", "customer_id": "6fc0320d0585", "type": "IMAGE"}
-{"total_amount": "27.59 USD", "event_time": "2017-02-17T15:35:39.847Z", "verb": "NEW", "key": "85bfefcf2732", "customer_id": "6fc0320d0585", "type": "ORDER"}
-{"last_name": "Porter", "event_time": "2017-02-19T15:35:39.866Z", "verb": "NEW", "key": "6fc0320d0585", "adr_state": "NE", "adr_city": "Lake Alex", "type": "CUSTOMER"}
-{"event_time": "2017-02-22T15:35:39.883Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "37aa62779dad", "customer_id": "6fc0320d0585", "type": "SITE_VISIT"}
-{"camera_make": "Fujifilm", "event_time": "2017-02-24T15:35:39.920Z", "camera_model": "FinePix A150", "verb": "UPLOAD", "key": "2c1291a27976", "customer_id": "6fc0320d0585", "type": "IMAGE"}
-{"total_amount": "39.98 USD", "event_time": "2017-02-13T15:35:39.958Z", "verb": "NEW", "key": "787314f32eed", "customer_id": "6fc0320d0585", "type": "ORDER"}
-{"last_name": "Wheeler", "event_time": "2017-02-10T15:35:39.993Z", "verb": "NEW", "key": "b10996edebba", "adr_state": "IA", "adr_city": "South Nathanchester", "type": "CUSTOMER"}
-{"event_time": "2017-02-12T15:35:40.010Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "1bf4002f5a6e", "customer_id": "b10996edebba", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-21T15:35:40.043Z", "camera_model": "KP", "verb": "UPLOAD", "key": "efb057929fde", "customer_id": "b10996edebba", "type": "IMAGE"}
-{"total_amount": "10.46 USD", "event_time": "2017-02-16T15:35:40.075Z", "verb": "NEW", "key": "4c5daa3b950c", "customer_id": "b10996edebba", "type": "ORDER"}
-{"last_name": "Singh", "event_time": "2017-02-13T15:35:40.112Z", "verb": "NEW", "key": "b10996edebba", "adr_state": "NY", "adr_city": "Davisville", "type": "CUSTOMER"}
-{"event_time": "2017-02-20T15:35:40.128Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "451af0014b6a", "customer_id": "b10996edebba", "type": "SITE_VISIT"}
-{"camera_make": "Sony", "event_time": "2017-02-10T15:35:40.159Z", "camera_model": "SLT-A33", "verb": "UPLOAD", "key": "7e4e9110b989", "customer_id": "b10996edebba", "type": "IMAGE"}
-{"total_amount": "8.72 USD", "event_time": "2017-02-12T15:35:40.198Z", "verb": "NEW", "key": "a6c40188b4b5", "customer_id": "b10996edebba", "type": "ORDER"}
-{"last_name": "Mcdowell", "event_time": "2017-02-16T15:35:40.216Z", "verb": "NEW", "key": "b10996edebba", "adr_state": "CO", "adr_city": "Lake Kristen", "type": "CUSTOMER"}
-{"event_time": "2017-02-12T15:35:40.232Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "80e5df972f53", "customer_id": "b10996edebba", "type": "SITE_VISIT"}
-{"camera_make": "Canon", "event_time": "2017-02-24T15:35:40.266Z", "camera_model": "EOS 6D", "verb": "UPLOAD", "key": "839b9a2eed6b", "customer_id": "b10996edebba", "type": "IMAGE"}
-{"total_amount": "40.15 USD", "event_time": "2017-02-21T15:35:40.302Z", "verb": "NEW", "key": "e837a89f0269", "customer_id": "b10996edebba", "type": "ORDER"}
-{"last_name": "Lopez", "event_time": "2017-02-24T15:35:40.321Z", "verb": "NEW", "key": "b10996edebba", "adr_state": "MI", "adr_city": "Josephton", "type": "CUSTOMER"}
-{"event_time": "2017-02-14T15:35:40.337Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "f496b0ce16ca", "customer_id": "b10996edebba", "type": "SITE_VISIT"}
-{"camera_make": "Sony", "event_time": "2017-02-24T15:35:40.370Z", "camera_model": "Alpha QX1", "verb": "UPLOAD", "key": "16ea9562de9e", "customer_id": "b10996edebba", "type": "IMAGE"}
-{"total_amount": "59.97 USD", "event_time": "2017-02-15T15:35:40.406Z", "verb": "NEW", "key": "58bc58bfc8bc", "customer_id": "b10996edebba", "type": "ORDER"}
-{"last_name": "Wang", "event_time": "2017-02-13T15:35:40.427Z", "verb": "NEW", "key": "b10996edebba", "adr_state": "OK", "adr_city": "South Michelle", "type": "CUSTOMER"}
-{"event_time": "2017-02-24T15:35:40.443Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "44c68478ac58", "customer_id": "b10996edebba", "type": "SITE_VISIT"}
-{"camera_make": "Kodak", "event_time": "2017-02-19T15:35:40.486Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "9db4a1c2b361", "customer_id": "b10996edebba", "type": "IMAGE"}
-{"total_amount": "46.96 USD", "event_time": "2017-02-10T15:35:40.519Z", "verb": "NEW", "key": "08e9c2ef760d", "customer_id": "b10996edebba", "type": "ORDER"}
-{"last_name": "Taylor", "event_time": "2017-02-16T15:35:40.553Z", "verb": "NEW", "key": "d2f8b240533b", "adr_state": "GU", "adr_city": "Rebeccaside", "type": "CUSTOMER"}
-{"event_time": "2017-02-14T15:35:40.567Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "c4d3b569cf09", "customer_id": "d2f8b240533b", "type": "SITE_VISIT"}
-{"camera_make": "Fujifilm", "event_time": "2017-02-18T15:35:40.598Z", "camera_model": "FinePix A150", "verb": "UPLOAD", "key": "afed838d2a6f", "customer_id": "d2f8b240533b", "type": "IMAGE"}
-{"total_amount": "57.83 USD", "event_time": "2017-02-23T15:35:40.632Z", "verb": "NEW", "key": "ee92e66bcf9a", "customer_id": "d2f8b240533b", "type": "ORDER"}
-{"last_name": "Woods", "event_time": "2017-02-23T15:35:40.669Z", "verb": "NEW", "key": "87ac34060a7a", "adr_state": "SD", "adr_city": "East Jason", "type": "CUSTOMER"}
-{"event_time": "2017-02-10T15:35:40.684Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "0cdc4d971150", "customer_id": "87ac34060a7a", "type": "SITE_VISIT"}
-{"camera_make": "Nikon", "event_time": "2017-02-19T15:35:40.716Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "136beef212c1", "customer_id": "87ac34060a7a", "type": "IMAGE"}
-{"total_amount": "86.92 USD", "event_time": "2017-02-17T15:35:40.749Z", "verb": "NEW", "key": "91bb83063e5c", "customer_id": "87ac34060a7a", "type": "ORDER"}
-{"last_name": "Fischer", "event_time": "2017-02-13T15:35:40.773Z", "verb": "NEW", "key": "87ac34060a7a", "adr_state": "CA", "adr_city": "Millsville", "type": "CUSTOMER"}
-{"event_time": "2017-02-21T15:35:40.787Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "502f73092f6f", "customer_id": "87ac34060a7a", "type": "SITE_VISIT"}
-{"camera_make": "Olympus", "event_time": "2017-02-22T15:35:40.817Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "6fc657472238", "customer_id": "87ac34060a7a", "type": "IMAGE"}
-{"total_amount": "87.93 USD", "event_time": "2017-02-20T15:35:40.850Z", "verb": "NEW", "key": "27dba1cda13d", "customer_id": "87ac34060a7a", "type": "ORDER"}
-{"last_name": "Bruce", "event_time": "2017-02-12T15:35:40.868Z", "verb": "NEW", "key": "87ac34060a7a", "adr_state": "NY", "adr_city": "Robertbury", "type": "CUSTOMER"}
-{"event_time": "2017-02-15T15:35:40.883Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "b4847ddd8018", "customer_id": "87ac34060a7a", "type": "SITE_VISIT"}
-{"camera_make": "Pentax", "event_time": "2017-02-14T15:35:40.915Z", "camera_model": "X90", "verb": "UPLOAD", "key": "9e0f475b2014", "customer_id": "87ac34060a7a", "type": "IMAGE"}
-{"total_amount": "87.13 USD", "event_time": "2017-02-16T15:35:40.948Z", "verb": "NEW", "key": "9a06fd4f6d4a", "customer_id": "87ac34060a7a", "type": "ORDER"}
-{"last_name": "Stafford", "event_time": "2017-02-15T15:35:40.969Z", "verb": "NEW", "key": "87ac34060a7a", "adr_state": "IN", "adr_city": "Derekbury", "type": "CUSTOMER"}
-{"event_time": "2017-02-18T15:35:40.985Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "49b57cac034b", "customer_id": "87ac34060a7a", "type": "SITE_VISIT"}
-{"camera_make": "Olympus", "event_time": "2017-02-10T15:35:41.017Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "753dcbc79e24", "customer_id": "87ac34060a7a", "type": "IMAGE"}
-{"total_amount": "50.89 USD", "event_time": "2017-02-17T15:35:41.049Z", "verb": "NEW", "key": "f796f3ef2e1a", "customer_id": "87ac34060a7a", "type": "ORDER"}
-{"last_name": "Marshall", "event_time": "2017-02-14T15:35:41.068Z", "verb": "NEW", "key": "87ac34060a7a", "adr_state": "MS", "adr_city": "New Staceyhaven", "type": "CUSTOMER"}
-{"event_time": "2017-02-14T15:35:41.086Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "e349b61ca7da", "customer_id": "87ac34060a7a", "type": "SITE_VISIT"}
-{"camera_make": "Fujifilm", "event_time": "2017-02-19T15:35:41.118Z", "camera_model": "FinePix A150", "verb": "UPLOAD", "key": "d89425efcce5", "customer_id": "87ac34060a7a", "type": "IMAGE"}
-{"total_amount": "12.90 USD", "event_time": "2017-02-11T15:35:41.154Z", "verb": "NEW", "key": "3c6206b63531", "customer_id": "87ac34060a7a", "type": "ORDER"}
+{"last_name": "Thompson", "event_time": "2017-02-23T16:59:24.755Z", "verb": "NEW", "key": "9bc11d8ac1dd", "adr_state": "CO", "adr_city": "North Johnny", "type": "CUSTOMER"}
+{"event_time": "2017-02-17T16:59:24.770Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "9f69ce6df5a1", "customer_id": "9bc11d8ac1dd", "type": "SITE_VISIT"}
+{"camera_make": "Olympus", "event_time": "2017-02-24T16:59:24.807Z", "camera_model": "FE-45", "verb": "UPLOAD", "key": "1bd83b6247c9", "customer_id": "9bc11d8ac1dd", "type": "IMAGE"}
+{"total_amount": "48.64 USD", "event_time": "2017-02-19T16:59:24.835Z", "verb": "NEW", "key": "c12ad0d93a2b", "customer_id": "9bc11d8ac1dd", "type": "ORDER"}
+{"last_name": "Jones", "event_time": "2017-02-14T16:59:24.864Z", "verb": "NEW", "key": "136395ff6a28", "adr_state": "DC", "adr_city": "Colebury", "type": "CUSTOMER"}
+{"event_time": "2017-02-13T16:59:24.878Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "a1e844194542", "customer_id": "136395ff6a28", "type": "SITE_VISIT"}
+{"camera_make": "Olympus", "event_time": "2017-02-14T16:59:24.909Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "4ab24c3923c3", "customer_id": "136395ff6a28", "type": "IMAGE"}
+{"total_amount": "96.88 USD", "event_time": "2017-02-20T16:59:24.944Z", "verb": "NEW", "key": "284f7d47b59f", "customer_id": "136395ff6a28", "type": "ORDER"}
+{"last_name": "Jones", "event_time": "2017-02-14T16:59:24.864Z", "verb": "NEW", "key": "136395ff6a28", "adr_state": "DC", "adr_city": "Colebury", "type": "CUSTOMER"}
+{"event_time": "2017-02-16T16:59:24.961Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "3e5df4719a2c", "customer_id": "136395ff6a28", "type": "SITE_VISIT"}
+{"camera_make": "Fujifilm", "event_time": "2017-02-24T16:59:24.991Z", "camera_model": "X100F", "verb": "UPLOAD", "key": "a60c1b81c89a", "customer_id": "136395ff6a28", "type": "IMAGE"}
+{"total_amount": "76.14 USD", "event_time": "2017-02-14T16:59:25.023Z", "verb": "NEW", "key": "9771b0defc80", "customer_id": "136395ff6a28", "type": "ORDER"}
+{"last_name": "Jones", "event_time": "2017-02-14T16:59:24.864Z", "verb": "NEW", "key": "136395ff6a28", "adr_state": "DC", "adr_city": "Colebury", "type": "CUSTOMER"}
+{"event_time": "2017-02-19T16:59:25.038Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "916b42a26f3c", "customer_id": "136395ff6a28", "type": "SITE_VISIT"}
+{"camera_make": "Sony", "event_time": "2017-02-11T16:59:25.066Z", "camera_model": "SLT-A33", "verb": "UPLOAD", "key": "b15ae6b66078", "customer_id": "136395ff6a28", "type": "IMAGE"}
+{"total_amount": "0.18 USD", "event_time": "2017-02-14T16:59:25.101Z", "verb": "NEW", "key": "0ffadb70705a", "customer_id": "136395ff6a28", "type": "ORDER"}
+{"last_name": "Jones", "event_time": "2017-02-14T16:59:24.864Z", "verb": "NEW", "key": "136395ff6a28", "adr_state": "DC", "adr_city": "Colebury", "type": "CUSTOMER"}
+{"event_time": "2017-02-20T16:59:25.116Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "e82329bc9934", "customer_id": "136395ff6a28", "type": "SITE_VISIT"}
+{"camera_make": "Canon", "event_time": "2017-02-16T16:59:25.149Z", "camera_model": "EOS 80D", "verb": "UPLOAD", "key": "3af33c515338", "customer_id": "136395ff6a28", "type": "IMAGE"}
+{"total_amount": "97.58 USD", "event_time": "2017-02-11T16:59:25.180Z", "verb": "NEW", "key": "4a3afb56f979", "customer_id": "136395ff6a28", "type": "ORDER"}
+{"last_name": "Scott", "event_time": "2017-02-24T16:59:25.220Z", "verb": "NEW", "key": "2eb18f75817d", "adr_state": "AL", "adr_city": "South Kennethstad", "type": "CUSTOMER"}
+{"event_time": "2017-02-10T16:59:25.235Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "d4e3cf92af1c", "customer_id": "2eb18f75817d", "type": "SITE_VISIT"}
+{"camera_make": "Fujifilm", "event_time": "2017-02-24T16:59:25.274Z", "camera_model": "X100F", "verb": "UPLOAD", "key": "3be5afdcce85", "customer_id": "2eb18f75817d", "type": "IMAGE"}
+{"total_amount": "7.22 USD", "event_time": "2017-02-23T16:59:25.306Z", "verb": "NEW", "key": "32c7c5994dec", "customer_id": "2eb18f75817d", "type": "ORDER"}
+{"last_name": "Scott", "event_time": "2017-02-24T16:59:25.220Z", "verb": "NEW", "key": "2eb18f75817d", "adr_state": "AL", "adr_city": "South Kennethstad", "type": "CUSTOMER"}
+{"event_time": "2017-02-19T16:59:25.324Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "e2d37b561495", "customer_id": "2eb18f75817d", "type": "SITE_VISIT"}
+{"camera_make": "Canon", "event_time": "2017-02-17T16:59:25.354Z", "camera_model": "EOS 6D", "verb": "UPLOAD", "key": "8264269d257c", "customer_id": "2eb18f75817d", "type": "IMAGE"}
+{"total_amount": "31.66 USD", "event_time": "2017-02-13T16:59:25.386Z", "verb": "NEW", "key": "1a53c66ffecf", "customer_id": "2eb18f75817d", "type": "ORDER"}
+{"last_name": "Hunt", "event_time": "2017-02-16T16:59:25.419Z", "verb": "NEW", "key": "817a2b9f1b49", "adr_state": "HI", "adr_city": "Christopherchester", "type": "CUSTOMER"}
+{"event_time": "2017-02-11T16:59:25.433Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "61267d283c3e", "customer_id": "817a2b9f1b49", "type": "SITE_VISIT"}
+{"camera_make": "Olympus", "event_time": "2017-02-21T16:59:25.463Z", "camera_model": "FE-45", "verb": "UPLOAD", "key": "96a6fe365ff9", "customer_id": "817a2b9f1b49", "type": "IMAGE"}
+{"total_amount": "20.71 USD", "event_time": "2017-02-17T16:59:25.498Z", "verb": "NEW", "key": "0ac27928757d", "customer_id": "817a2b9f1b49", "type": "ORDER"}
+{"last_name": "Hunt", "event_time": "2017-02-16T16:59:25.419Z", "verb": "NEW", "key": "817a2b9f1b49", "adr_state": "HI", "adr_city": "Christopherchester", "type": "CUSTOMER"}
+{"event_time": "2017-02-16T16:59:25.514Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "da61caf29bc2", "customer_id": "817a2b9f1b49", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-17T16:59:25.545Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "84adbb467040", "customer_id": "817a2b9f1b49", "type": "IMAGE"}
+{"total_amount": "10.40 USD", "event_time": "2017-02-23T16:59:25.576Z", "verb": "NEW", "key": "9993b11ffeba", "customer_id": "817a2b9f1b49", "type": "ORDER"}
+{"last_name": "Hunt", "event_time": "2017-02-16T16:59:25.419Z", "verb": "NEW", "key": "817a2b9f1b49", "adr_state": "HI", "adr_city": "Christopherchester", "type": "CUSTOMER"}
+{"event_time": "2017-02-13T16:59:25.591Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "4bd75b835758", "customer_id": "817a2b9f1b49", "type": "SITE_VISIT"}
+{"camera_make": "Sony", "event_time": "2017-02-21T16:59:25.619Z", "camera_model": "SLT-A33", "verb": "UPLOAD", "key": "0fe61d8a44f4", "customer_id": "817a2b9f1b49", "type": "IMAGE"}
+{"total_amount": "68.05 USD", "event_time": "2017-02-24T16:59:25.649Z", "verb": "NEW", "key": "025441793a95", "customer_id": "817a2b9f1b49", "type": "ORDER"}
+{"last_name": "Hunt", "event_time": "2017-02-16T16:59:25.419Z", "verb": "NEW", "key": "817a2b9f1b49", "adr_state": "HI", "adr_city": "Christopherchester", "type": "CUSTOMER"}
+{"event_time": "2017-02-13T16:59:25.663Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "e33cd51ca066", "customer_id": "817a2b9f1b49", "type": "SITE_VISIT"}
+{"camera_make": "Fujifilm", "event_time": "2017-02-16T16:59:25.702Z", "camera_model": "FinePix A150", "verb": "UPLOAD", "key": "bcb70aa87334", "customer_id": "817a2b9f1b49", "type": "IMAGE"}
+{"total_amount": "81.34 USD", "event_time": "2017-02-17T16:59:25.738Z", "verb": "NEW", "key": "331d33c0076d", "customer_id": "817a2b9f1b49", "type": "ORDER"}
+{"last_name": "Hunt", "event_time": "2017-02-16T16:59:25.419Z", "verb": "NEW", "key": "817a2b9f1b49", "adr_state": "HI", "adr_city": "Christopherchester", "type": "CUSTOMER"}
+{"event_time": "2017-02-10T16:59:25.756Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "74018dcee811", "customer_id": "817a2b9f1b49", "type": "SITE_VISIT"}
+{"camera_make": "Fujifilm", "event_time": "2017-02-21T16:59:25.790Z", "camera_model": "FinePix A150", "verb": "UPLOAD", "key": "10737c1e5412", "customer_id": "817a2b9f1b49", "type": "IMAGE"}
+{"total_amount": "75.32 USD", "event_time": "2017-02-16T16:59:25.820Z", "verb": "NEW", "key": "af936d8d7bd9", "customer_id": "817a2b9f1b49", "type": "ORDER"}
+{"last_name": "Thomas", "event_time": "2017-02-17T16:59:25.857Z", "verb": "NEW", "key": "231995cf0916", "adr_state": "MO", "adr_city": "East Yolandashire", "type": "CUSTOMER"}
+{"event_time": "2017-02-12T16:59:25.873Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "754909bbc33e", "customer_id": "231995cf0916", "type": "SITE_VISIT"}
+{"camera_make": "Pentax", "event_time": "2017-02-20T16:59:25.902Z", "camera_model": "X90", "verb": "UPLOAD", "key": "48aac1fbfaf8", "customer_id": "231995cf0916", "type": "IMAGE"}
+{"total_amount": "61.27 USD", "event_time": "2017-02-10T16:59:25.934Z", "verb": "NEW", "key": "1f75373a5708", "customer_id": "231995cf0916", "type": "ORDER"}
+{"last_name": "Thomas", "event_time": "2017-02-17T16:59:25.857Z", "verb": "NEW", "key": "231995cf0916", "adr_state": "MO", "adr_city": "East Yolandashire", "type": "CUSTOMER"}
+{"event_time": "2017-02-22T16:59:25.955Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "35b99c7894cd", "customer_id": "231995cf0916", "type": "SITE_VISIT"}
+{"camera_make": "Fujifilm", "event_time": "2017-02-12T16:59:25.988Z", "camera_model": "FinePix A150", "verb": "UPLOAD", "key": "8e0a5186ed44", "customer_id": "231995cf0916", "type": "IMAGE"}
+{"total_amount": "66.96 USD", "event_time": "2017-02-22T16:59:26.029Z", "verb": "NEW", "key": "f229f814cf6f", "customer_id": "231995cf0916", "type": "ORDER"}
+{"last_name": "Thomas", "event_time": "2017-02-17T16:59:25.857Z", "verb": "NEW", "key": "231995cf0916", "adr_state": "MO", "adr_city": "East Yolandashire", "type": "CUSTOMER"}
+{"event_time": "2017-02-19T16:59:26.046Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "a5b3c1005d19", "customer_id": "231995cf0916", "type": "SITE_VISIT"}
+{"camera_make": "Pentax", "event_time": "2017-02-12T16:59:26.076Z", "camera_model": "X90", "verb": "UPLOAD", "key": "129469b962cc", "customer_id": "231995cf0916", "type": "IMAGE"}
+{"total_amount": "78.52 USD", "event_time": "2017-02-14T16:59:26.114Z", "verb": "NEW", "key": "0ec0066d3f1a", "customer_id": "231995cf0916", "type": "ORDER"}
+{"last_name": "Thomas", "event_time": "2017-02-17T16:59:25.857Z", "verb": "NEW", "key": "231995cf0916", "adr_state": "MO", "adr_city": "East Yolandashire", "type": "CUSTOMER"}
+{"event_time": "2017-02-17T16:59:26.127Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "39115d7d6026", "customer_id": "231995cf0916", "type": "SITE_VISIT"}
+{"camera_make": "Pentax", "event_time": "2017-02-12T16:59:26.159Z", "camera_model": "X90", "verb": "UPLOAD", "key": "5c8e2e2d84fc", "customer_id": "231995cf0916", "type": "IMAGE"}
+{"total_amount": "28.13 USD", "event_time": "2017-02-22T16:59:26.189Z", "verb": "NEW", "key": "2a8bf3d8b761", "customer_id": "231995cf0916", "type": "ORDER"}
+{"last_name": "Hill", "event_time": "2017-02-11T16:59:26.227Z", "verb": "NEW", "key": "dbb7f5a2c0d4", "adr_state": "NH", "adr_city": "Juliafort", "type": "CUSTOMER"}
+{"event_time": "2017-02-11T16:59:26.243Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "dbc049c46a0c", "customer_id": "dbb7f5a2c0d4", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-17T16:59:26.277Z", "camera_model": "EasyShare Z981", "verb": "UPLOAD", "key": "8bf6f6cf975f", "customer_id": "dbb7f5a2c0d4", "type": "IMAGE"}
+{"total_amount": "39.64 USD", "event_time": "2017-02-16T16:59:26.308Z", "verb": "NEW", "key": "f9036ba06859", "customer_id": "dbb7f5a2c0d4", "type": "ORDER"}
+{"last_name": "Howell", "event_time": "2017-02-24T16:59:26.340Z", "verb": "NEW", "key": "0b46c0536ee4", "adr_state": "GA", "adr_city": "North Brian", "type": "CUSTOMER"}
+{"event_time": "2017-02-11T16:59:26.355Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "98242ae9325d", "customer_id": "0b46c0536ee4", "type": "SITE_VISIT"}
+{"camera_make": "Olympus", "event_time": "2017-02-22T16:59:26.384Z", "camera_model": "FE-45", "verb": "UPLOAD", "key": "2bbf16508086", "customer_id": "0b46c0536ee4", "type": "IMAGE"}
+{"total_amount": "62.49 USD", "event_time": "2017-02-16T16:59:26.418Z", "verb": "NEW", "key": "b3807becd3e0", "customer_id": "0b46c0536ee4", "type": "ORDER"}
+{"last_name": "Howell", "event_time": "2017-02-24T16:59:26.340Z", "verb": "NEW", "key": "0b46c0536ee4", "adr_state": "GA", "adr_city": "North Brian", "type": "CUSTOMER"}
+{"event_time": "2017-02-12T16:59:26.432Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "42f6b58887b4", "customer_id": "0b46c0536ee4", "type": "SITE_VISIT"}
+{"camera_make": "Pentax", "event_time": "2017-02-11T16:59:26.465Z", "camera_model": "X90", "verb": "UPLOAD", "key": "c5540f7e598e", "customer_id": "0b46c0536ee4", "type": "IMAGE"}
+{"total_amount": "20.58 USD", "event_time": "2017-02-24T16:59:26.501Z", "verb": "NEW", "key": "35819cdcdc7b", "customer_id": "0b46c0536ee4", "type": "ORDER"}
+{"last_name": "Howell", "event_time": "2017-02-24T16:59:26.340Z", "verb": "NEW", "key": "0b46c0536ee4", "adr_state": "GA", "adr_city": "North Brian", "type": "CUSTOMER"}
+{"event_time": "2017-02-14T16:59:26.517Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "cef9b28a707d", "customer_id": "0b46c0536ee4", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-16T16:59:26.549Z", "camera_model": "D90", "verb": "UPLOAD", "key": "2267b178955a", "customer_id": "0b46c0536ee4", "type": "IMAGE"}
+{"total_amount": "12.88 USD", "event_time": "2017-02-12T16:59:26.580Z", "verb": "NEW", "key": "2d0ee867ea08", "customer_id": "0b46c0536ee4", "type": "ORDER"}
+{"last_name": "Ramirez", "event_time": "2017-02-20T16:59:26.616Z", "verb": "NEW", "key": "4447afe26ff7", "adr_state": "NJ", "adr_city": "New Christy", "type": "CUSTOMER"}
+{"event_time": "2017-02-24T16:59:26.633Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "958986767033", "customer_id": "4447afe26ff7", "type": "SITE_VISIT"}
+{"camera_make": "Canon", "event_time": "2017-02-17T16:59:26.663Z", "camera_model": "EOS 6D", "verb": "UPLOAD", "key": "8e8a238c9bbe", "customer_id": "4447afe26ff7", "type": "IMAGE"}
+{"total_amount": "47.00 USD", "event_time": "2017-02-20T16:59:26.693Z", "verb": "NEW", "key": "d1d5aba52034", "customer_id": "4447afe26ff7", "type": "ORDER"}
+{"last_name": "Ramirez", "event_time": "2017-02-20T16:59:26.616Z", "verb": "NEW", "key": "4447afe26ff7", "adr_state": "NJ", "adr_city": "New Christy", "type": "CUSTOMER"}
+{"event_time": "2017-02-11T16:59:26.708Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "05267d79e1bb", "customer_id": "4447afe26ff7", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-15T16:59:26.737Z", "camera_model": "D90", "verb": "UPLOAD", "key": "f47ef8dbb287", "customer_id": "4447afe26ff7", "type": "IMAGE"}
+{"total_amount": "86.42 USD", "event_time": "2017-02-23T16:59:26.771Z", "verb": "NEW", "key": "42b2863e3dd8", "customer_id": "4447afe26ff7", "type": "ORDER"}
+{"last_name": "Ramirez", "event_time": "2017-02-20T16:59:26.616Z", "verb": "NEW", "key": "4447afe26ff7", "adr_state": "NJ", "adr_city": "New Christy", "type": "CUSTOMER"}
+{"event_time": "2017-02-11T16:59:26.787Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "6238d1d96e4d", "customer_id": "4447afe26ff7", "type": "SITE_VISIT"}
+{"camera_make": "Sony", "event_time": "2017-02-21T16:59:26.820Z", "camera_model": "SLT-A33", "verb": "UPLOAD", "key": "d1ef4f5deb17", "customer_id": "4447afe26ff7", "type": "IMAGE"}
+{"total_amount": "61.66 USD", "event_time": "2017-02-12T16:59:26.854Z", "verb": "NEW", "key": "0512f7449da4", "customer_id": "4447afe26ff7", "type": "ORDER"}
+{"last_name": "Ponce", "event_time": "2017-02-13T16:59:26.887Z", "verb": "NEW", "key": "7d7fe2b3091c", "adr_state": "MO", "adr_city": "North Misty", "type": "CUSTOMER"}
+{"event_time": "2017-02-17T16:59:26.902Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "015b7bccc748", "customer_id": "7d7fe2b3091c", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-13T16:59:26.931Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "cf42af3aed77", "customer_id": "7d7fe2b3091c", "type": "IMAGE"}
+{"total_amount": "47.67 USD", "event_time": "2017-02-22T16:59:26.968Z", "verb": "NEW", "key": "1b29013aaf6b", "customer_id": "7d7fe2b3091c", "type": "ORDER"}
+{"last_name": "Ponce", "event_time": "2017-02-13T16:59:26.887Z", "verb": "NEW", "key": "7d7fe2b3091c", "adr_state": "MO", "adr_city": "North Misty", "type": "CUSTOMER"}
+{"event_time": "2017-02-15T16:59:26.988Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "2625a65d86a9", "customer_id": "7d7fe2b3091c", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-16T16:59:27.024Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "34aba6f1df05", "customer_id": "7d7fe2b3091c", "type": "IMAGE"}
+{"total_amount": "16.29 USD", "event_time": "2017-02-15T16:59:27.054Z", "verb": "NEW", "key": "6c88b942f1bf", "customer_id": "7d7fe2b3091c", "type": "ORDER"}
+{"last_name": "Ponce", "event_time": "2017-02-13T16:59:26.887Z", "verb": "NEW", "key": "7d7fe2b3091c", "adr_state": "MO", "adr_city": "North Misty", "type": "CUSTOMER"}
+{"event_time": "2017-02-20T16:59:27.068Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "6dc66fd0e8d4", "customer_id": "7d7fe2b3091c", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-13T16:59:27.100Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "58f7ffc62cc8", "customer_id": "7d7fe2b3091c", "type": "IMAGE"}
+{"total_amount": "89.13 USD", "event_time": "2017-02-24T16:59:27.132Z", "verb": "NEW", "key": "4312de677148", "customer_id": "7d7fe2b3091c", "type": "ORDER"}
+{"last_name": "Ponce", "event_time": "2017-02-13T16:59:26.887Z", "verb": "NEW", "key": "7d7fe2b3091c", "adr_state": "MO", "adr_city": "North Misty", "type": "CUSTOMER"}
+{"event_time": "2017-02-17T16:59:27.147Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "88f22a1201f0", "customer_id": "7d7fe2b3091c", "type": "SITE_VISIT"}
+{"camera_make": "Pentax", "event_time": "2017-02-22T16:59:27.182Z", "camera_model": "KP", "verb": "UPLOAD", "key": "0cc96eb206a7", "customer_id": "7d7fe2b3091c", "type": "IMAGE"}
+{"total_amount": "13.67 USD", "event_time": "2017-02-18T16:59:27.213Z", "verb": "NEW", "key": "8cf1e947a4a1", "customer_id": "7d7fe2b3091c", "type": "ORDER"}
+{"last_name": "Hernandez", "event_time": "2017-02-17T16:59:27.251Z", "verb": "NEW", "key": "76183c3baa6c", "adr_state": "MT", "adr_city": "Byrdfort", "type": "CUSTOMER"}
+{"event_time": "2017-02-18T16:59:27.268Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "5f374586fdb8", "customer_id": "76183c3baa6c", "type": "SITE_VISIT"}
+{"camera_make": "Pentax", "event_time": "2017-02-19T16:59:27.307Z", "camera_model": "X90", "verb": "UPLOAD", "key": "ccdfca8ec31e", "customer_id": "76183c3baa6c", "type": "IMAGE"}
+{"total_amount": "18.40 USD", "event_time": "2017-02-12T16:59:27.337Z", "verb": "NEW", "key": "4d832f5b1078", "customer_id": "76183c3baa6c", "type": "ORDER"}
+{"last_name": "Jensen", "event_time": "2017-02-20T16:59:27.370Z", "verb": "NEW", "key": "5a4a630327a0", "adr_state": "AS", "adr_city": "North Robertmouth", "type": "CUSTOMER"}
+{"event_time": "2017-02-11T16:59:27.388Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "9fd5d3377862", "customer_id": "5a4a630327a0", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-14T16:59:27.425Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "ebe863ebd5d6", "customer_id": "5a4a630327a0", "type": "IMAGE"}
+{"total_amount": "52.54 USD", "event_time": "2017-02-23T16:59:27.461Z", "verb": "NEW", "key": "6817356a22ef", "customer_id": "5a4a630327a0", "type": "ORDER"}
+{"last_name": "Jensen", "event_time": "2017-02-20T16:59:27.370Z", "verb": "NEW", "key": "5a4a630327a0", "adr_state": "AS", "adr_city": "North Robertmouth", "type": "CUSTOMER"}
+{"event_time": "2017-02-21T16:59:27.476Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "94bed00471aa", "customer_id": "5a4a630327a0", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-18T16:59:27.510Z", "camera_model": "D90", "verb": "UPLOAD", "key": "191314382ae6", "customer_id": "5a4a630327a0", "type": "IMAGE"}
+{"total_amount": "63.42 USD", "event_time": "2017-02-11T16:59:27.542Z", "verb": "NEW", "key": "3ff5123ff1ce", "customer_id": "5a4a630327a0", "type": "ORDER"}
+{"last_name": "Jensen", "event_time": "2017-02-20T16:59:27.370Z", "verb": "NEW", "key": "5a4a630327a0", "adr_state": "AS", "adr_city": "North Robertmouth", "type": "CUSTOMER"}
+{"event_time": "2017-02-20T16:59:27.560Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "14f82255b919", "customer_id": "5a4a630327a0", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-19T16:59:27.592Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "1786d01fdb1f", "customer_id": "5a4a630327a0", "type": "IMAGE"}
+{"total_amount": "56.59 USD", "event_time": "2017-02-18T16:59:27.624Z", "verb": "NEW", "key": "5748d6a4dd8a", "customer_id": "5a4a630327a0", "type": "ORDER"}
+{"last_name": "Rivera", "event_time": "2017-02-19T16:59:27.656Z", "verb": "NEW", "key": "f879ce019eb7", "adr_state": "WI", "adr_city": "Lynnbury", "type": "CUSTOMER"}
+{"event_time": "2017-02-11T16:59:27.671Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "aae301869ead", "customer_id": "f879ce019eb7", "type": "SITE_VISIT"}
+{"camera_make": "Pentax", "event_time": "2017-02-19T16:59:27.704Z", "camera_model": "X90", "verb": "UPLOAD", "key": "f66bf2f77386", "customer_id": "f879ce019eb7", "type": "IMAGE"}
+{"total_amount": "32.21 USD", "event_time": "2017-02-11T16:59:27.732Z", "verb": "NEW", "key": "3666bbe84592", "customer_id": "f879ce019eb7", "type": "ORDER"}
+{"last_name": "Rivera", "event_time": "2017-02-19T16:59:27.656Z", "verb": "NEW", "key": "f879ce019eb7", "adr_state": "WI", "adr_city": "Lynnbury", "type": "CUSTOMER"}
+{"event_time": "2017-02-16T16:59:27.746Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "eb76091e1178", "customer_id": "f879ce019eb7", "type": "SITE_VISIT"}
+{"camera_make": "Sony", "event_time": "2017-02-11T16:59:27.774Z", "camera_model": "Alpha QX1", "verb": "UPLOAD", "key": "31956e18ad1f", "customer_id": "f879ce019eb7", "type": "IMAGE"}
+{"total_amount": "66.34 USD", "event_time": "2017-02-24T16:59:27.809Z", "verb": "NEW", "key": "c130e2eb4448", "customer_id": "f879ce019eb7", "type": "ORDER"}
+{"last_name": "Rivera", "event_time": "2017-02-19T16:59:27.656Z", "verb": "NEW", "key": "f879ce019eb7", "adr_state": "WI", "adr_city": "Lynnbury", "type": "CUSTOMER"}
+{"event_time": "2017-02-24T16:59:27.825Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "82a0bb912716", "customer_id": "f879ce019eb7", "type": "SITE_VISIT"}
+{"camera_make": "Sony", "event_time": "2017-02-16T16:59:27.856Z", "camera_model": "Alpha QX1", "verb": "UPLOAD", "key": "06b10c73acf8", "customer_id": "f879ce019eb7", "type": "IMAGE"}
+{"total_amount": "70.65 USD", "event_time": "2017-02-10T16:59:27.890Z", "verb": "NEW", "key": "638b61d8d94c", "customer_id": "f879ce019eb7", "type": "ORDER"}
+{"last_name": "Rivera", "event_time": "2017-02-19T16:59:27.656Z", "verb": "NEW", "key": "f879ce019eb7", "adr_state": "WI", "adr_city": "Lynnbury", "type": "CUSTOMER"}
+{"event_time": "2017-02-16T16:59:27.904Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "2d31d35400a5", "customer_id": "f879ce019eb7", "type": "SITE_VISIT"}
+{"camera_make": "Olympus", "event_time": "2017-02-19T16:59:27.934Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "ace9069f974c", "customer_id": "f879ce019eb7", "type": "IMAGE"}
+{"total_amount": "57.34 USD", "event_time": "2017-02-24T16:59:27.967Z", "verb": "NEW", "key": "12694603ff69", "customer_id": "f879ce019eb7", "type": "ORDER"}
+{"last_name": "Rivera", "event_time": "2017-02-19T16:59:27.656Z", "verb": "NEW", "key": "f879ce019eb7", "adr_state": "WI", "adr_city": "Lynnbury", "type": "CUSTOMER"}
+{"event_time": "2017-02-17T16:59:27.982Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "e0f42ff3ac4e", "customer_id": "f879ce019eb7", "type": "SITE_VISIT"}
+{"camera_make": "Canon", "event_time": "2017-02-22T16:59:28.010Z", "camera_model": "EOS 6D", "verb": "UPLOAD", "key": "8bb386aab8b5", "customer_id": "f879ce019eb7", "type": "IMAGE"}
+{"total_amount": "68.13 USD", "event_time": "2017-02-19T16:59:28.042Z", "verb": "NEW", "key": "0f23dc39a448", "customer_id": "f879ce019eb7", "type": "ORDER"}
+{"last_name": "Brown", "event_time": "2017-02-11T16:59:28.076Z", "verb": "NEW", "key": "bba3b3f03bfb", "adr_state": "UT", "adr_city": "Richardside", "type": "CUSTOMER"}
+{"event_time": "2017-02-11T16:59:28.091Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "a8b17af3cffd", "customer_id": "bba3b3f03bfb", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-18T16:59:28.126Z", "camera_model": "D90", "verb": "UPLOAD", "key": "9521d658e8a5", "customer_id": "bba3b3f03bfb", "type": "IMAGE"}
+{"total_amount": "47.89 USD", "event_time": "2017-02-13T16:59:28.163Z", "verb": "NEW", "key": "a8f7a7004d43", "customer_id": "bba3b3f03bfb", "type": "ORDER"}
+{"last_name": "Vaughn", "event_time": "2017-02-23T16:59:28.200Z", "verb": "NEW", "key": "297286f6705c", "adr_state": "CA", "adr_city": "North Katrina", "type": "CUSTOMER"}
+{"event_time": "2017-02-16T16:59:28.215Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "b405da3149c0", "customer_id": "297286f6705c", "type": "SITE_VISIT"}
+{"camera_make": "Olympus", "event_time": "2017-02-16T16:59:28.246Z", "camera_model": "FE-45", "verb": "UPLOAD", "key": "998a64c68972", "customer_id": "297286f6705c", "type": "IMAGE"}
+{"total_amount": "59.18 USD", "event_time": "2017-02-20T16:59:28.277Z", "verb": "NEW", "key": "da50e934306a", "customer_id": "297286f6705c", "type": "ORDER"}
+{"last_name": "Vaughn", "event_time": "2017-02-23T16:59:28.200Z", "verb": "NEW", "key": "297286f6705c", "adr_state": "CA", "adr_city": "North Katrina", "type": "CUSTOMER"}
+{"event_time": "2017-02-24T16:59:28.297Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "d713f22da324", "customer_id": "297286f6705c", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-13T16:59:28.327Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "ebc72e18912f", "customer_id": "297286f6705c", "type": "IMAGE"}
+{"total_amount": "12.35 USD", "event_time": "2017-02-10T16:59:28.367Z", "verb": "NEW", "key": "1594adcdb7f4", "customer_id": "297286f6705c", "type": "ORDER"}
+{"last_name": "Garcia", "event_time": "2017-02-24T16:59:28.397Z", "verb": "NEW", "key": "59e1334b00e9", "adr_state": "UT", "adr_city": "Carlosfurt", "type": "CUSTOMER"}
+{"event_time": "2017-02-14T16:59:28.416Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "5ffe558928e7", "customer_id": "59e1334b00e9", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-22T16:59:28.445Z", "camera_model": "EasyShare Z981", "verb": "UPLOAD", "key": "f6701c05b03f", "customer_id": "59e1334b00e9", "type": "IMAGE"}
+{"total_amount": "60.04 USD", "event_time": "2017-02-23T16:59:28.480Z", "verb": "NEW", "key": "3c0387d94366", "customer_id": "59e1334b00e9", "type": "ORDER"}
+{"last_name": "Garcia", "event_time": "2017-02-24T16:59:28.397Z", "verb": "NEW", "key": "59e1334b00e9", "adr_state": "UT", "adr_city": "Carlosfurt", "type": "CUSTOMER"}
+{"event_time": "2017-02-11T16:59:28.494Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "19ae5aefa034", "customer_id": "59e1334b00e9", "type": "SITE_VISIT"}
+{"camera_make": "Fujifilm", "event_time": "2017-02-13T16:59:28.522Z", "camera_model": "FinePix A150", "verb": "UPLOAD", "key": "dedd650bfa31", "customer_id": "59e1334b00e9", "type": "IMAGE"}
+{"total_amount": "35.51 USD", "event_time": "2017-02-21T16:59:28.559Z", "verb": "NEW", "key": "43eeddfdef30", "customer_id": "59e1334b00e9", "type": "ORDER"}
+{"last_name": "Garcia", "event_time": "2017-02-24T16:59:28.397Z", "verb": "NEW", "key": "59e1334b00e9", "adr_state": "UT", "adr_city": "Carlosfurt", "type": "CUSTOMER"}
+{"event_time": "2017-02-23T16:59:28.574Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "70969e834d23", "customer_id": "59e1334b00e9", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-19T16:59:28.603Z", "camera_model": "EasyShare Z981", "verb": "UPLOAD", "key": "b1eb09c2258b", "customer_id": "59e1334b00e9", "type": "IMAGE"}
+{"total_amount": "52.38 USD", "event_time": "2017-02-10T16:59:28.634Z", "verb": "NEW", "key": "e2ddccae25e9", "customer_id": "59e1334b00e9", "type": "ORDER"}
+{"last_name": "Thompson", "event_time": "2017-02-18T16:59:28.664Z", "verb": "NEW", "key": "297abdfd821e", "adr_state": "NM", "adr_city": "Johnnystad", "type": "CUSTOMER"}
+{"event_time": "2017-02-24T16:59:28.684Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "0d2fec857f0e", "customer_id": "297abdfd821e", "type": "SITE_VISIT"}
+{"camera_make": "Fujifilm", "event_time": "2017-02-17T16:59:28.716Z", "camera_model": "FinePix A150", "verb": "UPLOAD", "key": "92f3c7590a0a", "customer_id": "297abdfd821e", "type": "IMAGE"}
+{"total_amount": "61.55 USD", "event_time": "2017-02-19T16:59:28.748Z", "verb": "NEW", "key": "16b3121c1d48", "customer_id": "297abdfd821e", "type": "ORDER"}
+{"last_name": "Thompson", "event_time": "2017-02-18T16:59:28.664Z", "verb": "NEW", "key": "297abdfd821e", "adr_state": "NM", "adr_city": "Johnnystad", "type": "CUSTOMER"}
+{"event_time": "2017-02-22T16:59:28.764Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "b654c02486de", "customer_id": "297abdfd821e", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-12T16:59:28.795Z", "camera_model": "EasyShare Z981", "verb": "UPLOAD", "key": "f5c0ba7bb052", "customer_id": "297abdfd821e", "type": "IMAGE"}
+{"total_amount": "5.71 USD", "event_time": "2017-02-17T16:59:28.831Z", "verb": "NEW", "key": "0fbeb18b6b8e", "customer_id": "297abdfd821e", "type": "ORDER"}
+{"last_name": "Thompson", "event_time": "2017-02-18T16:59:28.664Z", "verb": "NEW", "key": "297abdfd821e", "adr_state": "NM", "adr_city": "Johnnystad", "type": "CUSTOMER"}
+{"event_time": "2017-02-10T16:59:28.847Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "df9fc1cb6d32", "customer_id": "297abdfd821e", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-16T16:59:28.884Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "398d3481e550", "customer_id": "297abdfd821e", "type": "IMAGE"}
+{"total_amount": "64.45 USD", "event_time": "2017-02-21T16:59:28.914Z", "verb": "NEW", "key": "23c587ed84b3", "customer_id": "297abdfd821e", "type": "ORDER"}
+{"last_name": "Thompson", "event_time": "2017-02-18T16:59:28.664Z", "verb": "NEW", "key": "297abdfd821e", "adr_state": "NM", "adr_city": "Johnnystad", "type": "CUSTOMER"}
+{"event_time": "2017-02-18T16:59:28.929Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "d4b99fd84d3b", "customer_id": "297abdfd821e", "type": "SITE_VISIT"}
+{"camera_make": "Canon", "event_time": "2017-02-11T16:59:28.959Z", "camera_model": "EOS 80D", "verb": "UPLOAD", "key": "1b5ed3ec570a", "customer_id": "297abdfd821e", "type": "IMAGE"}
+{"total_amount": "40.05 USD", "event_time": "2017-02-19T16:59:28.989Z", "verb": "NEW", "key": "d934de5e7a3d", "customer_id": "297abdfd821e", "type": "ORDER"}
+{"last_name": "Richards", "event_time": "2017-02-17T16:59:29.029Z", "verb": "NEW", "key": "41c2a7fda011", "adr_state": "RI", "adr_city": "New Elizabethberg", "type": "CUSTOMER"}
+{"event_time": "2017-02-24T16:59:29.043Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "2361d5b40008", "customer_id": "41c2a7fda011", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-23T16:59:29.074Z", "camera_model": "EasyShare Z981", "verb": "UPLOAD", "key": "cfaeb2a316ca", "customer_id": "41c2a7fda011", "type": "IMAGE"}
+{"total_amount": "32.01 USD", "event_time": "2017-02-14T16:59:29.104Z", "verb": "NEW", "key": "b2cd6ac6057f", "customer_id": "41c2a7fda011", "type": "ORDER"}
+{"last_name": "Richards", "event_time": "2017-02-17T16:59:29.029Z", "verb": "NEW", "key": "41c2a7fda011", "adr_state": "RI", "adr_city": "New Elizabethberg", "type": "CUSTOMER"}
+{"event_time": "2017-02-17T16:59:29.118Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "bda82a79bdd7", "customer_id": "41c2a7fda011", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-20T16:59:29.152Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "66b11ecc1f93", "customer_id": "41c2a7fda011", "type": "IMAGE"}
+{"total_amount": "56.12 USD", "event_time": "2017-02-10T16:59:29.182Z", "verb": "NEW", "key": "5df4db371938", "customer_id": "41c2a7fda011", "type": "ORDER"}
+{"last_name": "Richards", "event_time": "2017-02-17T16:59:29.029Z", "verb": "NEW", "key": "41c2a7fda011", "adr_state": "RI", "adr_city": "New Elizabethberg", "type": "CUSTOMER"}
+{"event_time": "2017-02-15T16:59:29.196Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "209424fa8b1a", "customer_id": "41c2a7fda011", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-22T16:59:29.223Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "662816533f4b", "customer_id": "41c2a7fda011", "type": "IMAGE"}
+{"total_amount": "2.52 USD", "event_time": "2017-02-12T16:59:29.250Z", "verb": "NEW", "key": "00a02eb7a81c", "customer_id": "41c2a7fda011", "type": "ORDER"}
+{"last_name": "Richards", "event_time": "2017-02-17T16:59:29.029Z", "verb": "NEW", "key": "41c2a7fda011", "adr_state": "RI", "adr_city": "New Elizabethberg", "type": "CUSTOMER"}
+{"event_time": "2017-02-20T16:59:29.264Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "bf982fc2b7a5", "customer_id": "41c2a7fda011", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-21T16:59:29.296Z", "camera_model": "EasyShare Z981", "verb": "UPLOAD", "key": "530b7bee8bb1", "customer_id": "41c2a7fda011", "type": "IMAGE"}
+{"total_amount": "78.63 USD", "event_time": "2017-02-21T16:59:29.323Z", "verb": "NEW", "key": "4a03e56f3396", "customer_id": "41c2a7fda011", "type": "ORDER"}
+{"last_name": "Richards", "event_time": "2017-02-17T16:59:29.029Z", "verb": "NEW", "key": "41c2a7fda011", "adr_state": "RI", "adr_city": "New Elizabethberg", "type": "CUSTOMER"}
+{"event_time": "2017-02-16T16:59:29.337Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "985646c728f0", "customer_id": "41c2a7fda011", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-20T16:59:29.371Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "98ea9462702d", "customer_id": "41c2a7fda011", "type": "IMAGE"}
+{"total_amount": "56.06 USD", "event_time": "2017-02-13T16:59:29.405Z", "verb": "NEW", "key": "61f8c2a9c6f0", "customer_id": "41c2a7fda011", "type": "ORDER"}
+{"last_name": "Mays", "event_time": "2017-02-17T16:59:29.434Z", "verb": "NEW", "key": "f98ffeff9ca4", "adr_state": "VI", "adr_city": "West Kelly", "type": "CUSTOMER"}
+{"event_time": "2017-02-12T16:59:29.448Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "2f767f68bb25", "customer_id": "f98ffeff9ca4", "type": "SITE_VISIT"}
+{"camera_make": "Sony", "event_time": "2017-02-24T16:59:29.477Z", "camera_model": "SLT-A33", "verb": "UPLOAD", "key": "42b7224d4812", "customer_id": "f98ffeff9ca4", "type": "IMAGE"}
+{"total_amount": "76.76 USD", "event_time": "2017-02-20T16:59:29.509Z", "verb": "NEW", "key": "d4b589e20604", "customer_id": "f98ffeff9ca4", "type": "ORDER"}
+{"last_name": "Mays", "event_time": "2017-02-17T16:59:29.434Z", "verb": "NEW", "key": "f98ffeff9ca4", "adr_state": "VI", "adr_city": "West Kelly", "type": "CUSTOMER"}
+{"event_time": "2017-02-18T16:59:29.525Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "1c33408c78be", "customer_id": "f98ffeff9ca4", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-24T16:59:29.560Z", "camera_model": "D90", "verb": "UPLOAD", "key": "04caa8bc3966", "customer_id": "f98ffeff9ca4", "type": "IMAGE"}
+{"total_amount": "57.05 USD", "event_time": "2017-02-21T16:59:29.592Z", "verb": "NEW", "key": "3fe642adac10", "customer_id": "f98ffeff9ca4", "type": "ORDER"}
+{"last_name": "Smith", "event_time": "2017-02-18T16:59:29.632Z", "verb": "NEW", "key": "8338c37c098f", "adr_state": "VA", "adr_city": "East Timmouth", "type": "CUSTOMER"}
+{"event_time": "2017-02-23T16:59:29.647Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "d5b0a185a54b", "customer_id": "8338c37c098f", "type": "SITE_VISIT"}
+{"camera_make": "Olympus", "event_time": "2017-02-22T16:59:29.680Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "219d7765f422", "customer_id": "8338c37c098f", "type": "IMAGE"}
+{"total_amount": "50.98 USD", "event_time": "2017-02-19T16:59:29.713Z", "verb": "NEW", "key": "272041f9e0b9", "customer_id": "8338c37c098f", "type": "ORDER"}
+{"last_name": "Smith", "event_time": "2017-02-18T16:59:29.632Z", "verb": "NEW", "key": "8338c37c098f", "adr_state": "VA", "adr_city": "East Timmouth", "type": "CUSTOMER"}
+{"event_time": "2017-02-16T16:59:29.733Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "1cd83b5f8782", "customer_id": "8338c37c098f", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-15T16:59:29.767Z", "camera_model": "EasyShare Z981", "verb": "UPLOAD", "key": "6dfd9cf5b52e", "customer_id": "8338c37c098f", "type": "IMAGE"}
+{"total_amount": "80.74 USD", "event_time": "2017-02-14T16:59:29.798Z", "verb": "NEW", "key": "5892a3ae4af6", "customer_id": "8338c37c098f", "type": "ORDER"}
+{"last_name": "Torres", "event_time": "2017-02-20T16:59:29.830Z", "verb": "NEW", "key": "ce218f4d6b6a", "adr_state": "MD", "adr_city": "Clarkehaven", "type": "CUSTOMER"}
+{"event_time": "2017-02-17T16:59:29.845Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "2f9c291209d8", "customer_id": "ce218f4d6b6a", "type": "SITE_VISIT"}
+{"camera_make": "Olympus", "event_time": "2017-02-17T16:59:29.873Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "2485f098cb04", "customer_id": "ce218f4d6b6a", "type": "IMAGE"}
+{"total_amount": "81.86 USD", "event_time": "2017-02-23T16:59:29.907Z", "verb": "NEW", "key": "0bb7c40c5d33", "customer_id": "ce218f4d6b6a", "type": "ORDER"}
+{"last_name": "Torres", "event_time": "2017-02-20T16:59:29.830Z", "verb": "NEW", "key": "ce218f4d6b6a", "adr_state": "MD", "adr_city": "Clarkehaven", "type": "CUSTOMER"}
+{"event_time": "2017-02-19T16:59:29.921Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "3047d76e7f47", "customer_id": "ce218f4d6b6a", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-14T16:59:29.956Z", "camera_model": "D90", "verb": "UPLOAD", "key": "952af622dee8", "customer_id": "ce218f4d6b6a", "type": "IMAGE"}
+{"total_amount": "70.41 USD", "event_time": "2017-02-24T16:59:29.988Z", "verb": "NEW", "key": "a5e300baf7d5", "customer_id": "ce218f4d6b6a", "type": "ORDER"}
+{"last_name": "Torres", "event_time": "2017-02-20T16:59:29.830Z", "verb": "NEW", "key": "ce218f4d6b6a", "adr_state": "MD", "adr_city": "Clarkehaven", "type": "CUSTOMER"}
+{"event_time": "2017-02-19T16:59:30.007Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "a0036c840f30", "customer_id": "ce218f4d6b6a", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-18T16:59:30.037Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "1298a650d383", "customer_id": "ce218f4d6b6a", "type": "IMAGE"}
+{"total_amount": "42.30 USD", "event_time": "2017-02-13T16:59:30.075Z", "verb": "NEW", "key": "aaf5af883798", "customer_id": "ce218f4d6b6a", "type": "ORDER"}
+{"last_name": "Torres", "event_time": "2017-02-20T16:59:29.830Z", "verb": "NEW", "key": "ce218f4d6b6a", "adr_state": "MD", "adr_city": "Clarkehaven", "type": "CUSTOMER"}
+{"event_time": "2017-02-20T16:59:30.090Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "8bbbed207e80", "customer_id": "ce218f4d6b6a", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-16T16:59:30.127Z", "camera_model": "D90", "verb": "UPLOAD", "key": "42685f4148bd", "customer_id": "ce218f4d6b6a", "type": "IMAGE"}
+{"total_amount": "13.76 USD", "event_time": "2017-02-24T16:59:30.159Z", "verb": "NEW", "key": "83b1f1314027", "customer_id": "ce218f4d6b6a", "type": "ORDER"}
+{"last_name": "Torres", "event_time": "2017-02-20T16:59:29.830Z", "verb": "NEW", "key": "ce218f4d6b6a", "adr_state": "MD", "adr_city": "Clarkehaven", "type": "CUSTOMER"}
+{"event_time": "2017-02-24T16:59:30.175Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "3a08faff92b7", "customer_id": "ce218f4d6b6a", "type": "SITE_VISIT"}
+{"camera_make": "Pentax", "event_time": "2017-02-18T16:59:30.211Z", "camera_model": "X90", "verb": "UPLOAD", "key": "4809c5d9f3cb", "customer_id": "ce218f4d6b6a", "type": "IMAGE"}
+{"total_amount": "95.79 USD", "event_time": "2017-02-10T16:59:30.247Z", "verb": "NEW", "key": "6cf80e3a8350", "customer_id": "ce218f4d6b6a", "type": "ORDER"}
+{"last_name": "Moody", "event_time": "2017-02-18T16:59:30.280Z", "verb": "NEW", "key": "d0baf4d11996", "adr_state": "SC", "adr_city": "Carrside", "type": "CUSTOMER"}
+{"event_time": "2017-02-23T16:59:30.295Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "1274677332d1", "customer_id": "d0baf4d11996", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-16T16:59:30.330Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "483219e54af5", "customer_id": "d0baf4d11996", "type": "IMAGE"}
+{"total_amount": "37.34 USD", "event_time": "2017-02-23T16:59:30.363Z", "verb": "NEW", "key": "4b4b1fa65c5e", "customer_id": "d0baf4d11996", "type": "ORDER"}
+{"last_name": "Moody", "event_time": "2017-02-18T16:59:30.280Z", "verb": "NEW", "key": "d0baf4d11996", "adr_state": "SC", "adr_city": "Carrside", "type": "CUSTOMER"}
+{"event_time": "2017-02-12T16:59:30.384Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "37a185f7d513", "customer_id": "d0baf4d11996", "type": "SITE_VISIT"}
+{"camera_make": "Pentax", "event_time": "2017-02-22T16:59:30.416Z", "camera_model": "KP", "verb": "UPLOAD", "key": "f2169d6622e3", "customer_id": "d0baf4d11996", "type": "IMAGE"}
+{"total_amount": "88.60 USD", "event_time": "2017-02-19T16:59:30.452Z", "verb": "NEW", "key": "1e82f2cf7cf3", "customer_id": "d0baf4d11996", "type": "ORDER"}
+{"last_name": "Moody", "event_time": "2017-02-18T16:59:30.280Z", "verb": "NEW", "key": "d0baf4d11996", "adr_state": "SC", "adr_city": "Carrside", "type": "CUSTOMER"}
+{"event_time": "2017-02-18T16:59:30.466Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "5ff19a39ae7b", "customer_id": "d0baf4d11996", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-15T16:59:30.499Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "19e89a7c84b6", "customer_id": "d0baf4d11996", "type": "IMAGE"}
+{"total_amount": "65.93 USD", "event_time": "2017-02-23T16:59:30.532Z", "verb": "NEW", "key": "0ed474d41389", "customer_id": "d0baf4d11996", "type": "ORDER"}
+{"last_name": "Moody", "event_time": "2017-02-18T16:59:30.280Z", "verb": "NEW", "key": "d0baf4d11996", "adr_state": "SC", "adr_city": "Carrside", "type": "CUSTOMER"}
+{"event_time": "2017-02-22T16:59:30.556Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "a4c1fdc17412", "customer_id": "d0baf4d11996", "type": "SITE_VISIT"}
+{"camera_make": "Olympus", "event_time": "2017-02-10T16:59:30.586Z", "camera_model": "FE-45", "verb": "UPLOAD", "key": "fc1588ddf451", "customer_id": "d0baf4d11996", "type": "IMAGE"}
+{"total_amount": "76.58 USD", "event_time": "2017-02-10T16:59:30.622Z", "verb": "NEW", "key": "b6eb65b61da6", "customer_id": "d0baf4d11996", "type": "ORDER"}
+{"last_name": "Moody", "event_time": "2017-02-18T16:59:30.280Z", "verb": "NEW", "key": "d0baf4d11996", "adr_state": "SC", "adr_city": "Carrside", "type": "CUSTOMER"}
+{"event_time": "2017-02-16T16:59:30.640Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "6214b4c99761", "customer_id": "d0baf4d11996", "type": "SITE_VISIT"}
+{"camera_make": "Olympus", "event_time": "2017-02-24T16:59:30.670Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "467a6c612568", "customer_id": "d0baf4d11996", "type": "IMAGE"}
+{"total_amount": "17.88 USD", "event_time": "2017-02-14T16:59:30.704Z", "verb": "NEW", "key": "83d1639184cb", "customer_id": "d0baf4d11996", "type": "ORDER"}
+{"last_name": "Adams", "event_time": "2017-02-11T16:59:30.736Z", "verb": "NEW", "key": "d44b02622736", "adr_state": "VA", "adr_city": "Chadborough", "type": "CUSTOMER"}
+{"event_time": "2017-02-16T16:59:30.753Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "9fcc5c12c7e6", "customer_id": "d44b02622736", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-14T16:59:30.789Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "3bf5a30cfe2b", "customer_id": "d44b02622736", "type": "IMAGE"}
+{"total_amount": "63.70 USD", "event_time": "2017-02-18T16:59:30.824Z", "verb": "NEW", "key": "df80a0a92701", "customer_id": "d44b02622736", "type": "ORDER"}
+{"last_name": "Miranda", "event_time": "2017-02-12T16:59:30.865Z", "verb": "NEW", "key": "f82d02da0bcb", "adr_state": "MO", "adr_city": "East Katherinebury", "type": "CUSTOMER"}
+{"event_time": "2017-02-24T16:59:30.881Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "a1e74fb9433a", "customer_id": "f82d02da0bcb", "type": "SITE_VISIT"}
+{"camera_make": "Sony", "event_time": "2017-02-23T16:59:30.914Z", "camera_model": "Alpha QX1", "verb": "UPLOAD", "key": "162f7a272683", "customer_id": "f82d02da0bcb", "type": "IMAGE"}
+{"total_amount": "79.01 USD", "event_time": "2017-02-11T16:59:30.945Z", "verb": "NEW", "key": "2cf8db3542ef", "customer_id": "f82d02da0bcb", "type": "ORDER"}
+{"last_name": "Miranda", "event_time": "2017-02-12T16:59:30.865Z", "verb": "NEW", "key": "f82d02da0bcb", "adr_state": "MO", "adr_city": "East Katherinebury", "type": "CUSTOMER"}
+{"event_time": "2017-02-15T16:59:30.961Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "ad0c56baa3b2", "customer_id": "f82d02da0bcb", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-23T16:59:30.996Z", "camera_model": "EasyShare Z981", "verb": "UPLOAD", "key": "a92685de4cc7", "customer_id": "f82d02da0bcb", "type": "IMAGE"}
+{"total_amount": "57.78 USD", "event_time": "2017-02-12T16:59:31.025Z", "verb": "NEW", "key": "f024739b7acd", "customer_id": "f82d02da0bcb", "type": "ORDER"}
+{"last_name": "Anderson", "event_time": "2017-02-20T16:59:31.059Z", "verb": "NEW", "key": "7784d50a5dbe", "adr_state": "KY", "adr_city": "South Nicholas", "type": "CUSTOMER"}
+{"event_time": "2017-02-21T16:59:31.080Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "5a2ec8b62bbe", "customer_id": "7784d50a5dbe", "type": "SITE_VISIT"}
+{"camera_make": "Fujifilm", "event_time": "2017-02-21T16:59:31.113Z", "camera_model": "X100F", "verb": "UPLOAD", "key": "e9aa44d54d90", "customer_id": "7784d50a5dbe", "type": "IMAGE"}
+{"total_amount": "82.81 USD", "event_time": "2017-02-13T16:59:31.144Z", "verb": "NEW", "key": "8d28ece4d74f", "customer_id": "7784d50a5dbe", "type": "ORDER"}
+{"last_name": "Anderson", "event_time": "2017-02-20T16:59:31.059Z", "verb": "NEW", "key": "7784d50a5dbe", "adr_state": "KY", "adr_city": "South Nicholas", "type": "CUSTOMER"}
+{"event_time": "2017-02-19T16:59:31.159Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "816e469730e1", "customer_id": "7784d50a5dbe", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-14T16:59:31.191Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "9194d6608e4d", "customer_id": "7784d50a5dbe", "type": "IMAGE"}
+{"total_amount": "66.64 USD", "event_time": "2017-02-14T16:59:31.222Z", "verb": "NEW", "key": "a2cc2b466434", "customer_id": "7784d50a5dbe", "type": "ORDER"}
+{"last_name": "Anderson", "event_time": "2017-02-20T16:59:31.059Z", "verb": "NEW", "key": "7784d50a5dbe", "adr_state": "KY", "adr_city": "South Nicholas", "type": "CUSTOMER"}
+{"event_time": "2017-02-10T16:59:31.239Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "60f8303334d1", "customer_id": "7784d50a5dbe", "type": "SITE_VISIT"}
+{"camera_make": "Sony", "event_time": "2017-02-24T16:59:31.275Z", "camera_model": "SLT-A33", "verb": "UPLOAD", "key": "1769b2a24eb8", "customer_id": "7784d50a5dbe", "type": "IMAGE"}
+{"total_amount": "68.88 USD", "event_time": "2017-02-21T16:59:31.306Z", "verb": "NEW", "key": "2dd6db563d36", "customer_id": "7784d50a5dbe", "type": "ORDER"}
+{"last_name": "Davis", "event_time": "2017-02-21T16:59:31.338Z", "verb": "NEW", "key": "23a38f3886cc", "adr_state": "DC", "adr_city": "Johnchester", "type": "CUSTOMER"}
+{"event_time": "2017-02-10T16:59:31.355Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "639aeff32972", "customer_id": "23a38f3886cc", "type": "SITE_VISIT"}
+{"camera_make": "Sony", "event_time": "2017-02-17T16:59:31.385Z", "camera_model": "SLT-A33", "verb": "UPLOAD", "key": "9aca625be537", "customer_id": "23a38f3886cc", "type": "IMAGE"}
+{"total_amount": "4.03 USD", "event_time": "2017-02-16T16:59:31.412Z", "verb": "NEW", "key": "56d00e144aee", "customer_id": "23a38f3886cc", "type": "ORDER"}
+{"last_name": "Glover", "event_time": "2017-02-24T16:59:31.447Z", "verb": "NEW", "key": "2879a4bfbb50", "adr_state": "GA", "adr_city": "Joannaland", "type": "CUSTOMER"}
+{"event_time": "2017-02-21T16:59:31.461Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "e4ecc820c785", "customer_id": "2879a4bfbb50", "type": "SITE_VISIT"}
+{"camera_make": "Canon", "event_time": "2017-02-21T16:59:31.494Z", "camera_model": "EOS 80D", "verb": "UPLOAD", "key": "c437d6495b36", "customer_id": "2879a4bfbb50", "type": "IMAGE"}
+{"total_amount": "84.88 USD", "event_time": "2017-02-20T16:59:31.526Z", "verb": "NEW", "key": "d646014c6f5d", "customer_id": "2879a4bfbb50", "type": "ORDER"}
+{"last_name": "Glover", "event_time": "2017-02-24T16:59:31.447Z", "verb": "NEW", "key": "2879a4bfbb50", "adr_state": "GA", "adr_city": "Joannaland", "type": "CUSTOMER"}
+{"event_time": "2017-02-14T16:59:31.539Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "f6c692a72a91", "customer_id": "2879a4bfbb50", "type": "SITE_VISIT"}
+{"camera_make": "Sony", "event_time": "2017-02-23T16:59:31.576Z", "camera_model": "Alpha QX1", "verb": "UPLOAD", "key": "ab98074a6e85", "customer_id": "2879a4bfbb50", "type": "IMAGE"}
+{"total_amount": "44.09 USD", "event_time": "2017-02-20T16:59:31.609Z", "verb": "NEW", "key": "0e9c836789bd", "customer_id": "2879a4bfbb50", "type": "ORDER"}
+{"last_name": "Glover", "event_time": "2017-02-24T16:59:31.447Z", "verb": "NEW", "key": "2879a4bfbb50", "adr_state": "GA", "adr_city": "Joannaland", "type": "CUSTOMER"}
+{"event_time": "2017-02-13T16:59:31.627Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "3e5059be4f27", "customer_id": "2879a4bfbb50", "type": "SITE_VISIT"}
+{"camera_make": "Sony", "event_time": "2017-02-23T16:59:31.666Z", "camera_model": "Alpha QX1", "verb": "UPLOAD", "key": "812271c6e9c0", "customer_id": "2879a4bfbb50", "type": "IMAGE"}
+{"total_amount": "10.01 USD", "event_time": "2017-02-24T16:59:31.696Z", "verb": "NEW", "key": "2ca8607079a6", "customer_id": "2879a4bfbb50", "type": "ORDER"}
+{"last_name": "Glover", "event_time": "2017-02-24T16:59:31.447Z", "verb": "NEW", "key": "2879a4bfbb50", "adr_state": "GA", "adr_city": "Joannaland", "type": "CUSTOMER"}
+{"event_time": "2017-02-19T16:59:31.712Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "6a391bde5501", "customer_id": "2879a4bfbb50", "type": "SITE_VISIT"}
+{"camera_make": "Pentax", "event_time": "2017-02-11T16:59:31.741Z", "camera_model": "X90", "verb": "UPLOAD", "key": "7fbb3304521e", "customer_id": "2879a4bfbb50", "type": "IMAGE"}
+{"total_amount": "51.71 USD", "event_time": "2017-02-16T16:59:31.774Z", "verb": "NEW", "key": "88394905484b", "customer_id": "2879a4bfbb50", "type": "ORDER"}
+{"last_name": "Glover", "event_time": "2017-02-24T16:59:31.447Z", "verb": "NEW", "key": "2879a4bfbb50", "adr_state": "GA", "adr_city": "Joannaland", "type": "CUSTOMER"}
+{"event_time": "2017-02-14T16:59:31.794Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "e9769a9b9017", "customer_id": "2879a4bfbb50", "type": "SITE_VISIT"}
+{"camera_make": "Olympus", "event_time": "2017-02-12T16:59:31.828Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "acb40e81dac1", "customer_id": "2879a4bfbb50", "type": "IMAGE"}
+{"total_amount": "51.74 USD", "event_time": "2017-02-11T16:59:31.858Z", "verb": "NEW", "key": "b0421723393b", "customer_id": "2879a4bfbb50", "type": "ORDER"}
+{"last_name": "Gonzales", "event_time": "2017-02-18T16:59:31.894Z", "verb": "NEW", "key": "8fff640f5c8c", "adr_state": "ND", "adr_city": "North Laceyville", "type": "CUSTOMER"}
+{"event_time": "2017-02-17T16:59:31.909Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "19fa71943fdc", "customer_id": "8fff640f5c8c", "type": "SITE_VISIT"}
+{"camera_make": "Olympus", "event_time": "2017-02-13T16:59:31.938Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "6008d95b4471", "customer_id": "8fff640f5c8c", "type": "IMAGE"}
+{"total_amount": "88.50 USD", "event_time": "2017-02-16T16:59:31.974Z", "verb": "NEW", "key": "fae17e5fb182", "customer_id": "8fff640f5c8c", "type": "ORDER"}
+{"last_name": "Gonzales", "event_time": "2017-02-18T16:59:31.894Z", "verb": "NEW", "key": "8fff640f5c8c", "adr_state": "ND", "adr_city": "North Laceyville", "type": "CUSTOMER"}
+{"event_time": "2017-02-16T16:59:31.988Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "3b3037ad8187", "customer_id": "8fff640f5c8c", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-14T16:59:32.019Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "6f0af0efbae1", "customer_id": "8fff640f5c8c", "type": "IMAGE"}
+{"total_amount": "35.68 USD", "event_time": "2017-02-14T16:59:32.050Z", "verb": "NEW", "key": "22c86dd57a98", "customer_id": "8fff640f5c8c", "type": "ORDER"}
+{"last_name": "Murray", "event_time": "2017-02-13T16:59:32.082Z", "verb": "NEW", "key": "af7b81ca22a7", "adr_state": "AZ", "adr_city": "New Juan", "type": "CUSTOMER"}
+{"event_time": "2017-02-23T16:59:32.098Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "303fa7551797", "customer_id": "af7b81ca22a7", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-22T16:59:32.129Z", "camera_model": "D90", "verb": "UPLOAD", "key": "a41970827fee", "customer_id": "af7b81ca22a7", "type": "IMAGE"}
+{"total_amount": "33.47 USD", "event_time": "2017-02-13T16:59:32.163Z", "verb": "NEW", "key": "c0d7844f31d4", "customer_id": "af7b81ca22a7", "type": "ORDER"}
+{"last_name": "Murray", "event_time": "2017-02-13T16:59:32.082Z", "verb": "NEW", "key": "af7b81ca22a7", "adr_state": "AZ", "adr_city": "New Juan", "type": "CUSTOMER"}
+{"event_time": "2017-02-18T16:59:32.178Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "dadfb07601ff", "customer_id": "af7b81ca22a7", "type": "SITE_VISIT"}
+{"camera_make": "Pentax", "event_time": "2017-02-24T16:59:32.212Z", "camera_model": "KP", "verb": "UPLOAD", "key": "4375330e1c21", "customer_id": "af7b81ca22a7", "type": "IMAGE"}
+{"total_amount": "63.30 USD", "event_time": "2017-02-20T16:59:32.252Z", "verb": "NEW", "key": "a9cfcc1e7fd0", "customer_id": "af7b81ca22a7", "type": "ORDER"}
+{"last_name": "Smith", "event_time": "2017-02-11T16:59:32.290Z", "verb": "NEW", "key": "3bc40dd7d140", "adr_state": "WV", "adr_city": "Mitchellmouth", "type": "CUSTOMER"}
+{"event_time": "2017-02-14T16:59:32.306Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "de62549b9f87", "customer_id": "3bc40dd7d140", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-13T16:59:32.339Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "b123a94354d4", "customer_id": "3bc40dd7d140", "type": "IMAGE"}
+{"total_amount": "91.37 USD", "event_time": "2017-02-22T16:59:32.372Z", "verb": "NEW", "key": "9979e60a5535", "customer_id": "3bc40dd7d140", "type": "ORDER"}
+{"last_name": "Smith", "event_time": "2017-02-11T16:59:32.290Z", "verb": "NEW", "key": "3bc40dd7d140", "adr_state": "WV", "adr_city": "Mitchellmouth", "type": "CUSTOMER"}
+{"event_time": "2017-02-23T16:59:32.387Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "e2bb173eca50", "customer_id": "3bc40dd7d140", "type": "SITE_VISIT"}
+{"camera_make": "Canon", "event_time": "2017-02-18T16:59:32.414Z", "camera_model": "EOS 6D", "verb": "UPLOAD", "key": "2e00f6d08f84", "customer_id": "3bc40dd7d140", "type": "IMAGE"}
+{"total_amount": "35.80 USD", "event_time": "2017-02-15T16:59:32.448Z", "verb": "NEW", "key": "47124cbef2a0", "customer_id": "3bc40dd7d140", "type": "ORDER"}
+{"last_name": "Smith", "event_time": "2017-02-11T16:59:32.290Z", "verb": "NEW", "key": "3bc40dd7d140", "adr_state": "WV", "adr_city": "Mitchellmouth", "type": "CUSTOMER"}
+{"event_time": "2017-02-18T16:59:32.461Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "1435cb364491", "customer_id": "3bc40dd7d140", "type": "SITE_VISIT"}
+{"camera_make": "Fujifilm", "event_time": "2017-02-17T16:59:32.495Z", "camera_model": "FinePix A150", "verb": "UPLOAD", "key": "74d83020b41c", "customer_id": "3bc40dd7d140", "type": "IMAGE"}
+{"total_amount": "15.07 USD", "event_time": "2017-02-10T16:59:32.526Z", "verb": "NEW", "key": "862f165ebf81", "customer_id": "3bc40dd7d140", "type": "ORDER"}
+{"last_name": "Jackson", "event_time": "2017-02-15T16:59:32.562Z", "verb": "NEW", "key": "eb359016e8d6", "adr_state": "MA", "adr_city": "North Joseph", "type": "CUSTOMER"}
+{"event_time": "2017-02-23T16:59:32.577Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "2274be71330e", "customer_id": "eb359016e8d6", "type": "SITE_VISIT"}
+{"camera_make": "Sony", "event_time": "2017-02-20T16:59:32.611Z", "camera_model": "Alpha QX1", "verb": "UPLOAD", "key": "016a3369e12b", "customer_id": "eb359016e8d6", "type": "IMAGE"}
+{"total_amount": "37.80 USD", "event_time": "2017-02-24T16:59:32.646Z", "verb": "NEW", "key": "76ac895ff461", "customer_id": "eb359016e8d6", "type": "ORDER"}
+{"last_name": "Martin", "event_time": "2017-02-20T16:59:32.679Z", "verb": "NEW", "key": "6c1fb59debd0", "adr_state": "OR", "adr_city": "Shellytown", "type": "CUSTOMER"}
+{"event_time": "2017-02-20T16:59:32.693Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "9fc88b41939a", "customer_id": "6c1fb59debd0", "type": "SITE_VISIT"}
+{"camera_make": "Canon", "event_time": "2017-02-19T16:59:32.726Z", "camera_model": "EOS 80D", "verb": "UPLOAD", "key": "cc7791e4d07e", "customer_id": "6c1fb59debd0", "type": "IMAGE"}
+{"total_amount": "67.80 USD", "event_time": "2017-02-23T16:59:32.757Z", "verb": "NEW", "key": "44d74c959154", "customer_id": "6c1fb59debd0", "type": "ORDER"}
+{"last_name": "Martin", "event_time": "2017-02-20T16:59:32.679Z", "verb": "NEW", "key": "6c1fb59debd0", "adr_state": "OR", "adr_city": "Shellytown", "type": "CUSTOMER"}
+{"event_time": "2017-02-13T16:59:32.771Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "591af920222b", "customer_id": "6c1fb59debd0", "type": "SITE_VISIT"}
+{"camera_make": "Olympus", "event_time": "2017-02-13T16:59:32.800Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "ca575eb39c40", "customer_id": "6c1fb59debd0", "type": "IMAGE"}
+{"total_amount": "20.51 USD", "event_time": "2017-02-14T16:59:32.833Z", "verb": "NEW", "key": "acb7b455d65e", "customer_id": "6c1fb59debd0", "type": "ORDER"}
+{"last_name": "Martin", "event_time": "2017-02-20T16:59:32.679Z", "verb": "NEW", "key": "6c1fb59debd0", "adr_state": "OR", "adr_city": "Shellytown", "type": "CUSTOMER"}
+{"event_time": "2017-02-20T16:59:32.846Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "d77fca2ca327", "customer_id": "6c1fb59debd0", "type": "SITE_VISIT"}
+{"camera_make": "Pentax", "event_time": "2017-02-18T16:59:32.880Z", "camera_model": "KP", "verb": "UPLOAD", "key": "d8e8e21d2392", "customer_id": "6c1fb59debd0", "type": "IMAGE"}
+{"total_amount": "52.26 USD", "event_time": "2017-02-16T16:59:32.911Z", "verb": "NEW", "key": "097fdd6fdcea", "customer_id": "6c1fb59debd0", "type": "ORDER"}
+{"last_name": "Cole", "event_time": "2017-02-18T16:59:32.942Z", "verb": "NEW", "key": "b02ecfd0f18d", "adr_state": "MP", "adr_city": "New Amy", "type": "CUSTOMER"}
+{"event_time": "2017-02-18T16:59:32.957Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "17ab048bb638", "customer_id": "b02ecfd0f18d", "type": "SITE_VISIT"}
+{"camera_make": "Pentax", "event_time": "2017-02-22T16:59:32.988Z", "camera_model": "KP", "verb": "UPLOAD", "key": "718d8e60937d", "customer_id": "b02ecfd0f18d", "type": "IMAGE"}
+{"total_amount": "49.47 USD", "event_time": "2017-02-22T16:59:33.019Z", "verb": "NEW", "key": "aa7d30f234fe", "customer_id": "b02ecfd0f18d", "type": "ORDER"}
+{"last_name": "Cole", "event_time": "2017-02-18T16:59:32.942Z", "verb": "NEW", "key": "b02ecfd0f18d", "adr_state": "MP", "adr_city": "New Amy", "type": "CUSTOMER"}
+{"event_time": "2017-02-23T16:59:33.036Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "81d60757528f", "customer_id": "b02ecfd0f18d", "type": "SITE_VISIT"}
+{"camera_make": "Canon", "event_time": "2017-02-18T16:59:33.065Z", "camera_model": "EOS 6D", "verb": "UPLOAD", "key": "830ac476942f", "customer_id": "b02ecfd0f18d", "type": "IMAGE"}
+{"total_amount": "54.40 USD", "event_time": "2017-02-12T16:59:33.102Z", "verb": "NEW", "key": "ccce6eafbfd8", "customer_id": "b02ecfd0f18d", "type": "ORDER"}
+{"last_name": "Cole", "event_time": "2017-02-18T16:59:32.942Z", "verb": "NEW", "key": "b02ecfd0f18d", "adr_state": "MP", "adr_city": "New Amy", "type": "CUSTOMER"}
+{"event_time": "2017-02-18T16:59:33.116Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "f8f51bd4804f", "customer_id": "b02ecfd0f18d", "type": "SITE_VISIT"}
+{"camera_make": "Fujifilm", "event_time": "2017-02-19T16:59:33.149Z", "camera_model": "X100F", "verb": "UPLOAD", "key": "b50bd8124429", "customer_id": "b02ecfd0f18d", "type": "IMAGE"}
+{"total_amount": "49.34 USD", "event_time": "2017-02-21T16:59:33.177Z", "verb": "NEW", "key": "8fe42ce754e3", "customer_id": "b02ecfd0f18d", "type": "ORDER"}
+{"last_name": "Cole", "event_time": "2017-02-18T16:59:32.942Z", "verb": "NEW", "key": "b02ecfd0f18d", "adr_state": "MP", "adr_city": "New Amy", "type": "CUSTOMER"}
+{"event_time": "2017-02-22T16:59:33.190Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "12200534afdb", "customer_id": "b02ecfd0f18d", "type": "SITE_VISIT"}
+{"camera_make": "Fujifilm", "event_time": "2017-02-17T16:59:33.218Z", "camera_model": "X100F", "verb": "UPLOAD", "key": "f0f820e17afd", "customer_id": "b02ecfd0f18d", "type": "IMAGE"}
+{"total_amount": "37.11 USD", "event_time": "2017-02-24T16:59:33.245Z", "verb": "NEW", "key": "1ef4f128a617", "customer_id": "b02ecfd0f18d", "type": "ORDER"}
+{"last_name": "Bryant", "event_time": "2017-02-20T16:59:33.280Z", "verb": "NEW", "key": "d642a91ea4e4", "adr_state": "GA", "adr_city": "Port Johnburgh", "type": "CUSTOMER"}
+{"event_time": "2017-02-14T16:59:33.293Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "81705fdabf5b", "customer_id": "d642a91ea4e4", "type": "SITE_VISIT"}
+{"camera_make": "Fujifilm", "event_time": "2017-02-16T16:59:33.321Z", "camera_model": "X100F", "verb": "UPLOAD", "key": "c5a0af8c77dc", "customer_id": "d642a91ea4e4", "type": "IMAGE"}
+{"total_amount": "39.48 USD", "event_time": "2017-02-15T16:59:33.348Z", "verb": "NEW", "key": "8d68811ec6ce", "customer_id": "d642a91ea4e4", "type": "ORDER"}
+{"last_name": "Bryant", "event_time": "2017-02-20T16:59:33.280Z", "verb": "NEW", "key": "d642a91ea4e4", "adr_state": "GA", "adr_city": "Port Johnburgh", "type": "CUSTOMER"}
+{"event_time": "2017-02-18T16:59:33.361Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "efcff4dcf807", "customer_id": "d642a91ea4e4", "type": "SITE_VISIT"}
+{"camera_make": "Olympus", "event_time": "2017-02-19T16:59:33.389Z", "camera_model": "FE-45", "verb": "UPLOAD", "key": "5a2c3a40812e", "customer_id": "d642a91ea4e4", "type": "IMAGE"}
+{"total_amount": "43.57 USD", "event_time": "2017-02-16T16:59:33.416Z", "verb": "NEW", "key": "49c264e8270f", "customer_id": "d642a91ea4e4", "type": "ORDER"}
+{"last_name": "Bryant", "event_time": "2017-02-20T16:59:33.280Z", "verb": "NEW", "key": "d642a91ea4e4", "adr_state": "GA", "adr_city": "Port Johnburgh", "type": "CUSTOMER"}
+{"event_time": "2017-02-24T16:59:33.430Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "5b8495adcabc", "customer_id": "d642a91ea4e4", "type": "SITE_VISIT"}
+{"camera_make": "Pentax", "event_time": "2017-02-22T16:59:33.463Z", "camera_model": "X90", "verb": "UPLOAD", "key": "cdf04e5cd6f6", "customer_id": "d642a91ea4e4", "type": "IMAGE"}
+{"total_amount": "98.56 USD", "event_time": "2017-02-18T16:59:33.490Z", "verb": "NEW", "key": "91fbc706e448", "customer_id": "d642a91ea4e4", "type": "ORDER"}
+{"last_name": "Bryant", "event_time": "2017-02-20T16:59:33.280Z", "verb": "NEW", "key": "d642a91ea4e4", "adr_state": "GA", "adr_city": "Port Johnburgh", "type": "CUSTOMER"}
+{"event_time": "2017-02-19T16:59:33.504Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "9d900096a817", "customer_id": "d642a91ea4e4", "type": "SITE_VISIT"}
+{"camera_make": "Olympus", "event_time": "2017-02-22T16:59:33.537Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "9a1ab4f7bf42", "customer_id": "d642a91ea4e4", "type": "IMAGE"}
+{"total_amount": "72.14 USD", "event_time": "2017-02-20T16:59:33.564Z", "verb": "NEW", "key": "55ad81950d5f", "customer_id": "d642a91ea4e4", "type": "ORDER"}
+{"last_name": "Church", "event_time": "2017-02-16T16:59:33.599Z", "verb": "NEW", "key": "5da32100006b", "adr_state": "HI", "adr_city": "Holmesville", "type": "CUSTOMER"}
+{"event_time": "2017-02-24T16:59:33.613Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "db70544ea2bc", "customer_id": "5da32100006b", "type": "SITE_VISIT"}
+{"camera_make": "Fujifilm", "event_time": "2017-02-17T16:59:33.640Z", "camera_model": "X100F", "verb": "UPLOAD", "key": "2703897aebc4", "customer_id": "5da32100006b", "type": "IMAGE"}
+{"total_amount": "97.66 USD", "event_time": "2017-02-24T16:59:33.668Z", "verb": "NEW", "key": "8345e14d759c", "customer_id": "5da32100006b", "type": "ORDER"}
+{"last_name": "Church", "event_time": "2017-02-16T16:59:33.599Z", "verb": "NEW", "key": "5da32100006b", "adr_state": "HI", "adr_city": "Holmesville", "type": "CUSTOMER"}
+{"event_time": "2017-02-14T16:59:33.688Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "58d8fd68f361", "customer_id": "5da32100006b", "type": "SITE_VISIT"}
+{"camera_make": "Pentax", "event_time": "2017-02-19T16:59:33.715Z", "camera_model": "X90", "verb": "UPLOAD", "key": "ca3c4404b4db", "customer_id": "5da32100006b", "type": "IMAGE"}
+{"total_amount": "81.26 USD", "event_time": "2017-02-15T16:59:33.742Z", "verb": "NEW", "key": "54dc5b172124", "customer_id": "5da32100006b", "type": "ORDER"}
+{"last_name": "Jones", "event_time": "2017-02-18T16:59:33.771Z", "verb": "NEW", "key": "eaeda57e3148", "adr_state": "TX", "adr_city": "Mccoyville", "type": "CUSTOMER"}
+{"event_time": "2017-02-15T16:59:33.785Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "d7b88a0354bd", "customer_id": "eaeda57e3148", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-16T16:59:33.812Z", "camera_model": "EasyShare Z981", "verb": "UPLOAD", "key": "3f57d448e4d7", "customer_id": "eaeda57e3148", "type": "IMAGE"}
+{"total_amount": "59.11 USD", "event_time": "2017-02-24T16:59:33.840Z", "verb": "NEW", "key": "a515e1b860c1", "customer_id": "eaeda57e3148", "type": "ORDER"}
+{"last_name": "Jones", "event_time": "2017-02-18T16:59:33.771Z", "verb": "NEW", "key": "eaeda57e3148", "adr_state": "TX", "adr_city": "Mccoyville", "type": "CUSTOMER"}
+{"event_time": "2017-02-14T16:59:33.853Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "8a3bd68be5da", "customer_id": "eaeda57e3148", "type": "SITE_VISIT"}
+{"camera_make": "Canon", "event_time": "2017-02-12T16:59:33.882Z", "camera_model": "EOS 6D", "verb": "UPLOAD", "key": "4c2bab157743", "customer_id": "eaeda57e3148", "type": "IMAGE"}
+{"total_amount": "95.80 USD", "event_time": "2017-02-14T16:59:33.910Z", "verb": "NEW", "key": "c7400f6c67dc", "customer_id": "eaeda57e3148", "type": "ORDER"}
+{"last_name": "Bell", "event_time": "2017-02-21T16:59:33.945Z", "verb": "NEW", "key": "ffc911262cd5", "adr_state": "VT", "adr_city": "Hayneschester", "type": "CUSTOMER"}
+{"event_time": "2017-02-13T16:59:33.959Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "d600910036e9", "customer_id": "ffc911262cd5", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-24T16:59:33.986Z", "camera_model": "D90", "verb": "UPLOAD", "key": "7d71ac8f7509", "customer_id": "ffc911262cd5", "type": "IMAGE"}
+{"total_amount": "41.59 USD", "event_time": "2017-02-22T16:59:34.013Z", "verb": "NEW", "key": "4914541969ad", "customer_id": "ffc911262cd5", "type": "ORDER"}
+{"last_name": "Bell", "event_time": "2017-02-21T16:59:33.945Z", "verb": "NEW", "key": "ffc911262cd5", "adr_state": "VT", "adr_city": "Hayneschester", "type": "CUSTOMER"}
+{"event_time": "2017-02-18T16:59:34.027Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "2baa96ab73b9", "customer_id": "ffc911262cd5", "type": "SITE_VISIT"}
+{"camera_make": "Olympus", "event_time": "2017-02-24T16:59:34.056Z", "camera_model": "FE-45", "verb": "UPLOAD", "key": "b14a604a7597", "customer_id": "ffc911262cd5", "type": "IMAGE"}
+{"total_amount": "8.21 USD", "event_time": "2017-02-23T16:59:34.089Z", "verb": "NEW", "key": "ae0e33293476", "customer_id": "ffc911262cd5", "type": "ORDER"}
+{"last_name": "Bell", "event_time": "2017-02-21T16:59:33.945Z", "verb": "NEW", "key": "ffc911262cd5", "adr_state": "VT", "adr_city": "Hayneschester", "type": "CUSTOMER"}
+{"event_time": "2017-02-17T16:59:34.105Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "5b1c6dd5e476", "customer_id": "ffc911262cd5", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-19T16:59:34.135Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "59b7552b8d5b", "customer_id": "ffc911262cd5", "type": "IMAGE"}
+{"total_amount": "19.05 USD", "event_time": "2017-02-16T16:59:34.167Z", "verb": "NEW", "key": "4975493f7034", "customer_id": "ffc911262cd5", "type": "ORDER"}
+{"last_name": "Bell", "event_time": "2017-02-21T16:59:33.945Z", "verb": "NEW", "key": "ffc911262cd5", "adr_state": "VT", "adr_city": "Hayneschester", "type": "CUSTOMER"}
+{"event_time": "2017-02-12T16:59:34.183Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "24dd9b819c40", "customer_id": "ffc911262cd5", "type": "SITE_VISIT"}
+{"camera_make": "Olympus", "event_time": "2017-02-17T16:59:34.215Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "35856d0d2a98", "customer_id": "ffc911262cd5", "type": "IMAGE"}
+{"total_amount": "45.72 USD", "event_time": "2017-02-17T16:59:34.249Z", "verb": "NEW", "key": "1dba0935281d", "customer_id": "ffc911262cd5", "type": "ORDER"}
+{"last_name": "West", "event_time": "2017-02-10T16:59:34.285Z", "verb": "NEW", "key": "211764fe0e81", "adr_state": "IL", "adr_city": "Weisschester", "type": "CUSTOMER"}
+{"event_time": "2017-02-12T16:59:34.302Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "68c645db9b3d", "customer_id": "211764fe0e81", "type": "SITE_VISIT"}
+{"camera_make": "Pentax", "event_time": "2017-02-14T16:59:34.329Z", "camera_model": "KP", "verb": "UPLOAD", "key": "453e5132255d", "customer_id": "211764fe0e81", "type": "IMAGE"}
+{"total_amount": "96.40 USD", "event_time": "2017-02-18T16:59:34.363Z", "verb": "NEW", "key": "05fff35a5f41", "customer_id": "211764fe0e81", "type": "ORDER"}
+{"last_name": "Simon", "event_time": "2017-02-16T16:59:34.400Z", "verb": "NEW", "key": "3180d090bc96", "adr_state": "CO", "adr_city": "Davidchester", "type": "CUSTOMER"}
+{"event_time": "2017-02-10T16:59:34.416Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "d66aa6fe013f", "customer_id": "3180d090bc96", "type": "SITE_VISIT"}
+{"camera_make": "Olympus", "event_time": "2017-02-14T16:59:34.449Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "4aae3d0d5d43", "customer_id": "3180d090bc96", "type": "IMAGE"}
+{"total_amount": "23.68 USD", "event_time": "2017-02-22T16:59:34.479Z", "verb": "NEW", "key": "6c1577566ecd", "customer_id": "3180d090bc96", "type": "ORDER"}
+{"last_name": "Simon", "event_time": "2017-02-16T16:59:34.400Z", "verb": "NEW", "key": "3180d090bc96", "adr_state": "CO", "adr_city": "Davidchester", "type": "CUSTOMER"}
+{"event_time": "2017-02-21T16:59:34.494Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "927d501730cf", "customer_id": "3180d090bc96", "type": "SITE_VISIT"}
+{"camera_make": "Sony", "event_time": "2017-02-20T16:59:34.525Z", "camera_model": "Alpha QX1", "verb": "UPLOAD", "key": "5667b624a06f", "customer_id": "3180d090bc96", "type": "IMAGE"}
+{"total_amount": "60.19 USD", "event_time": "2017-02-11T16:59:34.557Z", "verb": "NEW", "key": "cc00a26cc9e1", "customer_id": "3180d090bc96", "type": "ORDER"}
+{"last_name": "Odonnell", "event_time": "2017-02-15T16:59:34.589Z", "verb": "NEW", "key": "4b6bf961d1bf", "adr_state": "VI", "adr_city": "West Joseph", "type": "CUSTOMER"}
+{"event_time": "2017-02-10T16:59:34.606Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "78d3a7f05aa0", "customer_id": "4b6bf961d1bf", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-10T16:59:34.638Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "57141f851fb1", "customer_id": "4b6bf961d1bf", "type": "IMAGE"}
+{"total_amount": "57.97 USD", "event_time": "2017-02-18T16:59:34.670Z", "verb": "NEW", "key": "99a6aa344f97", "customer_id": "4b6bf961d1bf", "type": "ORDER"}
+{"last_name": "Odonnell", "event_time": "2017-02-15T16:59:34.589Z", "verb": "NEW", "key": "4b6bf961d1bf", "adr_state": "VI", "adr_city": "West Joseph", "type": "CUSTOMER"}
+{"event_time": "2017-02-23T16:59:34.685Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "bbcd62c8f6c9", "customer_id": "4b6bf961d1bf", "type": "SITE_VISIT"}
+{"camera_make": "Olympus", "event_time": "2017-02-24T16:59:34.720Z", "camera_model": "FE-45", "verb": "UPLOAD", "key": "ba2fc1eccf12", "customer_id": "4b6bf961d1bf", "type": "IMAGE"}
+{"total_amount": "35.47 USD", "event_time": "2017-02-24T16:59:34.750Z", "verb": "NEW", "key": "f6f5b7383b73", "customer_id": "4b6bf961d1bf", "type": "ORDER"}
+{"last_name": "Mccullough", "event_time": "2017-02-18T16:59:34.783Z", "verb": "NEW", "key": "13103fcfb98c", "adr_state": "ME", "adr_city": "New Richardbury", "type": "CUSTOMER"}
+{"event_time": "2017-02-24T16:59:34.797Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "6750f38b58b1", "customer_id": "13103fcfb98c", "type": "SITE_VISIT"}
+{"camera_make": "Canon", "event_time": "2017-02-20T16:59:34.830Z", "camera_model": "EOS 6D", "verb": "UPLOAD", "key": "047a6d2221e7", "customer_id": "13103fcfb98c", "type": "IMAGE"}
+{"total_amount": "34.09 USD", "event_time": "2017-02-18T16:59:34.861Z", "verb": "NEW", "key": "7b44e7bb7369", "customer_id": "13103fcfb98c", "type": "ORDER"}
+{"last_name": "Rivera", "event_time": "2017-02-24T16:59:34.890Z", "verb": "NEW", "key": "b033af15661d", "adr_state": "MT", "adr_city": "New Jillianfurt", "type": "CUSTOMER"}
+{"event_time": "2017-02-16T16:59:34.904Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "1e2f0837527a", "customer_id": "b033af15661d", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-14T16:59:34.931Z", "camera_model": "D90", "verb": "UPLOAD", "key": "d528f92bb4cb", "customer_id": "b033af15661d", "type": "IMAGE"}
+{"total_amount": "97.61 USD", "event_time": "2017-02-12T16:59:34.967Z", "verb": "NEW", "key": "83c0925d2c77", "customer_id": "b033af15661d", "type": "ORDER"}
+{"last_name": "Rivera", "event_time": "2017-02-24T16:59:34.890Z", "verb": "NEW", "key": "b033af15661d", "adr_state": "MT", "adr_city": "New Jillianfurt", "type": "CUSTOMER"}
+{"event_time": "2017-02-14T16:59:34.984Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "659e78368c3d", "customer_id": "b033af15661d", "type": "SITE_VISIT"}
+{"camera_make": "Sony", "event_time": "2017-02-17T16:59:35.019Z", "camera_model": "Alpha QX1", "verb": "UPLOAD", "key": "45fe9a2557ac", "customer_id": "b033af15661d", "type": "IMAGE"}
+{"total_amount": "18.62 USD", "event_time": "2017-02-13T16:59:35.052Z", "verb": "NEW", "key": "e5fc91d5ec61", "customer_id": "b033af15661d", "type": "ORDER"}
+{"last_name": "Rivera", "event_time": "2017-02-24T16:59:34.890Z", "verb": "NEW", "key": "b033af15661d", "adr_state": "MT", "adr_city": "New Jillianfurt", "type": "CUSTOMER"}
+{"event_time": "2017-02-17T16:59:35.067Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "63963fae863d", "customer_id": "b033af15661d", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-18T16:59:35.107Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "8f95b4582de1", "customer_id": "b033af15661d", "type": "IMAGE"}
+{"total_amount": "91.57 USD", "event_time": "2017-02-21T16:59:35.137Z", "verb": "NEW", "key": "2a990d57ba56", "customer_id": "b033af15661d", "type": "ORDER"}
+{"last_name": "Rivera", "event_time": "2017-02-24T16:59:34.890Z", "verb": "NEW", "key": "b033af15661d", "adr_state": "MT", "adr_city": "New Jillianfurt", "type": "CUSTOMER"}
+{"event_time": "2017-02-16T16:59:35.153Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "a1d1c79c9cea", "customer_id": "b033af15661d", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-23T16:59:35.183Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "c411fdb31d3d", "customer_id": "b033af15661d", "type": "IMAGE"}
+{"total_amount": "57.54 USD", "event_time": "2017-02-22T16:59:35.218Z", "verb": "NEW", "key": "5d0de73604b4", "customer_id": "b033af15661d", "type": "ORDER"}
+{"last_name": "Rivera", "event_time": "2017-02-24T16:59:34.890Z", "verb": "NEW", "key": "b033af15661d", "adr_state": "MT", "adr_city": "New Jillianfurt", "type": "CUSTOMER"}
+{"event_time": "2017-02-10T16:59:35.234Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "e6188b2c57da", "customer_id": "b033af15661d", "type": "SITE_VISIT"}
+{"camera_make": "Canon", "event_time": "2017-02-10T16:59:35.266Z", "camera_model": "EOS 80D", "verb": "UPLOAD", "key": "5f26b4b74202", "customer_id": "b033af15661d", "type": "IMAGE"}
+{"total_amount": "22.22 USD", "event_time": "2017-02-21T16:59:35.299Z", "verb": "NEW", "key": "9da9d745f339", "customer_id": "b033af15661d", "type": "ORDER"}
+{"last_name": "Brooks", "event_time": "2017-02-16T16:59:35.335Z", "verb": "NEW", "key": "c670daa7e51c", "adr_state": "KS", "adr_city": "Charlesside", "type": "CUSTOMER"}
+{"event_time": "2017-02-18T16:59:35.351Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "cd46cb8b1cdf", "customer_id": "c670daa7e51c", "type": "SITE_VISIT"}
+{"camera_make": "Olympus", "event_time": "2017-02-23T16:59:35.383Z", "camera_model": "XZ-1", "verb": "UPLOAD", "key": "c02f6aaa0c9d", "customer_id": "c670daa7e51c", "type": "IMAGE"}
+{"total_amount": "64.63 USD", "event_time": "2017-02-22T16:59:35.413Z", "verb": "NEW", "key": "025f14041a6f", "customer_id": "c670daa7e51c", "type": "ORDER"}
+{"last_name": "Brooks", "event_time": "2017-02-16T16:59:35.335Z", "verb": "NEW", "key": "c670daa7e51c", "adr_state": "KS", "adr_city": "Charlesside", "type": "CUSTOMER"}
+{"event_time": "2017-02-21T16:59:35.427Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "ceab9113b602", "customer_id": "c670daa7e51c", "type": "SITE_VISIT"}
+{"camera_make": "Canon", "event_time": "2017-02-16T16:59:35.460Z", "camera_model": "EOS 80D", "verb": "UPLOAD", "key": "fa337cd0f5a7", "customer_id": "c670daa7e51c", "type": "IMAGE"}
+{"total_amount": "44.88 USD", "event_time": "2017-02-15T16:59:35.494Z", "verb": "NEW", "key": "d639976121ce", "customer_id": "c670daa7e51c", "type": "ORDER"}
+{"last_name": "Brooks", "event_time": "2017-02-16T16:59:35.335Z", "verb": "NEW", "key": "c670daa7e51c", "adr_state": "KS", "adr_city": "Charlesside", "type": "CUSTOMER"}
+{"event_time": "2017-02-22T16:59:35.514Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "4649d5f70f8a", "customer_id": "c670daa7e51c", "type": "SITE_VISIT"}
+{"camera_make": "Pentax", "event_time": "2017-02-24T16:59:35.552Z", "camera_model": "KP", "verb": "UPLOAD", "key": "3ca548314fed", "customer_id": "c670daa7e51c", "type": "IMAGE"}
+{"total_amount": "62.36 USD", "event_time": "2017-02-21T16:59:35.583Z", "verb": "NEW", "key": "f988830f2aa1", "customer_id": "c670daa7e51c", "type": "ORDER"}
+{"last_name": "Brooks", "event_time": "2017-02-16T16:59:35.335Z", "verb": "NEW", "key": "c670daa7e51c", "adr_state": "KS", "adr_city": "Charlesside", "type": "CUSTOMER"}
+{"event_time": "2017-02-13T16:59:35.597Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "0f0e2ec04090", "customer_id": "c670daa7e51c", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-23T16:59:35.630Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "67301017d262", "customer_id": "c670daa7e51c", "type": "IMAGE"}
+{"total_amount": "95.94 USD", "event_time": "2017-02-22T16:59:35.662Z", "verb": "NEW", "key": "658a2a15056f", "customer_id": "c670daa7e51c", "type": "ORDER"}
+{"last_name": "Brooks", "event_time": "2017-02-16T16:59:35.335Z", "verb": "NEW", "key": "c670daa7e51c", "adr_state": "KS", "adr_city": "Charlesside", "type": "CUSTOMER"}
+{"event_time": "2017-02-15T16:59:35.681Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "57e99bfffa9e", "customer_id": "c670daa7e51c", "type": "SITE_VISIT"}
+{"camera_make": "Sony", "event_time": "2017-02-16T16:59:35.710Z", "camera_model": "Alpha QX1", "verb": "UPLOAD", "key": "c49dc5bbe702", "customer_id": "c670daa7e51c", "type": "IMAGE"}
+{"total_amount": "93.98 USD", "event_time": "2017-02-16T16:59:35.744Z", "verb": "NEW", "key": "bd07f4b7e548", "customer_id": "c670daa7e51c", "type": "ORDER"}
+{"last_name": "Garcia", "event_time": "2017-02-18T16:59:35.775Z", "verb": "NEW", "key": "5abd3a376bbf", "adr_state": "CO", "adr_city": "West Nicoleberg", "type": "CUSTOMER"}
+{"event_time": "2017-02-23T16:59:35.793Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "d46679f0dc21", "customer_id": "5abd3a376bbf", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-24T16:59:35.822Z", "camera_model": "Coolpix A10", "verb": "UPLOAD", "key": "c8d5da2d5045", "customer_id": "5abd3a376bbf", "type": "IMAGE"}
+{"total_amount": "86.48 USD", "event_time": "2017-02-24T16:59:35.850Z", "verb": "NEW", "key": "b79f3330a974", "customer_id": "5abd3a376bbf", "type": "ORDER"}
+{"last_name": "Robinson", "event_time": "2017-02-10T16:59:35.886Z", "verb": "NEW", "key": "6bf395627851", "adr_state": "VA", "adr_city": "West Williamport", "type": "CUSTOMER"}
+{"event_time": "2017-02-12T16:59:35.901Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "b4112241c83f", "customer_id": "6bf395627851", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-15T16:59:35.931Z", "camera_model": "D90", "verb": "UPLOAD", "key": "04a14ec811cc", "customer_id": "6bf395627851", "type": "IMAGE"}
+{"total_amount": "85.58 USD", "event_time": "2017-02-23T16:59:35.965Z", "verb": "NEW", "key": "7cb686af3f7a", "customer_id": "6bf395627851", "type": "ORDER"}
+{"last_name": "Robinson", "event_time": "2017-02-10T16:59:35.886Z", "verb": "NEW", "key": "6bf395627851", "adr_state": "VA", "adr_city": "West Williamport", "type": "CUSTOMER"}
+{"event_time": "2017-02-18T16:59:35.980Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "19018529a469", "customer_id": "6bf395627851", "type": "SITE_VISIT"}
+{"camera_make": "Pentax", "event_time": "2017-02-20T16:59:36.018Z", "camera_model": "X90", "verb": "UPLOAD", "key": "1c2f1242960b", "customer_id": "6bf395627851", "type": "IMAGE"}
+{"total_amount": "17.88 USD", "event_time": "2017-02-13T16:59:36.051Z", "verb": "NEW", "key": "4084a575fc16", "customer_id": "6bf395627851", "type": "ORDER"}
+{"last_name": "Reed", "event_time": "2017-02-15T16:59:36.082Z", "verb": "NEW", "key": "49d83da3b094", "adr_state": "PA", "adr_city": "North Mikayla", "type": "CUSTOMER"}
+{"event_time": "2017-02-20T16:59:36.101Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "2f37238d3620", "customer_id": "49d83da3b094", "type": "SITE_VISIT"}
+{"camera_make": "Fujifilm", "event_time": "2017-02-18T16:59:36.135Z", "camera_model": "X100F", "verb": "UPLOAD", "key": "092dd0fd8950", "customer_id": "49d83da3b094", "type": "IMAGE"}
+{"total_amount": "9.98 USD", "event_time": "2017-02-17T16:59:36.163Z", "verb": "NEW", "key": "3fff1de9e093", "customer_id": "49d83da3b094", "type": "ORDER"}
+{"last_name": "Reed", "event_time": "2017-02-15T16:59:36.082Z", "verb": "NEW", "key": "49d83da3b094", "adr_state": "PA", "adr_city": "North Mikayla", "type": "CUSTOMER"}
+{"event_time": "2017-02-21T16:59:36.178Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "af86a0a0f7b0", "customer_id": "49d83da3b094", "type": "SITE_VISIT"}
+{"camera_make": "Sony", "event_time": "2017-02-21T16:59:36.211Z", "camera_model": "Alpha QX1", "verb": "UPLOAD", "key": "8526261b1a7e", "customer_id": "49d83da3b094", "type": "IMAGE"}
+{"total_amount": "61.41 USD", "event_time": "2017-02-24T16:59:36.242Z", "verb": "NEW", "key": "64c52dc5a5d3", "customer_id": "49d83da3b094", "type": "ORDER"}
+{"last_name": "Reed", "event_time": "2017-02-15T16:59:36.082Z", "verb": "NEW", "key": "49d83da3b094", "adr_state": "PA", "adr_city": "North Mikayla", "type": "CUSTOMER"}
+{"event_time": "2017-02-23T16:59:36.258Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "ae9dcbcd1328", "customer_id": "49d83da3b094", "type": "SITE_VISIT"}
+{"camera_make": "Sony", "event_time": "2017-02-10T16:59:36.288Z", "camera_model": "Alpha QX1", "verb": "UPLOAD", "key": "f7935e91154c", "customer_id": "49d83da3b094", "type": "IMAGE"}
+{"total_amount": "14.74 USD", "event_time": "2017-02-14T16:59:36.324Z", "verb": "NEW", "key": "a300a8355fb3", "customer_id": "49d83da3b094", "type": "ORDER"}
+{"last_name": "Reed", "event_time": "2017-02-15T16:59:36.082Z", "verb": "NEW", "key": "49d83da3b094", "adr_state": "PA", "adr_city": "North Mikayla", "type": "CUSTOMER"}
+{"event_time": "2017-02-19T16:59:36.339Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "1ea9687d358e", "customer_id": "49d83da3b094", "type": "SITE_VISIT"}
+{"camera_make": "Canon", "event_time": "2017-02-21T16:59:36.369Z", "camera_model": "EOS 80D", "verb": "UPLOAD", "key": "fba075aab08f", "customer_id": "49d83da3b094", "type": "IMAGE"}
+{"total_amount": "74.40 USD", "event_time": "2017-02-21T16:59:36.398Z", "verb": "NEW", "key": "abbf6d1f9120", "customer_id": "49d83da3b094", "type": "ORDER"}
+{"last_name": "Baldwin", "event_time": "2017-02-24T16:59:36.433Z", "verb": "NEW", "key": "8497a109a263", "adr_state": "SD", "adr_city": "Brownton", "type": "CUSTOMER"}
+{"event_time": "2017-02-13T16:59:36.450Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "28c0e7a88202", "customer_id": "8497a109a263", "type": "SITE_VISIT"}
+{"camera_make": "Sony", "event_time": "2017-02-13T16:59:36.481Z", "camera_model": "SLT-A33", "verb": "UPLOAD", "key": "cda5cb23b3df", "customer_id": "8497a109a263", "type": "IMAGE"}
+{"total_amount": "5.37 USD", "event_time": "2017-02-17T16:59:36.513Z", "verb": "NEW", "key": "214aa56452e8", "customer_id": "8497a109a263", "type": "ORDER"}
+{"last_name": "Baldwin", "event_time": "2017-02-24T16:59:36.433Z", "verb": "NEW", "key": "8497a109a263", "adr_state": "SD", "adr_city": "Brownton", "type": "CUSTOMER"}
+{"event_time": "2017-02-20T16:59:36.535Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "a0fb0ec86b75", "customer_id": "8497a109a263", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-22T16:59:36.564Z", "camera_model": "EasyShare Z981", "verb": "UPLOAD", "key": "bcc07ce40cc7", "customer_id": "8497a109a263", "type": "IMAGE"}
+{"total_amount": "57.96 USD", "event_time": "2017-02-18T16:59:36.595Z", "verb": "NEW", "key": "e37c9e0d2a78", "customer_id": "8497a109a263", "type": "ORDER"}
+{"last_name": "Irwin", "event_time": "2017-02-17T16:59:36.631Z", "verb": "NEW", "key": "080a257c1f0e", "adr_state": "DC", "adr_city": "North Jackson", "type": "CUSTOMER"}
+{"event_time": "2017-02-18T16:59:36.646Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "b0246e05981c", "customer_id": "080a257c1f0e", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-21T16:59:36.688Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "07da6693e65c", "customer_id": "080a257c1f0e", "type": "IMAGE"}
+{"total_amount": "48.99 USD", "event_time": "2017-02-24T16:59:36.718Z", "verb": "NEW", "key": "4c80d350fdbe", "customer_id": "080a257c1f0e", "type": "ORDER"}
+{"last_name": "Irwin", "event_time": "2017-02-17T16:59:36.631Z", "verb": "NEW", "key": "080a257c1f0e", "adr_state": "DC", "adr_city": "North Jackson", "type": "CUSTOMER"}
+{"event_time": "2017-02-20T16:59:36.735Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "b4ea66a599a4", "customer_id": "080a257c1f0e", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-10T16:59:36.767Z", "camera_model": "EasyShare Z981", "verb": "UPLOAD", "key": "943bd8b26dad", "customer_id": "080a257c1f0e", "type": "IMAGE"}
+{"total_amount": "12.43 USD", "event_time": "2017-02-20T16:59:36.798Z", "verb": "NEW", "key": "8dd7f8a7feb0", "customer_id": "080a257c1f0e", "type": "ORDER"}
+{"last_name": "Irwin", "event_time": "2017-02-17T16:59:36.631Z", "verb": "NEW", "key": "080a257c1f0e", "adr_state": "DC", "adr_city": "North Jackson", "type": "CUSTOMER"}
+{"event_time": "2017-02-11T16:59:36.814Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "b9ec4c0292e4", "customer_id": "080a257c1f0e", "type": "SITE_VISIT"}
+{"camera_make": "Pentax", "event_time": "2017-02-20T16:59:36.846Z", "camera_model": "X90", "verb": "UPLOAD", "key": "3e3990b389d9", "customer_id": "080a257c1f0e", "type": "IMAGE"}
+{"total_amount": "40.64 USD", "event_time": "2017-02-21T16:59:36.876Z", "verb": "NEW", "key": "28da6b3604e6", "customer_id": "080a257c1f0e", "type": "ORDER"}
+{"last_name": "Irwin", "event_time": "2017-02-17T16:59:36.631Z", "verb": "NEW", "key": "080a257c1f0e", "adr_state": "DC", "adr_city": "North Jackson", "type": "CUSTOMER"}
+{"event_time": "2017-02-22T16:59:36.890Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "80f78c972a8c", "customer_id": "080a257c1f0e", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-24T16:59:36.924Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "29fe0bf283c8", "customer_id": "080a257c1f0e", "type": "IMAGE"}
+{"total_amount": "84.63 USD", "event_time": "2017-02-22T16:59:36.958Z", "verb": "NEW", "key": "40edca631a6a", "customer_id": "080a257c1f0e", "type": "ORDER"}
+{"last_name": "Williams", "event_time": "2017-02-22T16:59:36.988Z", "verb": "NEW", "key": "0cb3f4bdb94b", "adr_state": "OR", "adr_city": "Pottsport", "type": "CUSTOMER"}
+{"event_time": "2017-02-18T16:59:37.008Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "bdb6fdc65017", "customer_id": "0cb3f4bdb94b", "type": "SITE_VISIT"}
+{"camera_make": "Fujifilm", "event_time": "2017-02-15T16:59:37.041Z", "camera_model": "FinePix A150", "verb": "UPLOAD", "key": "91fa089ff8c3", "customer_id": "0cb3f4bdb94b", "type": "IMAGE"}
+{"total_amount": "29.36 USD", "event_time": "2017-02-19T16:59:37.071Z", "verb": "NEW", "key": "3d58f3001224", "customer_id": "0cb3f4bdb94b", "type": "ORDER"}
+{"last_name": "Rogers", "event_time": "2017-02-19T16:59:37.107Z", "verb": "NEW", "key": "fae8565869b1", "adr_state": "PW", "adr_city": "Yoderland", "type": "CUSTOMER"}
+{"event_time": "2017-02-13T16:59:37.123Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "afeef11034c4", "customer_id": "fae8565869b1", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-15T16:59:37.160Z", "camera_model": "EasyShare Z981", "verb": "UPLOAD", "key": "b998cdf0e450", "customer_id": "fae8565869b1", "type": "IMAGE"}
+{"total_amount": "68.34 USD", "event_time": "2017-02-24T16:59:37.193Z", "verb": "NEW", "key": "f21e209aff24", "customer_id": "fae8565869b1", "type": "ORDER"}
+{"last_name": "Schmitt", "event_time": "2017-02-21T16:59:37.225Z", "verb": "NEW", "key": "77be30f4d2b2", "adr_state": "VI", "adr_city": "Tinashire", "type": "CUSTOMER"}
+{"event_time": "2017-02-14T16:59:37.240Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "600ecaf42c31", "customer_id": "77be30f4d2b2", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-14T16:59:37.275Z", "camera_model": "EasyShare Z981", "verb": "UPLOAD", "key": "902df7a52c3f", "customer_id": "77be30f4d2b2", "type": "IMAGE"}
+{"total_amount": "11.60 USD", "event_time": "2017-02-23T16:59:37.309Z", "verb": "NEW", "key": "5763bc8ec50c", "customer_id": "77be30f4d2b2", "type": "ORDER"}
+{"last_name": "Schmitt", "event_time": "2017-02-21T16:59:37.225Z", "verb": "NEW", "key": "77be30f4d2b2", "adr_state": "VI", "adr_city": "Tinashire", "type": "CUSTOMER"}
+{"event_time": "2017-02-23T16:59:37.328Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "d8aa6e20dfe4", "customer_id": "77be30f4d2b2", "type": "SITE_VISIT"}
+{"camera_make": "Kodak", "event_time": "2017-02-23T16:59:37.360Z", "camera_model": "Pixipro S-1", "verb": "UPLOAD", "key": "31135c8cde4a", "customer_id": "77be30f4d2b2", "type": "IMAGE"}
+{"total_amount": "3.16 USD", "event_time": "2017-02-17T16:59:37.393Z", "verb": "NEW", "key": "14d18461a239", "customer_id": "77be30f4d2b2", "type": "ORDER"}
+{"last_name": "Schmitt", "event_time": "2017-02-21T16:59:37.225Z", "verb": "NEW", "key": "77be30f4d2b2", "adr_state": "VI", "adr_city": "Tinashire", "type": "CUSTOMER"}
+{"event_time": "2017-02-19T16:59:37.410Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "ca22f2e9cfa6", "customer_id": "77be30f4d2b2", "type": "SITE_VISIT"}
+{"camera_make": "Nikon", "event_time": "2017-02-13T16:59:37.441Z", "camera_model": "D90", "verb": "UPLOAD", "key": "474c743eb512", "customer_id": "77be30f4d2b2", "type": "IMAGE"}
+{"total_amount": "52.38 USD", "event_time": "2017-02-23T16:59:37.476Z", "verb": "NEW", "key": "4dae92871430", "customer_id": "77be30f4d2b2", "type": "ORDER"}
+{"last_name": "Schmitt", "event_time": "2017-02-21T16:59:37.225Z", "verb": "NEW", "key": "77be30f4d2b2", "adr_state": "VI", "adr_city": "Tinashire", "type": "CUSTOMER"}
+{"event_time": "2017-02-17T16:59:37.491Z", "tags": {"some key": "some value"}, "verb": "NEW", "key": "d7772c499200", "customer_id": "77be30f4d2b2", "type": "SITE_VISIT"}
+{"camera_make": "Fujifilm", "event_time": "2017-02-20T16:59:37.522Z", "camera_model": "X100F", "verb": "UPLOAD", "key": "d652642e4797", "customer_id": "77be30f4d2b2", "type": "IMAGE"}
+{"total_amount": "78.86 USD", "event_time": "2017-02-21T16:59:37.553Z", "verb": "NEW", "key": "e26f7e091025", "customer_id": "77be30f4d2b2", "type": "ORDER"}
