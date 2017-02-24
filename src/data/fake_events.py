@@ -22,6 +22,7 @@ def fake_event_time(days=0):
 def fake_key(n=12):
     faker = Factory.create()
     key = ''.join(faker.uuid4().split('-'))[:n]
+    return key
 
 def fake_amount(max_dollars=100.0):
     amount = "%.2f" %(random.uniform(0.1,max_dollars))
