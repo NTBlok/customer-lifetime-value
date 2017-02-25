@@ -1,4 +1,4 @@
-from methods_pyspark_etl.methods_pyspark_etl import *
+from methods_pyspark_etl import *
 
 def test_json_strings_dump_to_dict():
     event_tuple = (0,
