@@ -1,4 +1,5 @@
-from pyspark import SparkContext
+# This is a Spark-specific module and will need to be tested on a running Spark container
+#from pyspark import SparkContext
 import json
 from datetime import datetime, timedelta
 
@@ -14,7 +15,7 @@ def customer_key_to_id(line):
         customer_id = event['customer_id']
     return customer_id
 
-    
+
 def sort_events_by_datetime(events_list):
     time_event_tuples = [(json.loads(event)['event_time'],event) for event in events_list]
     time_event_tuples.sort()
@@ -48,12 +49,12 @@ def week_start_end(week_range):
                         fmt="%Y-%m-%d")
         end = dt_var_to_str(str_to_dt_var(start,fmt="%Y-%m-%d")+timedelta(days=6),
                         fmt="%Y-%m-%d")
-        list_of_week_start_end.append((start,end))    
+        list_of_week_start_end.append((start,end))
     return list_of_week_start_end
 
 def week_is_number(date,list_of_week_start_end):
     dt_var = str_to_dt_var(date,fmt="%Y-%m-%d")
-    week_number = [i for i in range(len(list_of_week_start_end)) 
+    week_number = [i for i in range(len(list_of_week_start_end))
                    if dt_var >= str_to_dt_var(list_of_week_start_end[i][0],fmt="%Y-%m-%d")
                      and dt_var <= str_to_dt_var(list_of_week_start_end[i][1],fmt="%Y-%m-%d")][0]
     return week_number
@@ -80,7 +81,7 @@ def sessionize_datetime_data(session_data,minute_window=30,
     session_numbers = [n]
     if initial_day != 'Sunday':
         initial_dt_var = str_to_dt_var(initial_date,fmt="%Y-%m-%d")-timedelta(days=week_def[initial_day]-1)
-        week_range[0] = dt_var_to_str(initial_dt_var,fmt="%Y-%m-%d")                           
+        week_range[0] = dt_var_to_str(initial_dt_var,fmt="%Y-%m-%d")
     list_of_week_start_end = week_start_end(week_range)
     for i in range(1,len(session_data)):
         session_dict = dict(zip(hdr,session_data[i][0]))
@@ -89,7 +90,7 @@ def sessionize_datetime_data(session_data,minute_window=30,
             session_numbers.append(n)
         else:
             n += 1
-            session_numbers.append(n)            
+            session_numbers.append(n)
         date = session_dict['date']
         week_number = week_is_number(date,list_of_week_start_end)
         week_numbers.append(week_number)
@@ -97,8 +98,8 @@ def sessionize_datetime_data(session_data,minute_window=30,
     return week_numbers,session_numbers
 
 
-    
-    
+
+
 
 def sessionize(time_event_tuples):
     session_data = []
@@ -117,7 +118,7 @@ def sessionize(time_event_tuples):
         seconds_since_prior_t = tdelta.seconds + tdelta.days * 86400.0
         minutes_since_prior_t = seconds_since_prior_t / 60.0
         session_data.append(([dt,d,t,prior_t,minutes_since_prior_t],event))
-    
+
     week_numbers,session_numbers = sessionize_datetime_data(session_data)
     events = [session_events[1] for session_events in session_data]
     return [zip(week_numbers,session_numbers,events)]
@@ -155,11 +156,10 @@ def toCSV(data):
 
 
 
-from pyspark.sql import SQLContext
-sqlContext = SQLContext(sc)
-
-
-from operator import add
+# These are Spark-specific modules and will need to be tested on a running Spark container
+#from pyspark.sql import SQLContext
+#sqlContext = SQLContext(sc)
+#from operator import add
 
 
 query_visit_amounts = """select _1 as customer_id,
@@ -194,6 +194,3 @@ query_t3 = """select customer_id,
                                 from t3
                                 group by customer_id
                         """
-
-
-
