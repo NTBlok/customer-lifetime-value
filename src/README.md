@@ -1,6 +1,6 @@
-### PySpark ETL for Metrics Surrounding Customer Lifetime Value
+## PySpark ETL for Metrics Surrounding Customer Lifetime Value
 
-The present `/src` directory includes a data directory that contains python files to create fake data similar to that in the sample_input directory above.  The python module Faker==0.7.7 was used to create fake data as describe in the file `data/fake_events.py`.  The file data/run_fake_events.py creates a random amount within specified limits of fake events.  Global variable `DAYS=14`,  `N_CUSTOMERS=50`, and `MAX_EVENTS=5`.  To keep the data manageable, the timespan time-frame over which the fake events where generated was limited to the most recent 2-3 weeks, max events per customer were set randomly between 1 to 5, and the maximum number of customers in the fake event population were 50.
+The present `/src` directory includes a data directory that contains python files to create fake data similar to that in the sample_input directory above.  The python module `Faker==0.7.7` was used to create fake data as describe in the file `data/fake_events.py`.  The file data/run_fake_events.py creates a random amount within specified limits of fake events.  Global variable `DAYS=14`,  `N_CUSTOMERS=50`, and `MAX_EVENTS=5`.  To keep the data manageable, the timespan time-frame over which the fake events where generated was limited to the most recent 2-3 weeks, max events per customer were set randomly between 1 to 5, and the maximum number of customers in the fake event population were 50.
 To generate the data the following command was run:
 
     $ python data/run_fake_events.py
