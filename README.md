@@ -1,10 +1,13 @@
 ## PySpark example
-### ETL for Metrics Surrounding Customer Lifetime Value from Photo Sharing Events Data
+### ETL for Metrics Surrounding Customer Lifetime Value from Photo Sharing Event Data
 
-The present `/src` directory includes a data directory that contains python files to create fake event data.  The python module `Faker==0.7.7` was used to create fake data as describe in the file `/src/data/fake_events.py`.  The file `/src/data/run_fake_events.py` creates a random amount within specified limits of fake events.  Global variable `DAYS=14`,  `N_CUSTOMERS=50`, and `MAX_EVENTS=5`.  To keep the data manageable, the timespan time-frame over which the fake events where generated was limited to the most recent 2-3 weeks, max events per customer were set randomly between 1 to 5, and the maximum number of customers in the fake event population were 50. The fake event data is populated to `/input/input.txt`.
+The present `/src` directory includes a data directory that contains python files to create fake event data.  The python module `Faker==0.7.7` was used to create fake data as describe in the file `/src/data/fake_events.py`.  The file `/src/data/run_fake_events.py` creates a random amount within specified limits of fake events.  Global variable `DAYS=14`,  `N_CUSTOMERS=50`, and `MAX_EVENTS=5` were implemented to keep the data manageable.  The timespan over which the fake events where generated was limited to the most recent 14 days (where an event date may end up being given a week numbers from 0 to 2 depending on the definition of a week), max events per customer were set randomly between 1 to 5, and the maximum number of customers in the fake event population were 50. The fake event data was populated as json strings to the text file at `/input/input.txt`.
 To generate the data the following command was run from the `/src` directory:
 
     $ python data/run_fake_events.py
+
+The figure below depicts the event data generation.
+<img src="./images/event-data.png">
 
 All PySpark ETL was conducted inside an ipython Jupyter notebook running inside the `jupyter/pyspark-notebook` Docker container previously created and found on DockerHub at `https://hub.docker.com/r/jupyter/pyspark-notebook`
 
