@@ -1,0 +1,1 @@
+customer_id,week_id,visits_per_wk,amount_per_wk,amount_per_visit

@@ -1,0 +1,1 @@
+customer_id,week_id,visit_id,isOrderType,amount
