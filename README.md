@@ -7,7 +7,7 @@ To generate the data the following command was run from the `/src` directory:
     $ python data/run_fake_events.py
 
 The figure below depicts the event data generation.
-<img src="./images/event-data.png" height=90%, width=90%>
+<img src="./images/event-data.png" height=70%, width=70%>
 
 All PySpark ETL was conducted inside an ipython Jupyter notebook running inside the `jupyter/pyspark-notebook` Docker container previously created and found on DockerHub at `https://hub.docker.com/r/jupyter/pyspark-notebook`
 
